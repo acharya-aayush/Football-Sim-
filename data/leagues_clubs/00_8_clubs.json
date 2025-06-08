@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01_139",
+    "name": "Hamburger SV",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_140",
+    "name": "Hannover 96",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_141",
+    "name": "Hertha BSC",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_142",
+    "name": "Fortuna Düsseldorf",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_143",
+    "name": "SC Paderborn 07",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_144",
+    "name": "Holstein Kiel",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_145",
+    "name": "1. FC Nürnberg",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_146",
+    "name": "1. FC Magdeburg",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_147",
+    "name": "Karlsruher SC",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_148",
+    "name": "SpVgg Greuther Fürth",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_149",
+    "name": "FC Schalke 04",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_150",
+    "name": "SV Wehen Wiesbaden",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_151",
+    "name": "VfL Osnabrück",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_152",
+    "name": "SV Elversberg",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_153",
+    "name": "FC St. Pauli",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_154",
+    "name": "1. FC Kaiserslautern",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_155",
+    "name": "Eintracht Braunschweig",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  },
+  {
+    "id": "01_156",
+    "name": "Hansa Rostock",
+    "country_code": "DEU",
+    "league_id": "00_8"
+  }
+]

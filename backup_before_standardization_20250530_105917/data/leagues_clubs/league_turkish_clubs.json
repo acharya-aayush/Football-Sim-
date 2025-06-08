@@ -1,0 +1,21 @@
+[
+  { "id": "club_adana", "name": "Adana Demirspor", "stadium": {"name":"New Adana Stadium","city":"Adana","country":"Turkey","capacity":30960}, "financials": {}, "history": {} },
+  { "id": "club_alanya", "name": "Alanyaspor", "stadium": {"name":"Alanya Oba Stadium","city":"Alanya","country":"Turkey","capacity":9789}, "financials": {}, "history": {} },
+  { "id": "club_antalya", "name": "Antalyaspor", "stadium": {"name":"Corendon Airlines Park","city":"Antalya","country":"Turkey","capacity":29307}, "financials": {}, "history": {} },
+  { "id": "club_basaksehir", "name": "İstanbul Başakşehir", "stadium": {"name":"Başakşehir Fatih Terim Stadium","city":"Istanbul","country":"Turkey","capacity":17156}, "financials": {}, "history": {} },
+  { "id": "club_besiktas", "name": "Beşiktaş", "stadium": {"name":"Tüpraş Stadium","city":"Istanbul","country":"Turkey","capacity":42445}, "financials": {}, "history": {} },
+  { "id": "club_bodrum", "name": "Bodrumspor", "stadium": {"name":"Bodrum District Stadium","city":"Bodrum","country":"Turkey","capacity":3925}, "financials": {}, "history": {} },
+  { "id": "club_eyupspor", "name": "Eyüpspor", "stadium": {"name":"Recep Tayyip Erdoğan Stadium","city":"Istanbul","country":"Turkey","capacity":13797}, "financials": {}, "history": {} },
+  { "id": "club_fenerbahce", "name": "Fenerbahçe", "stadium": {"name":"Şükrü Saracoğlu Stadium","city":"Istanbul","country":"Turkey","capacity":47430}, "financials": {}, "history": {} },
+  { "id": "club_galatasaray", "name": "Galatasaray", "stadium": {"name":"Rams Park","city":"Istanbul","country":"Turkey","capacity":53978}, "financials": {}, "history": {} },
+  { "id": "club_gaziantep", "name": "Gaziantep FK", "stadium": {"name":"Gaziantep Stadium","city":"Gaziantep","country":"Turkey","capacity":30320}, "financials": {}, "history": {} },
+  { "id": "club_goztepe", "name": "Göztepe", "stadium": {"name":"Gürsel Aksel Stadium","city":"İzmir","country":"Turkey","capacity":19713}, "financials": {}, "history": {} },
+  { "id": "club_hatayspor", "name": "Hatayspor", "stadium": {"name":"Mersin Stadium","city":"Antakya","country":"Turkey","capacity":25000}, "financials": {}, "history": {} },
+  { "id": "club_kasimpasa", "name": "Kasımpaşa", "stadium": {"name":"Recep Tayyip Erdoğan Stadium","city":"Istanbul","country":"Turkey","capacity":13797}, "financials": {}, "history": {} },
+  { "id": "club_kayseri", "name": "Kayserispor", "stadium": {"name":"Kadir Has Stadium","city":"Kayseri","country":"Turkey","capacity":32000}, "financials": {}, "history": {} },
+  { "id": "club_konya", "name": "Konyaspor", "stadium": {"name":"Konya Metropolitan Municipality Stadium","city":"Konya","country":"Turkey","capacity":42000}, "financials": {}, "history": {} },
+  { "id": "club_rizespor", "name": "Çaykur Rizespor", "stadium": {"name":"Rize City Stadium","city":"Rize","country":"Turkey","capacity":15332}, "financials": {}, "history": {} },
+  { "id": "club_samsun", "name": "Samsunspor", "stadium": {"name":"Samsun 19 Mayıs Stadium","city":"Samsun","country":"Turkey","capacity":33919}, "financials": {}, "history": {} },
+  { "id": "club_sivas", "name": "Sivasspor", "stadium": {"name":"New Sivas 4 Eylül Stadium","city":"Sivas","country":"Turkey","capacity":27532}, "financials": {}, "history": {} },
+  { "id": "club_trabzonspor", "name": "Trabzonspor", "stadium": {"name":"Şenol Güneş Sports Complex","city":"Trabzon","country":"Turkey","capacity":41513}, "financials": {}, "history": {} }
+]

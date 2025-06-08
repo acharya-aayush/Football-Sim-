@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "club_atalanta",
+    "name": "Atalanta BC",
+    "nickname": "La Dea",
+    "established_year": 1907,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Gewiss Stadium",
+      "city": "Bergamo",
+      "country": "Italy",
+      "capacity": 24950
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 200000000,
+      "annual_expenses_approx": 180000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the UEFA Europa League in 2024",
+        "Consistent strong performances in Serie A and Europe"
+      ],
+      "legendary_player_names": [
+        "Cristiano Doni",
+        "Gianpaolo Bellini",
+        "Papu Gómez"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Gian Piero Gasperini",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-4-2-1"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 82,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_brescia"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_bologna",
+    "name": "Bologna FC 1909",
+    "nickname": "Rossoblù",
+    "established_year": 1909,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "country": "Italy",
+      "capacity": 36000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 900000,
+      "annual_revenue_approx": 90000000,
+      "annual_expenses_approx": 80000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 7,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Serie A multiple times historically"
+      ],
+      "legendary_player_names": [
+        "Giacomo Bulgarelli",
+        "Angelo Schiavio",
+        "Roberto Baggio"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Vincenzo Italiano",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_italiano_vincenzo",
+      "manager_name": "Vincenzo Italiano"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#CD212A",
+      "secondary": "#1A237E",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_fiorentina"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_cagliari",
+    "name": "Cagliari Calcio",
+    "nickname": "Rossoblù",
+    "established_year": 1920,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Unipol Domus",
+      "city": "Cagliari",
+      "country": "Italy",
+      "capacity": 16416
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Serie A in 1970"
+      ],
+      "legendary_player_names": [
+        "Gigi Riva",
+        "Gianfranco Zola"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Davide Nicola",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_nicola_davide",
+      "manager_name": "Davide Nicola"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#8B0000",
+      "secondary": "#000080",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_como",
+    "name": "Como 1907",
+    "nickname": "Lariani",
+    "established_year": 1907,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Giuseppe Sinigaglia",
+      "city": "Como",
+      "country": "Italy",
+      "capacity": 13602
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promoted to Serie A"
+      ],
+      "legendary_player_names": [
+        "Pietro Anastasi",
+        "Giancarlo Centi"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Cesc Fàbregas",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_fàbregas_cesc",
+      "manager_name": "Cesc Fàbregas"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 12,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    },
+    "colors": {
+      "primary": "#0055A4",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_empoli",
+    "name": "Empoli FC",
+    "nickname": "Azzurri",
+    "established_year": 1920,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Carlo Castellani",
+      "city": "Empoli",
+      "country": "Italy",
+      "capacity": 16284
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Known for developing young players"
+      ],
+      "legendary_player_names": [
+        "Antonio Di Natale",
+        "Francesco Tavano"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Roberto D'Aversa",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-1-2",
+      "manager_id": "mgr_d'aversa_roberto",
+      "manager_name": "Roberto D'Aversa"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#007ACD",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_fiorentina"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-1-2",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_fiorentina",
+    "name": "ACF Fiorentina",
+    "nickname": "La Viola",
+    "established_year": 1926,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "country": "Italy",
+      "capacity": 43147
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won Serie A twice",
+        "Won the UEFA Cup Winners' Cup in 1961"
+      ],
+      "legendary_player_names": [
+        "Gabriel Batistuta",
+        "Giancarlo Antognoni",
+        "Roberto Baggio"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Raffaele Palladino",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_palladino_raffaele",
+      "manager_name": "Raffaele Palladino"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#4A0082",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_juventus",
+      "club_bologna"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_genoa",
+    "name": "Genoa CFC",
+    "nickname": "Il Grifone",
+    "established_year": 1893,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "country": "Italy",
+      "capacity": 36599
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 65000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 9,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "One of the oldest football clubs in Italy",
+        "Won Serie A multiple times historically"
+      ],
+      "legendary_player_names": [
+        "Gianni Rivera",
+        "Diego Milito"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Patrick Vieira",
+      "nationality_code": "FRA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_vieira_patrick",
+      "manager_name": "Patrick Vieira"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 72,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#B22222",
+      "secondary": "#000080",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_sampdoria"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_hellas_verona",
+    "name": "Hellas Verona FC",
+    "nickname": "Gialloblù",
+    "established_year": 1903,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Marcantonio Bentegodi",
+      "city": "Verona",
+      "country": "Italy",
+      "capacity": 39211
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Serie A in 1985"
+      ],
+      "legendary_player_names": [
+        "Giuseppe Galderisi",
+        "Preben Elkjær"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Paolo Zanetti",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_zanetti_paolo",
+      "manager_name": "Paolo Zanetti"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#003399",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_chievo_verona"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_inter_milan",
+    "name": "FC Internazionale Milano",
+    "nickname": "Nerazzurri",
+    "established_year": 1908,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "San Siro",
+      "city": "Milan",
+      "country": "Italy",
+      "capacity": 75710
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 80000000,
+      "wage_budget_weekly_total": 3500000,
+      "annual_revenue_approx": 400000000,
+      "annual_expenses_approx": 350000000,
+      "sponsorship_value_annual": 50000000
+    },
+    "history": {
+      "league_titles_domestic": 20,
+      "domestic_cup_wins": 9,
+      "continental_cup_wins": 6,
+      "notable_achievements": [
+        "Multiple Serie A and Champions League winners",
+        "Won the treble in 2010"
+      ],
+      "legendary_player_names": [
+        "Giuseppe Meazza",
+        "Javier Zanetti",
+        "Ronaldo",
+        "Diego Milito"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Simone Inzaghi",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_inzaghi_simone",
+      "manager_name": "Simone Inzaghi"
+    },
+    "staff_quality": {
+      "coaching_attack": 18,
+      "coaching_defense": 18,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 92,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 85,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#000000",
+      "accent": "#0433FF"
+    },
+    "rival_club_ids": [
+      "club_ac_milan",
+      "club_juventus"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_juventus",
+    "name": "Juventus FC",
+    "nickname": "Bianconeri",
+    "established_year": 1897,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Allianz Stadium",
+      "city": "Turin",
+      "country": "Italy",
+      "capacity": 41507
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 100000000,
+      "wage_budget_weekly_total": 4000000,
+      "annual_revenue_approx": 500000000,
+      "annual_expenses_approx": 450000000,
+      "sponsorship_value_annual": 60000000
+    },
+    "history": {
+      "league_titles_domestic": 36,
+      "domestic_cup_wins": 15,
+      "continental_cup_wins": 8,
+      "notable_achievements": [
+        "Most Serie A titles",
+        "Multiple Champions League winners"
+      ],
+      "legendary_player_names": [
+        "Alessandro Del Piero",
+        "Gianluigi Buffon",
+        "Michel Platini",
+        "Cristiano Ronaldo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Thiago Motta",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_motta_thiago",
+      "manager_name": "Thiago Motta"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 18,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 95,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 87,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_inter_milan",
+      "club_ac_milan",
+      "club_torino"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_lazio",
+    "name": "SS Lazio",
+    "nickname": "Biancocelesti",
+    "established_year": 1900,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Olimpico",
+      "city": "Rome",
+      "country": "Italy",
+      "capacity": 70634
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 12000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 7,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won Serie A twice",
+        "Won the UEFA Cup Winners' Cup in 1999"
+      ],
+      "legendary_player_names": [
+        "Silvio Piola",
+        "Alessandro Nesta",
+        "Roberto Mancini",
+        "Ciro Immobile"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Marco Baroni",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_baroni_marco",
+      "manager_name": "Marco Baroni"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#87CEEB",
+      "secondary": "#4682B4",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_roma"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_lecce",
+    "name": "US Lecce",
+    "nickname": "Giallorossi",
+    "established_year": 1908,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Via del Mare",
+      "city": "Lecce",
+      "country": "Italy",
+      "capacity": 31533
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Consistent promotions to Serie A"
+      ],
+      "legendary_player_names": [
+        "Javier Chevantón",
+        "Ernesto Javier Farías"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Marco Giampaolo",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_giampaolo_marco",
+      "manager_name": "Marco Giampaolo"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 67,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 66,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#000080",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_bari"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_ac_milan",
+    "name": "AC Milan",
+    "nickname": "Rossoneri",
+    "established_year": 1899,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "San Siro",
+      "city": "Milan",
+      "country": "Italy",
+      "capacity": 75710
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 100000000,
+      "wage_budget_weekly_total": 4000000,
+      "annual_revenue_approx": 450000000,
+      "annual_expenses_approx": 400000000,
+      "sponsorship_value_annual": 55000000
+    },
+    "history": {
+      "league_titles_domestic": 19,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 18,
+      "notable_achievements": [
+        "Multiple Serie A and Champions League winners",
+        "One of the most successful clubs in the world"
+      ],
+      "legendary_player_names": [
+        "Paolo Maldini",
+        "Franco Baresi",
+        "Marco van Basten",
+        "Kaká"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Paulo Fonseca",
+      "nationality_code": "POR",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_fonseca_paulo",
+      "manager_name": "Paulo Fonseca"
+    },
+    "staff_quality": {
+      "coaching_attack": 18,
+      "coaching_defense": 17,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 93,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 86,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_inter_milan",
+      "club_juventus"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_monza",
+    "name": "AC Monza",
+    "nickname": "Biancorossi",
+    "established_year": 1912,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Brianteo",
+      "city": "Monza",
+      "country": "Italy",
+      "capacity": 17102
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 70000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promoted to Serie A for the first time"
+      ],
+      "legendary_player_names": [
+        "Dario Hübner",
+        "Marco Borriello"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Alessandro Nesta",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_nesta_alessandro",
+      "manager_name": "Alessandro Nesta"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Establish in Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_atalanta"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_napoli",
+    "name": "SSC Napoli",
+    "nickname": "Partenopei",
+    "established_year": 1926,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Diego Armando Maradona",
+      "city": "Naples",
+      "country": "Italy",
+      "capacity": 54726
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 300000000,
+      "annual_expenses_approx": 250000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won Serie A multiple times, notably with Diego Maradona",
+        "Won the UEFA Cup in 1989"
+      ],
+      "legendary_player_names": [
+        "Diego Maradona",
+        "Marek Hamšík",
+        "Edinson Cavani"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Antonio Conte",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_conte_antonio",
+      "manager_name": "Antonio Conte"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 88,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 82,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#007ACD",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_roma",
+      "club_juventus"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_parma",
+    "name": "Parma Calcio 1913",
+    "nickname": "Gialloblù",
+    "established_year": 1913,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Ennio Tardini",
+      "city": "Parma",
+      "country": "Italy",
+      "capacity": 22352
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 4,
+      "notable_achievements": [
+        "Won multiple Coppa Italia and UEFA Cups/Europa Leagues in the 1990s"
+      ],
+      "legendary_player_names": [
+        "Gianluigi Buffon",
+        "Fabio Cannavaro",
+        "Hernán Crespo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Christian Chivu",
+      "nationality_code": "ROU",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_chivu_christian",
+      "manager_name": "Christian Chivu"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 74,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_bologna"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_roma",
+    "name": "AS Roma",
+    "nickname": "Giallorossi",
+    "established_year": 1927,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Olimpico",
+      "city": "Rome",
+      "country": "Italy",
+      "capacity": 70634
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 280000000,
+      "annual_expenses_approx": 250000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 9,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won Serie A three times",
+        "Won the UEFA Europa Conference League in 2022"
+      ],
+      "legendary_player_names": [
+        "Francesco Totti",
+        "Daniele De Rossi",
+        "Aldair"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Claudio Ranieri",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-2-3-1"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 15,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 85,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#820000",
+      "secondary": "#F0E03B",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_lazio",
+      "club_napoli"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_torino",
+    "name": "Torino FC",
+    "nickname": "Il Toro",
+    "established_year": 1906,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Olimpico Grande Torino",
+      "city": "Turin",
+      "country": "Italy",
+      "capacity": 28177
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 7,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Serie A seven times, including a dominant spell in the 1940s"
+      ],
+      "legendary_player_names": [
+        "Valentino Mazzola",
+        "Paolo Pulici",
+        "Francesco Graziani"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Paolo Vanoli",
+      "nationality_code": "ITA",
+      "preferred_formation": "3-4-1-2",
+      "manager_id": "mgr_vanoli_paolo",
+      "manager_name": "Paolo Vanoli"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#8B0000",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_juventus"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-1-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_udinese",
+    "name": "Udinese Calcio",
+    "nickname": "Bianconeri",
+    "established_year": 1896,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Friuli",
+      "city": "Udine",
+      "country": "Italy",
+      "capacity": 25132
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 65000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Known for successful scouting and player development"
+      ],
+      "legendary_player_names": [
+        "Antonio Di Natale",
+        "Zico",
+        "Vincenzo Iaquinta"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Kosta Runjaić",
+      "nationality_code": "GER",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_runjaić_kosta",
+      "manager_name": "Kosta Runjaić"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_venezia",
+    "name": "Venezia FC",
+    "nickname": "Lagunari",
+    "established_year": 1907,
+    "country_code": "ITA",
+    "league_id": "league_ita_seriea",
+    "stadium": {
+      "name": "Stadio Pier Luigi Penzo",
+      "city": "Venice",
+      "country": "Italy",
+      "capacity": 11150
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Coppa Italia in 1941"
+      ],
+      "legendary_player_names": [
+        "Álvaro Recoba",
+        "Filippo Maniero"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Eusebio Di Francesco",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_francesco_eusebio",
+      "manager_name": "Eusebio Di Francesco"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 12,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#F0E03B",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  }
+]

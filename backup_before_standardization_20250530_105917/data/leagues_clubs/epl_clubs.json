@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "club_arsenal",
+    "name": "Arsenal",
+    "nickname": "The Gunners",
+    "established_year": 1886,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Emirates Stadium",
+      "city": "London",
+      "country": "England",
+      "capacity": 60704
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 100000000,
+      "wage_budget_weekly_total": 4000000,
+      "annual_revenue_approx": 550000000,
+      "annual_expenses_approx": 400000000,
+      "sponsorship_value_annual": 120000000
+    },
+    "history": {
+      "league_titles_domestic": 13,
+      "domestic_cup_wins": 14,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "The Invincibles (2003-2004 Premier League season unbeaten)",
+        "Most FA Cup wins"
+      ],
+      "legendary_player_names": [
+        "Thierry Henry",
+        "Dennis Bergkamp",
+        "Tony Adams",
+        "Ian Wright"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Mikel Arteta",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_arteta_mikel",
+      "manager_name": "Mikel Arteta"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 90,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#EF0107",
+      "secondary": "#FFFFFF",
+      "accent": "#9C824A"
+    },
+    "rival_club_ids": [
+      "club_tottenham",
+      "club_chelsea",
+      "club_man_utd"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_aston_villa",
+    "name": "Aston Villa",
+    "nickname": "The Villans",
+    "established_year": 1874,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Villa Park",
+      "city": "Birmingham",
+      "country": "England",
+      "capacity": 42657
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 70000000,
+      "wage_budget_weekly_total": 2500000,
+      "annual_revenue_approx": 250000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 7,
+      "domestic_cup_wins": 7,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won the European Cup in 1982"
+      ],
+      "legendary_player_names": [
+        "Billy Walker",
+        "Charlie Aitken",
+        "Paul McGrath",
+        "Dwight Yorke"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Unai Emery",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_emery_unai",
+      "manager_name": "Unai Emery"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#95BFE5",
+      "secondary": "#670043",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_birmingham_city",
+      "club_west_brom"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_bournemouth",
+    "name": "AFC Bournemouth",
+    "nickname": "The Cherries",
+    "established_year": 1899,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Vitality Stadium",
+      "city": "Bournemouth",
+      "country": "England",
+      "capacity": 11307
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promotion to the Premier League for the first time in 2015"
+      ],
+      "legendary_player_names": [
+        "Steve Fletcher",
+        "Eddie Howe",
+        "Arnaut Danjuma"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Andoni Iraola",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_iraola_andoni",
+      "manager_name": "Andoni Iraola"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Local",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#DA291C",
+      "secondary": "#000000",
+      "accent": "#B50E12"
+    },
+    "rival_club_ids": [
+      "club_southampton"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_brentford",
+    "name": "Brentford",
+    "nickname": "The Bees",
+    "established_year": 1889,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Gtech Community Stadium",
+      "city": "London",
+      "country": "England",
+      "capacity": 17250
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 1800000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 160000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promotion to the Premier League in 2021"
+      ],
+      "legendary_player_names": [
+        "Jack Holliday",
+        "Stan Bowles",
+        "Ivan Toney"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Thomas Frank",
+      "nationality_code": "DEN",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_frank_thomas",
+      "manager_name": "Thomas Frank"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 72,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Local",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_fulham",
+      "club_qpr"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "club_brighton",
+    "name": "Brighton & Hove Albion",
+    "nickname": "The Seagulls",
+    "established_year": 1901,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Falmer Stadium",
+      "city": "Brighton and Hove",
+      "country": "England",
+      "capacity": 31876
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 60000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 200000000,
+      "annual_expenses_approx": 170000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Achieved Premier League promotion in 2017",
+        "Qualified for European competition"
+      ],
+      "legendary_player_names": [
+        "Bobby Zamora",
+        "Lewis Dunk",
+        "Pascal Groß"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Fabian Hürzeler",
+      "nationality_code": "GER",
+      "preferred_formation": "3-4-3",
+      "manager_id": "mgr_hurzeler_fabian",
+      "manager_name": "Fabian Hürzeler"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#005AFC",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_crystal_palace"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_chelsea",
+    "name": "Chelsea",
+    "nickname": "The Blues",
+    "established_year": 1905,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Stamford Bridge",
+      "city": "London",
+      "country": "England",
+      "capacity": 40173
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 150000000,
+      "wage_budget_weekly_total": 5000000,
+      "annual_revenue_approx": 600000000,
+      "annual_expenses_approx": 500000000,
+      "sponsorship_value_annual": 100000000
+    },
+    "history": {
+      "league_titles_domestic": 6,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 8,
+      "notable_achievements": [
+        "Won the Champions League twice",
+        "First London club to win the Champions League"
+      ],
+      "legendary_player_names": [
+        "Frank Lampard",
+        "Didier Drogba",
+        "John Terry",
+        "Gianfranco Zola"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Enzo Maresca",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_maresca_enzo",
+      "manager_name": "Enzo Maresca"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 91,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 19,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#061D74",
+      "secondary": "#FFFFFF",
+      "accent": "#6A7AB5"
+    },
+    "rival_club_ids": [
+      "club_arsenal",
+      "club_tottenham",
+      "club_fulham"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_crystal_palace",
+    "name": "Crystal Palace",
+    "nickname": "The Eagles",
+    "established_year": 1905,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Selhurst Park",
+      "city": "London",
+      "country": "England",
+      "capacity": 25486
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1600000,
+      "annual_revenue_approx": 160000000,
+      "annual_expenses_approx": 140000000,
+      "sponsorship_value_annual": 12000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached FA Cup Final in 1990 and 2016"
+      ],
+      "legendary_player_names": [
+        "Ian Wright",
+        "Mark Bright",
+        "Wilfried Zaha"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Oliver Glasner",
+      "nationality_code": "AUT",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_glasner_oliver",
+      "manager_name": "Oliver Glasner"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#1B458F",
+      "secondary": "#A7A5A6",
+      "accent": "#E22824"
+    },
+    "rival_club_ids": [
+      "club_brighton",
+      "club_millwall"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_everton",
+    "name": "Everton",
+    "nickname": "The Toffees",
+    "established_year": 1878,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Goodison Park",
+      "city": "Liverpool",
+      "country": "England",
+      "capacity": 39572
+    },
+    "financials": {
+      "status": "Insecure",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 9,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Longest serving top-flight club"
+      ],
+      "legendary_player_names": [
+        "Dixie Dean",
+        "Alan Ball",
+        "Neville Southall",
+        "Wayne Rooney"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "David Moyes",
+      "nationality_code": "SCO",
+      "preferred_formation": "4-5-1",
+      "manager_id": "mgr_moyes_david",
+      "manager_name": "David Moyes"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "National",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_liverpool"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-5-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_fulham",
+    "name": "Fulham",
+    "nickname": "The Cottagers",
+    "established_year": 1879,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Craven Cottage",
+      "city": "London",
+      "country": "England",
+      "capacity": 28800
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1700000,
+      "annual_revenue_approx": 170000000,
+      "annual_expenses_approx": 150000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached UEFA Europa League Final in 2010"
+      ],
+      "legendary_player_names": [
+        "Johnny Haynes",
+        "George Cohen",
+        "Clint Dempsey"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Marco Silva",
+      "nationality_code": "POR",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_silva_marco",
+      "manager_name": "Marco Silva"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 74,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Local",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
+    },
+    "rival_club_ids": [
+      "club_chelsea",
+      "club_brentford",
+      "club_qpr"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_ipswich_town",
+    "name": "Ipswich Town",
+    "nickname": "The Blues",
+    "established_year": 1878,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Portman Road",
+      "city": "Ipswich",
+      "country": "England",
+      "capacity": 30056
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 100000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the UEFA Cup in 1981"
+      ],
+      "legendary_player_names": [
+        "Kevin Beattie",
+        "Terry Butcher",
+        "Bobby Robson"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Kieran McKenna",
+      "nationality_code": "NIR",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_mckenna_kieran",
+      "manager_name": "Kieran McKenna"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
+    },
+    "rival_club_ids": [
+      "club_norwich"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "club_leicester_city",
+    "name": "Leicester City",
+    "nickname": "The Foxes",
+    "established_year": 1884,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "King Power Stadium",
+      "city": "Leicester",
+      "country": "England",
+      "capacity": 32259
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 200000000,
+      "annual_expenses_approx": 170000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Premier League in 2016",
+        "Won the FA Cup in 2021"
+      ],
+      "legendary_player_names": [
+        "Gary Lineker",
+        "Jamie Vardy",
+        "Harry Maguire",
+        "Riyad Mahrez"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Ruud van Nistelrooy",
+      "nationality_code": "NLD",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_nistelrooy_ruud",
+      "manager_name": "Ruud van Nistelrooy"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#003090",
+      "secondary": "#FFFFFF",
+      "accent": "#F28500"
+    },
+    "rival_club_ids": [
+      "club_nottm_forest"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_liverpool",
+    "name": "Liverpool",
+    "nickname": "The Reds",
+    "established_year": 1892,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Anfield",
+      "city": "Liverpool",
+      "country": "England",
+      "capacity": 61276
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 100000000,
+      "wage_budget_weekly_total": 4200000,
+      "annual_revenue_approx": 600000000,
+      "annual_expenses_approx": 450000000,
+      "sponsorship_value_annual": 130000000
+    },
+    "history": {
+      "league_titles_domestic": 19,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 14,
+      "notable_achievements": [
+        "Won the European Cup/Champions League 6 times",
+        "Multiple domestic treble winners"
+      ],
+      "legendary_player_names": [
+        "Kenny Dalglish",
+        "Steven Gerrard",
+        "Ian Rush",
+        "Mohamed Salah"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Arne Slot",
+      "nationality_code": "NLD",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_slot_arne",
+      "manager_name": "Arne Slot"
+    },
+    "staff_quality": {
+      "coaching_attack": 18,
+      "coaching_defense": 17,
+      "coaching_fitness": 18,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 93,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#C8102E",
+      "secondary": "#000000",
+      "accent": "#F6EB61"
+    },
+    "rival_club_ids": [
+      "club_man_utd",
+      "club_everton"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_manchester_city",
+    "name": "Manchester City",
+    "nickname": "The Citizens",
+    "established_year": 1880,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Etihad Stadium",
+      "city": "Manchester",
+      "country": "England",
+      "capacity": 53400
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 180000000,
+      "wage_budget_weekly_total": 6000000,
+      "annual_revenue_approx": 700000000,
+      "annual_expenses_approx": 500000000,
+      "sponsorship_value_annual": 150000000
+    },
+    "history": {
+      "league_titles_domestic": 8,
+      "domestic_cup_wins": 7,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won the Premier League multiple times in recent years",
+        "Won the Continental Treble in 2023"
+      ],
+      "legendary_player_names": [
+        "Sergio Agüero",
+        "David Silva",
+        "Vincent Kompany",
+        "Colin Bell"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Pep Guardiola",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_guardiola_pep",
+      "manager_name": "Pep Guardiola"
+    },
+    "staff_quality": {
+      "coaching_attack": 20,
+      "coaching_defense": 18,
+      "coaching_fitness": 19,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 95,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 85,
+      "youth_academy_rating": 19,
+      "training_facilities_rating": 20
+    },
+    "colors": {
+      "primary": "#6CADDF",
+      "secondary": "#FFFFFF",
+      "accent": "#1C3F95"
+    },
+    "rival_club_ids": [
+      "club_man_utd",
+      "club_liverpool"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_man_utd",
+    "name": "Manchester United",
+    "nickname": "The Red Devils",
+    "established_year": 1878,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Old Trafford",
+      "city": "Manchester",
+      "country": "England",
+      "capacity": 74310
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 120000000,
+      "wage_budget_weekly_total": 4500000,
+      "annual_revenue_approx": 650000000,
+      "annual_expenses_approx": 500000000,
+      "sponsorship_value_annual": 150000000
+    },
+    "history": {
+      "league_titles_domestic": 20,
+      "domestic_cup_wins": 12,
+      "continental_cup_wins": 6,
+      "notable_achievements": [
+        "Won the Treble in 1999",
+        "Most successful English club"
+      ],
+      "legendary_player_names": [
+        "George Best",
+        "Bobby Charlton",
+        "Eric Cantona",
+        "Ryan Giggs"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Ruben Amorim",
+      "nationality_code": "POR",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_amorim_ruben",
+      "manager_name": "Ruben Amorim"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 92,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#DA291C",
+      "secondary": "#000000",
+      "accent": "#FBE122"
+    },
+    "rival_club_ids": [
+      "club_liverpool",
+      "club_manchester_city",
+      "club_leeds"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_newcastle_united",
+    "name": "Newcastle United",
+    "nickname": "The Magpies",
+    "established_year": 1892,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "St James' Park",
+      "city": "Newcastle upon Tyne",
+      "country": "England",
+      "capacity": 52305
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 150000000,
+      "wage_budget_weekly_total": 3000000,
+      "annual_revenue_approx": 300000000,
+      "annual_expenses_approx": 250000000,
+      "sponsorship_value_annual": 50000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the Inter-Cities Fairs Cup in 1969"
+      ],
+      "legendary_player_names": [
+        "Alan Shearer",
+        "Jackie Milburn",
+        "Kevin Keegan"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Eddie Howe",
+      "nationality_code": "ENG",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_howe_eddie",
+      "manager_name": "Eddie Howe"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 83,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#241F20",
+      "secondary": "#FFFFFF",
+      "accent": "#B5B5B5"
+    },
+    "rival_club_ids": [
+      "club_sunderland"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_nottm_forest",
+    "name": "Nottingham Forest",
+    "nickname": "The Reds",
+    "established_year": 1865,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "City Ground",
+      "city": "Nottingham",
+      "country": "England",
+      "capacity": 30455
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 140000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won the European Cup twice consecutively (1979, 1980)"
+      ],
+      "legendary_player_names": [
+        "Brian Clough",
+        "Peter Shilton",
+        "Stuart Pearce"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Nuno Espírito Santo",
+      "nationality_code": "POR",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_santo_nuno",
+      "manager_name": "Nuno Espírito Santo"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#E53233",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_derby",
+      "club_leicester_city"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_southampton",
+    "name": "Southampton",
+    "nickname": "The Saints",
+    "established_year": 1885,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "St Mary's Stadium",
+      "city": "Southampton",
+      "country": "England",
+      "capacity": 32384
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1300000,
+      "annual_revenue_approx": 130000000,
+      "annual_expenses_approx": 110000000,
+      "sponsorship_value_annual": 9000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the FA Cup in 1976"
+      ],
+      "legendary_player_names": [
+        "Matt Le Tissier",
+        "Alan Shearer",
+        "Rickie Lambert"
+      ]
+    },
+    "manager_details": {
+      "name": "Simon Rusk",
+      "nationality_code": "ENG",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_rusk_simon",
+      "manager_name": "Simon Rusk"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 71,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#D71920",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_portsmouth",
+      "club_bournemouth"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "club_tottenham",
+    "name": "Tottenham Hotspur",
+    "nickname": "Spurs",
+    "established_year": 1882,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Tottenham Hotspur Stadium",
+      "city": "London",
+      "country": "England",
+      "capacity": 62850
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 80000000,
+      "wage_budget_weekly_total": 3500000,
+      "annual_revenue_approx": 500000000,
+      "annual_expenses_approx": 400000000,
+      "sponsorship_value_annual": 80000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 3,
+      "notable_achievements": [
+        "First English club to win a European trophy (Cup Winners' Cup 1963)",
+        "Won the double in 1961"
+      ],
+      "legendary_player_names": [
+        "Jimmy Greaves",
+        "Glenn Hoddle",
+        "Gary Lineker",
+        "Harry Kane"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Ange Postecoglou",
+      "nationality_code": "AUS",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_postecoglou_ange",
+      "manager_name": "Ange Postecoglou"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 88,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#132257",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_arsenal",
+      "club_chelsea",
+      "club_west_ham"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_west_ham",
+    "name": "West Ham United",
+    "nickname": "The Hammers",
+    "established_year": 1895,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "London Stadium",
+      "city": "London",
+      "country": "England",
+      "capacity": 62500
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 60000000,
+      "wage_budget_weekly_total": 2200000,
+      "annual_revenue_approx": 280000000,
+      "annual_expenses_approx": 230000000,
+      "sponsorship_value_annual": 35000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won the European Cup Winners' Cup in 1965",
+        "Won the UEFA Europa Conference League in 2023"
+      ],
+      "legendary_player_names": [
+        "Bobby Moore",
+        "Geoff Hurst",
+        "Billy Bonds",
+        "Mark Noble"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Graham Potter",
+      "nationality_code": "ENG",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_potter_graham",
+      "manager_name": "Graham Potter"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#7D2C3B",
+      "secondary": "#1A1A1A",
+      "accent": "#59BFD3"
+    },
+    "rival_club_ids": [
+      "club_tottenham",
+      "club_millwall"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_wolves",
+    "name": "Wolverhampton Wanderers",
+    "nickname": "Wolves",
+    "established_year": 1877,
+    "country_code": "ENG",
+    "league_id": "league_epl",
+    "stadium": {
+      "name": "Molineux Stadium",
+      "city": "Wolverhampton",
+      "country": "England",
+      "capacity": 31750
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 1800000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 160000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 4,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "One of the founding members of the Football League"
+      ],
+      "legendary_player_names": [
+        "Billy Wright",
+        "Steve Bull",
+        "Derek Dougan"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Vítor Pereira",
+      "nationality_code": "POR",
+      "preferred_formation": "3-4-3",
+      "manager_id": "mgr_pereira_vítor",
+      "manager_name": "Vítor Pereira"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 76,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#FDB913",
+      "secondary": "#231F20",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_west_brom"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  { "id": "club_ajax", "name": "Ajax", "stadium": {"name":"Johan Cruyff Arena","city":"Amsterdam","country":"Netherlands","capacity":55865}, "financials": {}, "history": {} },
+  { "id": "club_psv", "name": "PSV Eindhoven", "stadium": {"name":"Philips Stadion","city":"Eindhoven","country":"Netherlands","capacity":36500}, "financials": {}, "history": {} },
+  { "id": "club_feyenoord", "name": "Feyenoord", "stadium": {"name":"De Kuip","city":"Rotterdam","country":"Netherlands","capacity":51500}, "financials": {}, "history": {} },
+  { "id": "club_az", "name": "AZ Alkmaar", "stadium": {"name":"AFAS Stadion","city":"Alkmaar","country":"Netherlands","capacity":19500}, "financials": {}, "history": {} },
+  { "id": "club_utrecht", "name": "FC Utrecht", "stadium": {"name":"Stadion Galgenwaard","city":"Utrecht","country":"Netherlands","capacity":23750}, "financials": {}, "history": {} },
+  { "id": "club_twente", "name": "FC Twente", "stadium": {"name":"De Grolsch Veste","city":"Enschede","country":"Netherlands","capacity":30205}, "financials": {}, "history": {} },
+  { "id": "club_heerenveen", "name": "SC Heerenveen", "stadium": {"name":"Abe Lenstra Stadion","city":"Heerenveen","country":"Netherlands","capacity":27224}, "financials": {}, "history": {} },
+  { "id": "club_sparta", "name": "Sparta Rotterdam", "stadium": {"name":"Het Kasteel","city":"Rotterdam","country":"Netherlands","capacity":11026}, "financials": {}, "history": {} },
+  { "id": "club_rkc", "name": "RKC Waalwijk", "stadium": {"name":"Mandemakers Stadion","city":"Waalwijk","country":"Netherlands","capacity":7508}, "financials": {}, "history": {} },
+  { "id": "club_nac", "name": "NAC Breda", "stadium": {"name":"Rat Verlegh Stadion","city":"Breda","country":"Netherlands","capacity":19000}, "financials": {}, "history": {} },
+  { "id": "club_groningen", "name": "FC Groningen", "stadium": {"name":"Euroborg","city":"Groningen","country":"Netherlands","capacity":22550}, "financials": {}, "history": {} },
+  { "id": "club_nijmegen", "name": "NEC Nijmegen", "stadium": {"name":"Goffertstadion","city":"Nijmegen","country":"Netherlands","capacity":12500}, "financials": {}, "history": {} },
+  { "id": "club_zwolle", "name": "PEC Zwolle", "stadium": {"name":"MAC³PARK Stadion","city":"Zwolle","country":"Netherlands","capacity":13250}, "financials": {}, "history": {} },
+  { "id": "club_volendam", "name": "FC Volendam", "stadium": {"name":"Kras Stadion","city":"Volendam","country":"Netherlands","capacity":7384}, "financials": {}, "history": {} },
+  { "id": "club_almere", "name": "Almere City FC", "stadium": {"name":"Yanmar Stadion","city":"Almere","country":"Netherlands","capacity":4501}, "financials": {}, "history": {} },
+  { "id": "club_excelsior", "name": "Excelsior Rotterdam", "stadium": {"name":"Willem II Stadion","city":"Rotterdam","country":"Netherlands","capacity":4500}, "financials": {}, "history": {} },
+  { "id": "club_heracles", "name": "Heracles Almelo", "stadium": {"name":"Erve Asito","city":"Almelo","country":"Netherlands","capacity":12080}, "financials": {}, "history": {} },
+  { "id": "club_fortuna", "name": "Fortuna Sittard", "stadium": {"name":"Fortuna Sittard Stadion","city":"Sittard","country":"Netherlands","capacity":10300}, "financials": {}, "history": {} }
+]

@@ -1,0 +1,22 @@
+[
+  {"id": "club_bari", "name": "Bari", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_brescia", "name": "Brescia", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_carrarese", "name": "Carrarese", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_catanzaro", "name": "Catanzaro", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_cesena", "name": "Cesena", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_cittadella", "name": "Cittadella", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_cosenza", "name": "Cosenza", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_cremonese", "name": "Cremonese", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_frosinone", "name": "Frosinone", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_juve_stabia", "name": "Juve Stabia", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_mantova", "name": "Mantova", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_modena", "name": "Modena", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_palermo", "name": "Palermo", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_pisa", "name": "Pisa", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_reggiana", "name": "Reggiana", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_salernitana", "name": "Salernitana", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_sampdoria", "name": "Sampdoria", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_sassuolo", "name": "Sassuolo", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_spezia", "name": "Spezia", "country_code": "ITA", "league_id": "league_ita_serieb"},
+  {"id": "club_sudtirol", "name": "Südtirol", "country_code": "ITA", "league_id": "league_ita_serieb"}
+]

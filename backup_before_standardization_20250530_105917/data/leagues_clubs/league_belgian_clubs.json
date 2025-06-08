@@ -1,0 +1,18 @@
+[
+  { "id": "club_anderlecht", "name": "RSC Anderlecht", "stadium": {"name":"Constant Vanden Stock Stadium","city":"Anderlecht","country":"Belgium","capacity":21500}, "financials": {}, "history": {} },
+  { "id": "club_antwerp", "name": "Royal Antwerp FC", "stadium": {"name":"Bosuilstadion","city":"Antwerp","country":"Belgium","capacity":16144}, "financials": {}, "history": {} },
+  { "id": "club_beerschot", "name": "Beerschot VA", "stadium": {"name":"Olympisch Stadion","city":"Antwerp","country":"Belgium","capacity":12771}, "financials": {}, "history": {} },
+  { "id": "club_cercle_brugge", "name": "Cercle Brugge", "stadium": {"name":"Jan Breydel Stadium","city":"Bruges","country":"Belgium","capacity":29042}, "financials": {}, "history": {} },
+  { "id": "club_charleroi", "name": "Sporting Charleroi", "stadium": {"name":"Stade du Pays de Charleroi","city":"Charleroi","country":"Belgium","capacity":14000}, "financials": {}, "history": {} },
+  { "id": "club_club_brugge", "name": "Club Brugge KV", "stadium": {"name":"Jan Breydel Stadium","city":"Bruges","country":"Belgium","capacity":29042}, "financials": {}, "history": {} },
+  { "id": "club_dender", "name": "FCV Dender EH", "stadium": {"name":"Van Roystadion","city":"Denderleeuw","country":"Belgium","capacity":6429}, "financials": {}, "history": {} },
+  { "id": "club_genk", "name": "KRC Genk", "stadium": {"name":"Cegeka Arena","city":"Genk","country":"Belgium","capacity":24956}, "financials": {}, "history": {} },
+  { "id": "club_gent", "name": "KAA Gent", "stadium": {"name":"Planet Group Arena","city":"Ghent","country":"Belgium","capacity":20000}, "financials": {}, "history": {} },
+  { "id": "club_kortrijk", "name": "KV Kortrijk", "stadium": {"name":"Guldensporen Stadion","city":"Kortrijk","country":"Belgium","capacity":9399}, "financials": {}, "history": {} },
+  { "id": "club_mechelen", "name": "KV Mechelen", "stadium": {"name":"AFAS-stadion Achter de Kazerne","city":"Mechelen","country":"Belgium","capacity":16700}, "financials": {}, "history": {} },
+  { "id": "club_oh_leuven", "name": "Oud-Heverlee Leuven", "stadium": {"name":"Den Dreef","city":"Leuven","country":"Belgium","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_sint_truiden", "name": "Sint-Truidense VV", "stadium": {"name":"Stayen","city":"Sint-Truiden","country":"Belgium","capacity":14600}, "financials": {}, "history": {} },
+  { "id": "club_standard", "name": "Standard Liège", "stadium": {"name":"Stade Maurice Dufrasne","city":"Liège","country":"Belgium","capacity":30023}, "financials": {}, "history": {} },
+  { "id": "club_union_sg", "name": "Union Saint-Gilloise", "stadium": {"name":"Stade Joseph Marien","city":"Brussels","country":"Belgium","capacity":9400}, "financials": {}, "history": {} },
+  { "id": "club_westerlo", "name": "KVC Westerlo", "stadium": {"name":"Het Kuipje","city":"Westerlo","country":"Belgium","capacity":8035}, "financials": {}, "history": {} }
+]

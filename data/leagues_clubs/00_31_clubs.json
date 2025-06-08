@@ -1,0 +1,602 @@
+[
+  {
+    "club_id": "league_argentina_club_01",
+    "name": "Boca Juniors",
+    "league_id": "league_argentina",
+    "city": "Juniors",
+    "founded": 1913,
+    "stadium": {
+      "name": "La Bombonera",
+      "capacity": 71950
+    },
+    "reputation": 79,
+    "finances": {
+      "transfer_budget": 49725673,
+      "wage_budget": 23506369
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_02",
+    "name": "River Plate",
+    "league_id": "league_argentina",
+    "city": "Plate",
+    "founded": 1940,
+    "stadium": {
+      "name": "El Monumental",
+      "capacity": 53622
+    },
+    "reputation": 76,
+    "finances": {
+      "transfer_budget": 21556613,
+      "wage_budget": 18793609
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_03",
+    "name": "Racing Club",
+    "league_id": "league_argentina",
+    "city": "Club",
+    "founded": 1915,
+    "stadium": {
+      "name": "Estadio Presidente Perón",
+      "capacity": 26579
+    },
+    "reputation": 83,
+    "finances": {
+      "transfer_budget": 42080222,
+      "wage_budget": 11514217
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_04",
+    "name": "San Lorenzo",
+    "league_id": "league_argentina",
+    "city": "Lorenzo",
+    "founded": 1928,
+    "stadium": {
+      "name": "Pedro Bidegain",
+      "capacity": 15624
+    },
+    "reputation": 84,
+    "finances": {
+      "transfer_budget": 44166060,
+      "wage_budget": 18588765
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_05",
+    "name": "Independiente",
+    "league_id": "league_argentina",
+    "city": "Independiente",
+    "founded": 1941,
+    "stadium": {
+      "name": "Estadio Libertadores de América",
+      "capacity": 70916
+    },
+    "reputation": 78,
+    "finances": {
+      "transfer_budget": 40373880,
+      "wage_budget": 8370687
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_06",
+    "name": "Estudiantes",
+    "league_id": "league_argentina",
+    "city": "Estudiantes",
+    "founded": 1902,
+    "stadium": {
+      "name": "Estadio Ciudad de La Plata",
+      "capacity": 8793
+    },
+    "reputation": 61,
+    "finances": {
+      "transfer_budget": 10470264,
+      "wage_budget": 4690136
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_07",
+    "name": "Huracán",
+    "league_id": "league_argentina",
+    "city": "Huracán",
+    "founded": 1924,
+    "stadium": {
+      "name": "Estadio Tomás Ducó",
+      "capacity": 25376
+    },
+    "reputation": 68,
+    "finances": {
+      "transfer_budget": 14473633,
+      "wage_budget": 6815312
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_08",
+    "name": "Argentinos Juniors",
+    "league_id": "league_argentina",
+    "city": "Juniors",
+    "founded": 1907,
+    "stadium": {
+      "name": "Estadio Diego Armando Maradona",
+      "capacity": 15903
+    },
+    "reputation": 66,
+    "finances": {
+      "transfer_budget": 7952933,
+      "wage_budget": 3476297
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_09",
+    "name": "Vélez Sarsfield",
+    "league_id": "league_argentina",
+    "city": "Sarsfield",
+    "founded": 1945,
+    "stadium": {
+      "name": "Estadio José Amalfitani",
+      "capacity": 10338
+    },
+    "reputation": 72,
+    "finances": {
+      "transfer_budget": 4234297,
+      "wage_budget": 2580959
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_10",
+    "name": "Lanús",
+    "league_id": "league_argentina",
+    "city": "Lanús",
+    "founded": 1946,
+    "stadium": {
+      "name": "Estadio Ciudad de Lanús",
+      "capacity": 11781
+    },
+    "reputation": 67,
+    "finances": {
+      "transfer_budget": 11136213,
+      "wage_budget": 5812995
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_11",
+    "name": "Banfield",
+    "league_id": "league_argentina",
+    "city": "Banfield",
+    "founded": 1949,
+    "stadium": {
+      "name": "Estadio Florencio Sola",
+      "capacity": 12045
+    },
+    "reputation": 64,
+    "finances": {
+      "transfer_budget": 3173529,
+      "wage_budget": 1657702
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_12",
+    "name": "Tigre",
+    "league_id": "league_argentina",
+    "city": "Tigre",
+    "founded": 1900,
+    "stadium": {
+      "name": "Estadio José Dellagiovanna",
+      "capacity": 16736
+    },
+    "reputation": 60,
+    "finances": {
+      "transfer_budget": 14858436,
+      "wage_budget": 4057755
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_13",
+    "name": "Rosario Central",
+    "league_id": "league_argentina",
+    "city": "Central",
+    "founded": 1930,
+    "stadium": {
+      "name": "Estadio Gigante de Arroyito",
+      "capacity": 11433
+    },
+    "reputation": 71,
+    "finances": {
+      "transfer_budget": 5240344,
+      "wage_budget": 6055860
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_14",
+    "name": "Newell's Old Boys",
+    "league_id": "league_argentina",
+    "city": "Boys",
+    "founded": 1908,
+    "stadium": {
+      "name": "Estadio Marcelo Bielsa",
+      "capacity": 19249
+    },
+    "reputation": 72,
+    "finances": {
+      "transfer_budget": 7790687,
+      "wage_budget": 3598396
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_15",
+    "name": "Godoy Cruz",
+    "league_id": "league_argentina",
+    "city": "Cruz",
+    "founded": 1907,
+    "stadium": {
+      "name": "Estadio Malvinas Argentinas",
+      "capacity": 10794
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 7435698,
+      "wage_budget": 4580504
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_16",
+    "name": "Defensa y Justicia",
+    "league_id": "league_argentina",
+    "city": "Justicia",
+    "founded": 1946,
+    "stadium": {
+      "name": "Estadio Norberto Tomaghello",
+      "capacity": 21549
+    },
+    "reputation": 65,
+    "finances": {
+      "transfer_budget": 8877873,
+      "wage_budget": 5958892
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_17",
+    "name": "Barracas Central",
+    "league_id": "league_argentina",
+    "city": "Central",
+    "founded": 1946,
+    "stadium": {
+      "name": "Estadio Claudio Chiqui Tapia",
+      "capacity": 29833
+    },
+    "reputation": 73,
+    "finances": {
+      "transfer_budget": 2698783,
+      "wage_budget": 7024634
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_18",
+    "name": "Deportivo Riestra",
+    "league_id": "league_argentina",
+    "city": "Riestra",
+    "founded": 1942,
+    "stadium": {
+      "name": "Estadio Guillermo Laza",
+      "capacity": 34951
+    },
+    "reputation": 69,
+    "finances": {
+      "transfer_budget": 9217285,
+      "wage_budget": 1851823
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_19",
+    "name": "Atlético Tucumán",
+    "league_id": "league_argentina",
+    "city": "Tucumán",
+    "founded": 1933,
+    "stadium": {
+      "name": "Estadio Monumental José Fierro",
+      "capacity": 30467
+    },
+    "reputation": 72,
+    "finances": {
+      "transfer_budget": 6016317,
+      "wage_budget": 2399182
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_20",
+    "name": "Belgrano",
+    "league_id": "league_argentina",
+    "city": "Belgrano",
+    "founded": 1909,
+    "stadium": {
+      "name": "Estadio Mario Alberto Kempes",
+      "capacity": 34172
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 12222671,
+      "wage_budget": 1225204
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_21",
+    "name": "Instituto",
+    "league_id": "league_argentina",
+    "city": "Instituto",
+    "founded": 1946,
+    "stadium": {
+      "name": "Estadio La Boutique",
+      "capacity": 14170
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 4137890,
+      "wage_budget": 2470560
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_22",
+    "name": "Talleres",
+    "league_id": "league_argentina",
+    "city": "Talleres",
+    "founded": 1916,
+    "stadium": {
+      "name": "Estadio Mario Alberto Kempes",
+      "capacity": 34821
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 6283065,
+      "wage_budget": 4763160
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_23",
+    "name": "Gimnasia La Plata",
+    "league_id": "league_argentina",
+    "city": "Plata",
+    "founded": 1912,
+    "stadium": {
+      "name": "Estadio Juan Carmelo Zerillo",
+      "capacity": 17572
+    },
+    "reputation": 74,
+    "finances": {
+      "transfer_budget": 4029542,
+      "wage_budget": 4696174
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_24",
+    "name": "Platense",
+    "league_id": "league_argentina",
+    "city": "Platense",
+    "founded": 1924,
+    "stadium": {
+      "name": "Estadio Ciudad de Vicente López",
+      "capacity": 26704
+    },
+    "reputation": 74,
+    "finances": {
+      "transfer_budget": 5025327,
+      "wage_budget": 3560388
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_25",
+    "name": "Sarmiento",
+    "league_id": "league_argentina",
+    "city": "Sarmiento",
+    "founded": 1937,
+    "stadium": {
+      "name": "Estadio Eva Perón",
+      "capacity": 28174
+    },
+    "reputation": 60,
+    "finances": {
+      "transfer_budget": 14438735,
+      "wage_budget": 4440952
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_26",
+    "name": "Unión Santa Fe",
+    "league_id": "league_argentina",
+    "city": "Fe",
+    "founded": 1943,
+    "stadium": {
+      "name": "Estadio 15 de Abril",
+      "capacity": 25377
+    },
+    "reputation": 63,
+    "finances": {
+      "transfer_budget": 3711947,
+      "wage_budget": 1782542
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_27",
+    "name": "Central Córdoba SdE",
+    "league_id": "league_argentina",
+    "city": "SdE",
+    "founded": 1920,
+    "stadium": {
+      "name": "Estadio Único Madre de Ciudades",
+      "capacity": 18508
+    },
+    "reputation": 66,
+    "finances": {
+      "transfer_budget": 12614478,
+      "wage_budget": 1089501
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_28",
+    "name": "Aldosivi",
+    "league_id": "league_argentina",
+    "city": "Aldosivi",
+    "founded": 1911,
+    "stadium": {
+      "name": "Estadio José María Minella",
+      "capacity": 31563
+    },
+    "reputation": 73,
+    "finances": {
+      "transfer_budget": 6115128,
+      "wage_budget": 4716469
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_29",
+    "name": "Independiente Rivadavia",
+    "league_id": "league_argentina",
+    "city": "Rivadavia",
+    "founded": 1946,
+    "stadium": {
+      "name": "Estadio Bautista Gargantini",
+      "capacity": 17706
+    },
+    "reputation": 70,
+    "finances": {
+      "transfer_budget": 8547219,
+      "wage_budget": 4292413
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_argentina_club_30",
+    "name": "Colón",
+    "league_id": "league_argentina",
+    "city": "Colón",
+    "founded": 1948,
+    "stadium": {
+      "name": "Estadio Brigadier General Estanislao López",
+      "capacity": 24900
+    },
+    "reputation": 61,
+    "finances": {
+      "transfer_budget": 5262153,
+      "wage_budget": 2866100
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Red"
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "01_85",
+    "name": "Ajax",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Johan Cruyff Arena",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "capacity": 55865
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_86",
+    "name": "PSV Eindhoven",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Philips Stadion",
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "capacity": 36500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_87",
+    "name": "Feyenoord",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "De Kuip",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "capacity": 51500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_88",
+    "name": "AZ Alkmaar",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "AFAS Stadion",
+      "city": "Alkmaar",
+      "country": "Netherlands",
+      "capacity": 19500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_89",
+    "name": "FC Utrecht",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Stadion Galgenwaard",
+      "city": "Utrecht",
+      "country": "Netherlands",
+      "capacity": 23750
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_90",
+    "name": "FC Twente",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "De Grolsch Veste",
+      "city": "Enschede",
+      "country": "Netherlands",
+      "capacity": 30205
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_91",
+    "name": "SC Heerenveen",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Abe Lenstra Stadion",
+      "city": "Heerenveen",
+      "country": "Netherlands",
+      "capacity": 27224
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_92",
+    "name": "Sparta Rotterdam",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Het Kasteel",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "capacity": 11026
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_93",
+    "name": "RKC Waalwijk",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Mandemakers Stadion",
+      "city": "Waalwijk",
+      "country": "Netherlands",
+      "capacity": 7508
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_94",
+    "name": "NAC Breda",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Rat Verlegh Stadion",
+      "city": "Breda",
+      "country": "Netherlands",
+      "capacity": 19000
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_95",
+    "name": "FC Groningen",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Euroborg",
+      "city": "Groningen",
+      "country": "Netherlands",
+      "capacity": 22550
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_96",
+    "name": "NEC Nijmegen",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Goffertstadion",
+      "city": "Nijmegen",
+      "country": "Netherlands",
+      "capacity": 12500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_97",
+    "name": "PEC Zwolle",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "MAC³PARK Stadion",
+      "city": "Zwolle",
+      "country": "Netherlands",
+      "capacity": 13250
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_98",
+    "name": "FC Volendam",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Kras Stadion",
+      "city": "Volendam",
+      "country": "Netherlands",
+      "capacity": 7384
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_99",
+    "name": "Almere City FC",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Yanmar Stadion",
+      "city": "Almere",
+      "country": "Netherlands",
+      "capacity": 4501
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_100",
+    "name": "Excelsior Rotterdam",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Willem II Stadion",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "capacity": 4500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_101",
+    "name": "Heracles Almelo",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Erve Asito",
+      "city": "Almelo",
+      "country": "Netherlands",
+      "capacity": 12080
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_102",
+    "name": "Fortuna Sittard",
+    "league_id": "00_11",
+    "stadium": {
+      "name": "Fortuna Sittard Stadion",
+      "city": "Sittard",
+      "country": "Netherlands",
+      "capacity": 10300
+    },
+    "financials": {},
+    "history": {}
+  }
+]

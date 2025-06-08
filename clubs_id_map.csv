@@ -1,0 +1,383 @@
+lold_club_id,new_club_id,club_name,old_league_id,new_league_id
+club_arsenal,01_1,Arsenal,league_epl,00_1
+club_aston_villa,01_2,Aston Villa,league_epl,00_1
+club_bournemouth,01_3,AFC Bournemouth,league_epl,00_1
+club_brentford,01_4,Brentford,league_epl,00_1
+club_brighton,01_5,Brighton & Hove Albion,league_epl,00_1
+club_chelsea,01_6,Chelsea,league_epl,00_1
+club_crystal_palace,01_7,Crystal Palace,league_epl,00_1
+club_everton,01_8,Everton,league_epl,00_1
+club_fulham,01_9,Fulham,league_epl,00_1
+club_ipswich_town,01_10,Ipswich Town,league_epl,00_1
+club_leicester_city,01_11,Leicester City,league_epl,00_1
+club_liverpool,01_12,Liverpool,league_epl,00_1
+club_manchester_city,01_13,Manchester City,league_epl,00_1
+club_man_utd,01_14,Manchester United,league_epl,00_1
+club_newcastle_united,01_15,Newcastle United,league_epl,00_1
+club_nottm_forest,01_16,Nottingham Forest,league_epl,00_1
+club_southampton,01_17,Southampton,league_epl,00_1
+club_tottenham,01_18,Tottenham Hotspur,league_epl,00_1
+club_west_ham,01_19,West Ham United,league_epl,00_1
+club_wolves,01_20,Wolverhampton Wanderers,league_epl,00_1
+club_alaves,01_21,Deportivo Alavés,league_laliga,00_2
+club_athletic_bilbao,01_22,Athletic Club,league_laliga,00_2
+club_atletico_madrid,01_23,Atlético Madrid,league_laliga,00_2
+club_barcelona,01_24,FC Barcelona,league_laliga,00_2
+club_real_betis,01_25,Real Betis,league_laliga,00_2
+club_celta_vigo,01_26,Celta Vigo,league_laliga,00_2
+club_espanyol,01_27,RCD Espanyol,league_laliga,00_2
+club_getafe,01_28,Getafe CF,league_laliga,00_2
+club_girona,01_29,Girona FC,league_laliga,00_2
+club_las_palmas,01_30,UD Las Palmas,league_laliga,00_2
+club_leganes,01_31,CD Leganés,league_laliga,00_2
+club_mallorca,01_32,RCD Mallorca,league_laliga,00_2
+club_osasuna,01_33,CA Osasuna,league_laliga,00_2
+club_rayo_vallecano,01_34,Rayo Vallecano,league_laliga,00_2
+club_real_madrid,01_35,Real Madrid CF,league_laliga,00_2
+club_real_sociedad,01_36,Real Sociedad,league_laliga,00_2
+club_sevilla,01_37,Sevilla FC,league_laliga,00_2
+club_valencia,01_38,Valencia CF,league_laliga,00_2
+club_villarreal,01_39,Villarreal CF,league_laliga,00_2
+club_real_valladolid,01_40,Real Valladolid CF,league_laliga,00_2
+club_augsburg,01_41,FC Augsburg,league_ger_bundesliga,00_3
+club_bayer_leverkusen,01_42,Bayer 04 Leverkusen,league_ger_bundesliga,00_3
+club_bayern_munich,01_43,FC Bayern Munich,league_ger_bundesliga,00_3
+club_bochum,01_44,VfL Bochum,league_ger_bundesliga,00_3
+club_bvb,01_45,Borussia Dortmund,league_ger_bundesliga,00_3
+club_borussia_monchengladbach,01_46,Borussia Mönchengladbach,league_ger_bundesliga,00_3
+club_eintracht_frankfurt,01_47,Eintracht Frankfurt,league_ger_bundesliga,00_3
+club_sc_freiburg,01_48,SC Freiburg,league_ger_bundesliga,00_3
+club_heidenheim,01_49,FC Heidenheim,league_ger_bundesliga,00_3
+club_hoffenheim,01_50,TSG 1899 Hoffenheim,league_ger_bundesliga,00_3
+club_holstein_kiel,01_51,Holstein Kiel,league_ger_bundesliga,00_3
+club_rb_leipzig,01_52,RB Leipzig,league_ger_bundesliga,00_3
+club_mainz_05,01_53,FSV Mainz 05,league_ger_bundesliga,00_3
+club_st_pauli,01_54,FC St. Pauli,league_ger_bundesliga,00_3
+club_vfb_stuttgart,01_55,VfB Stuttgart,league_ger_bundesliga,00_3
+club_union_berlin,01_56,FC Union Berlin,league_ger_bundesliga,00_3
+club_werder_bremen,01_57,SV Werder Bremen,league_ger_bundesliga,00_3
+club_vfl_wolfsburg,01_58,VfL Wolfsburg,league_ger_bundesliga,00_3
+club_atalanta,01_59,Atalanta BC,league_ita_seriea,00_4
+club_bologna,01_60,Bologna FC 1909,league_ita_seriea,00_4
+club_cagliari,01_61,Cagliari Calcio,league_ita_seriea,00_4
+club_como,01_62,Como 1907,league_ita_seriea,00_4
+club_empoli,01_63,Empoli FC,league_ita_seriea,00_4
+club_fiorentina,01_64,ACF Fiorentina,league_ita_seriea,00_4
+club_genoa,01_65,Genoa CFC,league_ita_seriea,00_4
+club_hellas_verona,01_66,Hellas Verona FC,league_ita_seriea,00_4
+club_inter_milan,01_67,FC Internazionale Milano,league_ita_seriea,00_4
+club_juventus,01_68,Juventus FC,league_ita_seriea,00_4
+club_lazio,01_69,SS Lazio,league_ita_seriea,00_4
+club_lecce,01_70,US Lecce,league_ita_seriea,00_4
+club_ac_milan,01_71,AC Milan,league_ita_seriea,00_4
+club_monza,01_72,AC Monza,league_ita_seriea,00_4
+club_napoli,01_73,SSC Napoli,league_ita_seriea,00_4
+club_parma,01_74,Parma Calcio 1913,league_ita_seriea,00_4
+club_roma,01_75,AS Roma,league_ita_seriea,00_4
+club_torino,01_76,Torino FC,league_ita_seriea,00_4
+club_udinese,01_77,Udinese Calcio,league_ita_seriea,00_4
+club_venezia,01_78,Venezia FC,league_ita_seriea,00_4
+club_angers,01_79,Angers SCO,league_fra_ligue1,00_5
+club_auxerre,01_80,AJ Auxerre,league_fra_ligue1,00_5
+club_brest,01_81,Stade Brestois 29,league_fra_ligue1,00_5
+club_le_havre,01_82,Le Havre AC,league_fra_ligue1,00_5
+club_lens,01_83,RC Lens,league_fra_ligue1,00_5
+club_lille,01_84,LOSC Lille,league_fra_ligue1,00_5
+club_lyon,01_85,Olympique Lyonnais,league_fra_ligue1,00_5
+club_marseille,01_86,Olympique de Marseille,league_fra_ligue1,00_5
+club_monaco,01_87,AS Monaco FC,league_fra_ligue1,00_5
+club_montpellier,01_88,Montpellier Hérault SC,league_fra_ligue1,00_5
+club_nantes,01_89,FC Nantes,league_fra_ligue1,00_5
+club_nice,01_90,OGC Nice,league_fra_ligue1,00_5
+club_psg,01_91,Paris Saint-Germain FC,league_fra_ligue1,00_5
+club_reims,01_92,Stade de Reims,league_fra_ligue1,00_5
+club_rennes,01_93,Stade Rennais FC,league_fra_ligue1,00_5
+club_saint_etienne,01_94,AS Saint-Étienne,league_fra_ligue1,00_5
+club_strasbourg,01_95,RC Strasbourg Alsace,league_fra_ligue1,00_5
+club_toulouse,01_96,Toulouse FC,league_fra_ligue1,00_5
+club_albacete,01_97,Albacete BP,league_laliga2,00_6
+club_burgos,01_98,Burgos CF,league_laliga2,00_6
+club_castellon,01_99,CD Castellón,league_laliga2,00_6
+club_eldense,01_100,CD Eldense,league_laliga2,00_6
+club_mirandes,01_101,CD Mirandés,league_laliga2,00_6
+club_tenerife,01_102,CD Tenerife,league_laliga2,00_6
+club_cordoba,01_103,Córdoba CF,league_laliga2,00_6
+club_elche,01_104,Elche CF,league_laliga2,00_6
+club_cartagena,01_105,FC Cartagena,league_laliga2,00_6
+club_granada,01_106,Granada CF,league_laliga2,00_6
+club_levante,01_107,Levante UD,league_laliga2,00_6
+club_malaga,01_108,Málaga CF,league_laliga2,00_6
+club_racing,01_109,R. Racing Club,league_laliga2,00_6
+club_ferrol,01_110,Racing Club Ferrol,league_laliga2,00_6
+club_deportivo,01_111,RC Deportivo,league_laliga2,00_6
+club_oviedo,01_112,Real Oviedo,league_laliga2,00_6
+club_sporting,01_113,Real Sporting,league_laliga2,00_6
+club_zaragoza,01_114,Real Zaragoza,league_laliga2,00_6
+club_eibar,01_115,SD Eibar,league_laliga2,00_6
+club_huesca,01_116,SD Huesca,league_laliga2,00_6
+club_almeria,01_117,UD Almería,league_laliga2,00_6
+club_birmingham_city,01_118,Birmingham City,league_championship,00_7
+club_blackburn,01_119,Blackburn Rovers,league_championship,00_7
+club_blackpool,01_120,Blackpool,league_championship,00_7
+club_bristol_city,01_121,Bristol City,league_championship,00_7
+club_cardiff,01_122,Cardiff City,league_championship,00_7
+club_coventry,01_123,Coventry City,league_championship,00_7
+club_huddersfield,01_124,Huddersfield Town,league_championship,00_7
+club_hull,01_125,Hull City,league_championship,00_7
+club_leeds,01_126,Leeds United,league_championship,00_7
+club_middlesbrough,01_127,Middlesbrough,league_championship,00_7
+club_millwall,01_128,Millwall,league_championship,00_7
+club_norwich,01_129,Norwich City,league_championship,00_7
+club_oxford,01_130,Oxford United,league_championship,00_7
+club_plymouth,01_131,Plymouth Argyle,league_championship,00_7
+club_preston,01_132,Preston North End,league_championship,00_7
+club_qpr,01_133,Queens Park Rangers,league_championship,00_7
+club_rotherham,01_134,Rotherham United,league_championship,00_7
+club_sheff_utd,01_135,Sheffield United,league_championship,00_7
+club_sheff_wed,01_136,Sheffield Wednesday,league_championship,00_7
+club_stoke,01_137,Stoke City,league_championship,00_7
+club_sunderland,01_138,Sunderland,league_championship,00_7
+club_swansea,01_139,Swansea City,league_championship,00_7
+club_watford,01_140,Watford,league_championship,00_7
+club_west_brom,01_141,West Bromwich Albion,league_championship,00_7
+club_hamburg,01_142,Hamburger SV,league_ger_bundesliga2,00_8
+club_hannover,01_143,Hannover 96,league_ger_bundesliga2,00_8
+club_hertha,01_144,Hertha BSC,league_ger_bundesliga2,00_8
+club_dusseldorf,01_145,Fortuna Düsseldorf,league_ger_bundesliga2,00_8
+club_paderborn,01_146,SC Paderborn 07,league_ger_bundesliga2,00_8
+club_kiel,01_147,Holstein Kiel,league_ger_bundesliga2,00_8
+club_nurnberg,01_148,1. FC Nürnberg,league_ger_bundesliga2,00_8
+club_magdeburg,01_149,1. FC Magdeburg,league_ger_bundesliga2,00_8
+club_kasruher,01_150,Karlsruher SC,league_ger_bundesliga2,00_8
+club_greuther,01_151,SpVgg Greuther Fürth,league_ger_bundesliga2,00_8
+club_schalke,01_152,FC Schalke 04,league_ger_bundesliga2,00_8
+club_wiesbaden,01_153,SV Wehen Wiesbaden,league_ger_bundesliga2,00_8
+club_osnabruck,01_154,VfL Osnabrück,league_ger_bundesliga2,00_8
+club_elversberg,01_155,SV Elversberg,league_ger_bundesliga2,00_8
+club_sanktpauli,01_156,FC St. Pauli,league_ger_bundesliga2,00_8
+club_kaiserslautern,01_157,1. FC Kaiserslautern,league_ger_bundesliga2,00_8
+club_braunschweig,01_158,Eintracht Braunschweig,league_ger_bundesliga2,00_8
+club_hansa,01_159,Hansa Rostock,league_ger_bundesliga2,00_8
+club_bari,01_160,Bari,league_ita_serieb,00_9
+club_brescia,01_161,Brescia,league_ita_serieb,00_9
+club_carrarese,01_162,Carrarese,league_ita_serieb,00_9
+club_catanzaro,01_163,Catanzaro,league_ita_serieb,00_9
+club_cesena,01_164,Cesena,league_ita_serieb,00_9
+club_cittadella,01_165,Cittadella,league_ita_serieb,00_9
+club_cosenza,01_166,Cosenza,league_ita_serieb,00_9
+club_cremonese,01_167,Cremonese,league_ita_serieb,00_9
+club_frosinone,01_168,Frosinone,league_ita_serieb,00_9
+club_juve_stabia,01_169,Juve Stabia,league_ita_serieb,00_9
+club_mantova,01_170,Mantova,league_ita_serieb,00_9
+club_modena,01_171,Modena,league_ita_serieb,00_9
+club_palermo,01_172,Palermo,league_ita_serieb,00_9
+club_pisa,01_173,Pisa,league_ita_serieb,00_9
+club_reggiana,01_174,Reggiana,league_ita_serieb,00_9
+club_salernitana,01_175,Salernitana,league_ita_serieb,00_9
+club_sampdoria,01_176,Sampdoria,league_ita_serieb,00_9
+club_sassuolo,01_177,Sassuolo,league_ita_serieb,00_9
+club_spezia,01_178,Spezia,league_ita_serieb,00_9
+club_sudtirol,01_179,Südtirol,league_ita_serieb,00_9
+club_ajaccio,01_180,Ajaccio,league_fra_ligue2,00_10
+club_amiens,01_181,Amiens,league_fra_ligue2,00_10
+club_annecy,01_182,Annecy,league_fra_ligue2,00_10
+club_bastia,01_183,Bastia,league_fra_ligue2,00_10
+club_caen,01_184,Caen,league_fra_ligue2,00_10
+club_clermont,01_185,Clermont,league_fra_ligue2,00_10
+club_dunkerque,01_186,Dunkerque,league_fra_ligue2,00_10
+club_grenoble,01_187,Grenoble,league_fra_ligue2,00_10
+club_guingamp,01_188,Guingamp,league_fra_ligue2,00_10
+club_laval,01_189,Laval,league_fra_ligue2,00_10
+club_lorient,01_190,Lorient,league_fra_ligue2,00_10
+club_martigues,01_191,Martigues,league_fra_ligue2,00_10
+club_metz,01_192,Metz,league_fra_ligue2,00_10
+club_paris_fc,01_193,Paris FC,league_fra_ligue2,00_10
+club_pau,01_194,Pau,league_fra_ligue2,00_10
+club_red_star,01_195,Red Star,league_fra_ligue2,00_10
+club_rodez,01_196,Rodez,league_fra_ligue2,00_10
+club_troyes,01_197,Troyes,league_fra_ligue2,00_10
+club_ajax,01_198,Ajax,league_eredivisie,00_11
+club_psv,01_199,PSV Eindhoven,league_eredivisie,00_11
+club_feyenoord,01_200,Feyenoord,league_eredivisie,00_11
+club_az,01_201,AZ Alkmaar,league_eredivisie,00_11
+club_utrecht,01_202,FC Utrecht,league_eredivisie,00_11
+club_twente,01_203,FC Twente,league_eredivisie,00_11
+club_heerenveen,01_204,SC Heerenveen,league_eredivisie,00_11
+club_sparta,01_205,Sparta Rotterdam,league_eredivisie,00_11
+club_rkc,01_206,RKC Waalwijk,league_eredivisie,00_11
+club_nac,01_207,NAC Breda,league_eredivisie,00_11
+club_groningen,01_208,FC Groningen,league_eredivisie,00_11
+club_nijmegen,01_209,NEC Nijmegen,league_eredivisie,00_11
+club_zwolle,01_210,PEC Zwolle,league_eredivisie,00_11
+club_volendam,01_211,FC Volendam,league_eredivisie,00_11
+club_almere,01_212,Almere City FC,league_eredivisie,00_11
+club_excelsior,01_213,Excelsior Rotterdam,league_eredivisie,00_11
+club_heracles,01_214,Heracles Almelo,league_eredivisie,00_11
+club_fortuna,01_215,Fortuna Sittard,league_eredivisie,00_11
+club_arouca,01_216,FC Arouca,league_primeira,00_12
+club_avs,01_217,AVS Futebol,league_primeira,00_12
+club_benfica,01_218,SL Benfica,league_primeira,00_12
+club_boavista,01_219,Boavista FC,league_primeira,00_12
+club_braga,01_220,SC Braga,league_primeira,00_12
+club_casa_pia,01_221,Casa Pia AC,league_primeira,00_12
+club_estoril,01_222,GD Estoril Praia,league_primeira,00_12
+club_estrela,01_223,CF Estrela da Amadora,league_primeira,00_12
+club_famalicao,01_224,FC Famalicão,league_primeira,00_12
+club_farense,01_225,SC Farense,league_primeira,00_12
+club_gil_vicente,01_226,Gil Vicente FC,league_primeira,00_12
+club_moreirense,01_227,Moreirense FC,league_primeira,00_12
+club_nacional,01_228,CD Nacional,league_primeira,00_12
+club_porto,01_229,FC Porto,league_primeira,00_12
+club_rio_ave,01_230,Rio Ave FC,league_primeira,00_12
+club_santa_clara,01_231,CD Santa Clara,league_primeira,00_12
+club_sporting,01_232,Sporting CP,league_primeira,00_12
+club_guimaraes,01_233,Vitória SC,league_primeira,00_12
+club_adana,01_234,Adana Demirspor,league_turkish,00_13
+club_alanya,01_235,Alanyaspor,league_turkish,00_13
+club_antalya,01_236,Antalyaspor,league_turkish,00_13
+club_basaksehir,01_237,İstanbul Başakşehir,league_turkish,00_13
+club_besiktas,01_238,Beşiktaş,league_turkish,00_13
+club_bodrum,01_239,Bodrumspor,league_turkish,00_13
+club_eyupspor,01_240,Eyüpspor,league_turkish,00_13
+club_fenerbahce,01_241,Fenerbahçe,league_turkish,00_13
+club_galatasaray,01_242,Galatasaray,league_turkish,00_13
+club_gaziantep,01_243,Gaziantep FK,league_turkish,00_13
+club_goztepe,01_244,Göztepe,league_turkish,00_13
+club_hatayspor,01_245,Hatayspor,league_turkish,00_13
+club_kasimpasa,01_246,Kasımpaşa,league_turkish,00_13
+club_kayseri,01_247,Kayserispor,league_turkish,00_13
+club_konya,01_248,Konyaspor,league_turkish,00_13
+club_rizespor,01_249,Çaykur Rizespor,league_turkish,00_13
+club_samsun,01_250,Samsunspor,league_turkish,00_13
+club_sivas,01_251,Sivasspor,league_turkish,00_13
+club_trabzonspor,01_252,Trabzonspor,league_turkish,00_13
+club_anderlecht,01_253,RSC Anderlecht,league_belgian,00_14
+club_antwerp,01_254,Royal Antwerp FC,league_belgian,00_14
+club_beerschot,01_255,Beerschot VA,league_belgian,00_14
+club_cercle_brugge,01_256,Cercle Brugge,league_belgian,00_14
+club_charleroi,01_257,Sporting Charleroi,league_belgian,00_14
+club_club_brugge,01_258,Club Brugge KV,league_belgian,00_14
+club_dender,01_259,FCV Dender EH,league_belgian,00_14
+club_genk,01_260,KRC Genk,league_belgian,00_14
+club_gent,01_261,KAA Gent,league_belgian,00_14
+club_kortrijk,01_262,KV Kortrijk,league_belgian,00_14
+club_mechelen,01_263,KV Mechelen,league_belgian,00_14
+club_oh_leuven,01_264,Oud-Heverlee Leuven,league_belgian,00_14
+club_sint_truiden,01_265,Sint-Truidense VV,league_belgian,00_14
+club_standard,01_266,Standard Liège,league_belgian,00_14
+club_union_sg,01_267,Union Saint-Gilloise,league_belgian,00_14
+club_westerlo,01_268,KVC Westerlo,league_belgian,00_14
+club_basel,01_269,FC Basel 1893,league_swiss,00_15
+club_young_boys,01_270,BSC Young Boys,league_swiss,00_15
+club_lugano,01_271,FC Lugano,league_swiss,00_15
+club_lausanne,01_272,FC Lausanne-Sport,league_swiss,00_15
+club_st_gallen,01_273,FC St. Gallen 1879,league_swiss,00_15
+club_servette,01_274,Servette FC,league_swiss,00_15
+club_luzern,01_275,FC Luzern,league_swiss,00_15
+club_zurich,01_276,FC Zürich,league_swiss,00_15
+club_sion,01_277,FC Sion,league_swiss,00_15
+club_grasshoppers,01_278,Grasshopper Club Zurich,league_swiss,00_15
+club_yverdon,01_279,Yverdon Sport FC,league_swiss,00_15
+club_winterthur,01_280,FC Winterthur,league_swiss,00_15
+club_zenit,01_281,Zenit St. Petersburg,league_russian,00_16
+club_spartak_moscow,01_282,Spartak Moscow,league_russian,00_16
+club_cska_moscow,01_283,CSKA Moscow,league_russian,00_16
+club_lokomotiv_moscow,01_284,Lokomotiv Moscow,league_russian,00_16
+club_dynamo_moscow,01_285,Dynamo Moscow,league_russian,00_16
+club_krasnodar,01_286,FC Krasnodar,league_russian,00_16
+club_rubin_kazan,01_287,Rubin Kazan,league_russian,00_16
+club_rostov,01_288,FC Rostov,league_russian,00_16
+club_sochi,01_289,PFC Sochi,league_russian,00_16
+club_khimki,01_290,FC Khimki,league_russian,00_16
+club_ural,01_291,FC Ural,league_russian,00_16
+club_orenburg,01_292,FC Orenburg,league_russian,00_16
+club_krylya_sovetov,01_293,Krylya Sovetov,league_russian,00_16
+club_fakel_voronezh,01_294,FC Fakel Voronezh,league_russian,00_16
+club_pari_nn,01_295,Pari NN,league_russian,00_16
+club_akron_tolyatti,01_296,FC Akron Tolyatti,league_russian,00_16
+club_dynamo_makhachkala,01_297,Dynamo Makhachkala,league_russian,00_16
+club_shakhtar,01_298,Shakhtar Donetsk,league_ukrainian,00_17
+club_dynamo_kyiv,01_299,Dynamo Kyiv,league_ukrainian,00_17
+club_zorya_luhansk,01_300,Zorya Luhansk,league_ukrainian,00_17
+club_dnipro,01_301,Dnipro,league_ukrainian,00_17
+club_oleksandriya,01_302,FC Oleksandriya,league_ukrainian,00_17
+club_kolos_kovalivka,01_303,Kolos Kovalivka,league_ukrainian,00_17
+club_vorskla_poltava,01_304,Vorskla Poltava,league_ukrainian,00_17
+club_rukh_lviv,01_305,Rukh Lviv,league_ukrainian,00_17
+club_veres_rivne,01_306,Veres Rivne,league_ukrainian,00_17
+club_polissia_zhytomyr,01_307,Polissia Zhytomyr,league_ukrainian,00_17
+club_kryvbas,01_308,Kryvbas Kryvyi Rih,league_ukrainian,00_17
+club_chornomorets,01_309,Chornomorets Odesa,league_ukrainian,00_17
+club_inhulets,01_310,Inhulets Petrove,league_ukrainian,00_17
+club_obolon_kyiv,01_311,Obolon Kyiv,league_ukrainian,00_17
+club_lviv,01_312,FC Lviv,league_ukrainian,00_17
+club_livyi_bereh,01_313,Livyi Bereh Kyiv,league_ukrainian,00_17
+club_lnz_cherkasy,01_314,LNZ Cherkasy,league_ukrainian,00_17
+club_celtic,01_315,Celtic FC,league_scottish,00_18
+club_rangers,01_316,Rangers FC,league_scottish,00_18
+club_aberdeen,01_317,Aberdeen FC,league_scottish,00_18
+club_hearts,01_318,Heart of Midlothian FC,league_scottish,00_18
+club_hibernian,01_319,Hibernian FC,league_scottish,00_18
+club_dundee_united,01_320,Dundee United FC,league_scottish,00_18
+club_kilmarnock,01_321,Kilmarnock FC,league_scottish,00_18
+club_motherwell,01_322,Motherwell FC,league_scottish,00_18
+club_st_mirren,01_323,St. Mirren FC,league_scottish,00_18
+club_dundee,01_324,Dundee FC,league_scottish,00_18
+club_st_johnstone,01_325,St. Johnstone FC,league_scottish,00_18
+club_ross_county,01_326,Ross County FC,league_scottish,00_18
+club_rb_salzburg,01_327,Red Bull Salzburg,league_austrian,00_19
+club_sturm_graz,01_328,SK Sturm Graz,league_austrian,00_19
+club_rapid_wien,01_329,SK Rapid Wien,league_austrian,00_19
+club_austria_wien,01_330,FK Austria Wien,league_austrian,00_19
+club_lask,01_331,LASK,league_austrian,00_19
+club_wolfsberger,01_332,Wolfsberger AC,league_austrian,00_19
+club_wsg_tirol,01_333,WSG Tirol,league_austrian,00_19
+club_hartberg,01_334,TSV Hartberg,league_austrian,00_19
+club_altach,01_335,SC Rheindorf Altach,league_austrian,00_19
+club_blau_weiss_linz,01_336,FC Blau-Weiß Linz,league_austrian,00_19
+club_austria_klagenfurt,01_337,SK Austria Klagenfurt,league_austrian,00_19
+club_grazer_ak,01_338,Grazer AK,league_austrian,00_19
+club_olympiacos,01_339,Olympiacos FC,league_greek,00_20
+club_panathinaikos,01_340,Panathinaikos FC,league_greek,00_20
+club_aek_athens,01_341,AEK Athens FC,league_greek,00_20
+club_paok,01_342,PAOK FC,league_greek,00_20
+club_aris,01_343,Aris Thessaloniki FC,league_greek,00_20
+club_ofi,01_344,OFI Crete FC,league_greek,00_20
+club_asteras_tripolis,01_345,Asteras Tripolis FC,league_greek,00_20
+club_atromitos,01_346,Atromitos FC,league_greek,00_20
+club_volos,01_347,Volos FC,league_greek,00_20
+club_panetolikos,01_348,Panetolikos FC,league_greek,00_20
+club_lamia,01_349,PAS Lamia 1964,league_greek,00_20
+club_levadiakos,01_350,Levadiakos FC,league_greek,00_20
+club_panserraikos,01_351,Panserraikos FC,league_greek,00_20
+club_kallithea,01_352,Athens Kallithea FC,league_greek,00_20
+club_inter_miami,01_353,Inter Miami CF,league_mls,00_21
+club_la_galaxy,01_354,LA Galaxy,league_mls,00_21
+club_atlanta_united,01_355,Atlanta United FC,league_mls,00_21
+club_fc_cincinnati,01_356,FC Cincinnati,league_mls,00_21
+club_seattle_sounders,01_357,Seattle Sounders FC,league_mls,00_21
+club_lafc,01_358,Los Angeles FC,league_mls,00_21
+club_portland_timbers,01_359,Portland Timbers,league_mls,00_21
+club_austin_fc,01_360,Austin FC,league_mls,00_21
+club_columbus_crew,01_361,Columbus Crew,league_mls,00_21
+club_charlotte_fc,01_362,Charlotte FC,league_mls,00_21
+club_vancouver_whitecaps,01_363,Vancouver Whitecaps FC,league_mls,00_21
+club_san_diego_fc,01_364,San Diego FC,league_mls,00_21
+club_minnesota_united,01_365,Minnesota United FC,league_mls,00_21
+club_orlando_city,01_366,Orlando City SC,league_mls,00_21
+club_st_louis_city,01_367,St. Louis CITY SC,league_mls,00_21
+club_fc_dallas,01_368,FC Dallas,league_mls,00_21
+club_nycfc,01_369,New York City FC,league_mls,00_21
+club_new_york_red_bulls,01_370,New York Red Bulls,league_mls,00_21
+club_san_jose,01_371,San Jose Earthquakes,league_mls,00_21
+club_chicago_fire,01_372,Chicago Fire FC,league_mls,00_21
+club_nashville_sc,01_373,Nashville SC,league_mls,00_21
+club_real_salt_lake,01_374,Real Salt Lake,league_mls,00_21
+club_houston_dynamo,01_375,Houston Dynamo FC,league_mls,00_21
+club_colorado_rapids,01_376,Colorado Rapids,league_mls,00_21
+club_philadelphia_union,01_377,Philadelphia Union,league_mls,00_21
+club_new_england_revolution,01_378,New England Revolution,league_mls,00_21
+club_sporting_kc,01_379,Sporting Kansas City,league_mls,00_21
+club_cf_montreal,01_380,CF Montréal,league_mls,00_21
+club_dc_united,01_381,D.C. United,league_mls,00_21
+club_toronto_fc,01_382,Toronto FC,league_mls,00_21

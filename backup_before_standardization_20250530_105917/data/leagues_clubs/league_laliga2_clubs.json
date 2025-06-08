@@ -1,0 +1,23 @@
+[
+  {"id": "club_albacete", "name": "Albacete BP", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_burgos", "name": "Burgos CF", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_castellon", "name": "CD Castellón", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_eldense", "name": "CD Eldense", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_mirandes", "name": "CD Mirandés", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_tenerife", "name": "CD Tenerife", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_cordoba", "name": "Córdoba CF", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_elche", "name": "Elche CF", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_cartagena", "name": "FC Cartagena", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_granada", "name": "Granada CF", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_levante", "name": "Levante UD", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_malaga", "name": "Málaga CF", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_racing", "name": "R. Racing Club", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_ferrol", "name": "Racing Club Ferrol", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_deportivo", "name": "RC Deportivo", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_oviedo", "name": "Real Oviedo", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_sporting", "name": "Real Sporting", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_zaragoza", "name": "Real Zaragoza", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_eibar", "name": "SD Eibar", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_huesca", "name": "SD Huesca", "country_code": "ESP", "league_id": "league_laliga2"},
+  {"id": "club_almeria", "name": "UD Almería", "country_code": "ESP", "league_id": "league_laliga2"}
+]

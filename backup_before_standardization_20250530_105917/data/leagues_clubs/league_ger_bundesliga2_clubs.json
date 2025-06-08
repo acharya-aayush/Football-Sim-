@@ -1,0 +1,20 @@
+[
+  {"id": "club_hamburg", "name": "Hamburger SV", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_hannover", "name": "Hannover 96", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_hertha", "name": "Hertha BSC", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_dusseldorf", "name": "Fortuna Düsseldorf", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_paderborn", "name": "SC Paderborn 07", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_kiel", "name": "Holstein Kiel", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_nurnberg", "name": "1. FC Nürnberg", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_magdeburg", "name": "1. FC Magdeburg", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_kasruher", "name": "Karlsruher SC", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_greuther", "name": "SpVgg Greuther Fürth", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_schalke", "name": "FC Schalke 04", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_wiesbaden", "name": "SV Wehen Wiesbaden", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_osnabruck", "name": "VfL Osnabrück", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_elversberg", "name": "SV Elversberg", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_sanktpauli", "name": "FC St. Pauli", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_kaiserslautern", "name": "1. FC Kaiserslautern", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_braunschweig", "name": "Eintracht Braunschweig", "country_code": "DEU", "league_id": "league_ger_bundesliga2"},
+  {"id": "club_hansa", "name": "Hansa Rostock", "country_code": "DEU", "league_id": "league_ger_bundesliga2"}
+]

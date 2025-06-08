@@ -1,0 +1,814 @@
+[
+  {
+    "name": "Jorge Flores",
+    "age": 30,
+    "position": "GK",
+    "nationality": "Argentina",
+    "current_ability": 72,
+    "potential_ability": 75,
+    "market_value": 8000000,
+    "attributes": {
+      "pace": 68,
+      "shooting": 61,
+      "passing": 76,
+      "defending": 66,
+      "dribbling": 60,
+      "physical": 61
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 138627,
+      "release_clause": 17190877
+    },
+    "traits": [
+      "Defensive Wall",
+      "Consistent Performer",
+      "Big Game Player"
+    ],
+    "player_id": "11_10463"
+  },
+  {
+    "name": "Claudio Valencia",
+    "age": 33,
+    "position": "GK",
+    "nationality": "Argentina",
+    "current_ability": 75,
+    "potential_ability": 79,
+    "market_value": 8224999,
+    "attributes": {
+      "pace": 74,
+      "shooting": 67,
+      "passing": 73,
+      "defending": 69,
+      "dribbling": 74,
+      "physical": 71
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 8289,
+      "release_clause": 32433566
+    },
+    "traits": [
+      "Defensive Wall",
+      "Playmaker",
+      "Injury Prone"
+    ],
+    "player_id": "11_10464"
+  },
+  {
+    "name": "Pablo Medina",
+    "age": 20,
+    "position": "CB",
+    "nationality": "Argentina",
+    "current_ability": 73,
+    "potential_ability": 81,
+    "market_value": 9900000,
+    "attributes": {
+      "pace": 74,
+      "shooting": 77,
+      "passing": 63,
+      "defending": 73,
+      "dribbling": 71,
+      "physical": 60
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 21511,
+      "release_clause": 9832288
+    },
+    "traits": [
+      "Injury Prone",
+      "Playmaker"
+    ],
+    "player_id": "11_10465"
+  },
+  {
+    "name": "Adrián Figueroa",
+    "age": 19,
+    "position": "CB",
+    "nationality": "Argentina",
+    "current_ability": 62,
+    "potential_ability": 72,
+    "market_value": 6710000,
+    "attributes": {
+      "pace": 63,
+      "shooting": 63,
+      "passing": 56,
+      "defending": 59,
+      "dribbling": 66,
+      "physical": 58
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 145318,
+      "release_clause": 91285028
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_10466"
+  },
+  {
+    "name": "Marcos Ortega",
+    "age": 18,
+    "position": "CB",
+    "nationality": "Argentina",
+    "current_ability": 63,
+    "potential_ability": 63,
+    "market_value": 7130000,
+    "attributes": {
+      "pace": 59,
+      "shooting": 57,
+      "passing": 68,
+      "defending": 67,
+      "dribbling": 55,
+      "physical": 51
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 105241,
+      "release_clause": 76499949
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Leadership"
+    ],
+    "player_id": "11_10467"
+  },
+  {
+    "name": "Francisco Figueroa",
+    "age": 25,
+    "position": "CB",
+    "nationality": "Argentina",
+    "current_ability": 77,
+    "potential_ability": 87,
+    "market_value": 10174999,
+    "attributes": {
+      "pace": 69,
+      "shooting": 62,
+      "passing": 67,
+      "defending": 87,
+      "dribbling": 71,
+      "physical": 72
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 124813,
+      "release_clause": 76738178
+    },
+    "traits": [
+      "Injury Prone",
+      "Clinical Finisher",
+      "Speed Demon"
+    ],
+    "player_id": "11_10468"
+  },
+  {
+    "name": "Sebastián Navarro",
+    "age": 29,
+    "position": "LB",
+    "nationality": "Argentina",
+    "current_ability": 84,
+    "potential_ability": 93,
+    "market_value": 11220000,
+    "attributes": {
+      "pace": 92,
+      "shooting": 87,
+      "passing": 87,
+      "defending": 89,
+      "dribbling": 71,
+      "physical": 74
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 16268,
+      "release_clause": 48543995
+    },
+    "traits": [
+      "Leadership"
+    ],
+    "player_id": "11_10469"
+  },
+  {
+    "name": "Ezequiel Ortega",
+    "age": 25,
+    "position": "LB",
+    "nationality": "Argentina",
+    "current_ability": 76,
+    "potential_ability": 91,
+    "market_value": 9899999,
+    "attributes": {
+      "pace": 85,
+      "shooting": 65,
+      "passing": 73,
+      "defending": 78,
+      "dribbling": 76,
+      "physical": 73
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 118766,
+      "release_clause": 71305967
+    },
+    "traits": [
+      "Playmaker",
+      "Injury Prone"
+    ],
+    "player_id": "11_10470"
+  },
+  {
+    "name": "Martín Ortega",
+    "age": 29,
+    "position": "RB",
+    "nationality": "Argentina",
+    "current_ability": 77,
+    "potential_ability": 85,
+    "market_value": 9435000,
+    "attributes": {
+      "pace": 87,
+      "shooting": 64,
+      "passing": 77,
+      "defending": 74,
+      "dribbling": 62,
+      "physical": 63
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 61613,
+      "release_clause": 74395403
+    },
+    "traits": [
+      "Leadership",
+      "Versatile"
+    ],
+    "player_id": "11_10471"
+  },
+  {
+    "name": "Leandro Tapia",
+    "age": 22,
+    "position": "RB",
+    "nationality": "Argentina",
+    "current_ability": 86,
+    "potential_ability": 97,
+    "market_value": 13340000,
+    "attributes": {
+      "pace": 81,
+      "shooting": 77,
+      "passing": 75,
+      "defending": 95,
+      "dribbling": 74,
+      "physical": 78
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 123007,
+      "release_clause": 62206018
+    },
+    "traits": [
+      "Leadership",
+      "Flair",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_10472"
+  },
+  {
+    "name": "Adrián Soto",
+    "age": 32,
+    "position": "DM",
+    "nationality": "Argentina",
+    "current_ability": 86,
+    "potential_ability": 99,
+    "market_value": 11040000,
+    "attributes": {
+      "pace": 71,
+      "shooting": 71,
+      "passing": 92,
+      "defending": 88,
+      "dribbling": 76,
+      "physical": 76
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 21034,
+      "release_clause": 44328633
+    },
+    "traits": [
+      "Injury Prone",
+      "Versatile"
+    ],
+    "player_id": "11_10473"
+  },
+  {
+    "name": "Martín Álvarez",
+    "age": 31,
+    "position": "DM",
+    "nationality": "Argentina",
+    "current_ability": 66,
+    "potential_ability": 77,
+    "market_value": 6370000,
+    "attributes": {
+      "pace": 57,
+      "shooting": 65,
+      "passing": 75,
+      "defending": 55,
+      "dribbling": 68,
+      "physical": 66
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 74062,
+      "release_clause": 97491676
+    },
+    "traits": [
+      "Injury Prone",
+      "Consistent Performer",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_10474"
+  },
+  {
+    "name": "Cristian Navarro",
+    "age": 26,
+    "position": "CM",
+    "nationality": "Argentina",
+    "current_ability": 81,
+    "potential_ability": 80,
+    "market_value": 11070000,
+    "attributes": {
+      "pace": 68,
+      "shooting": 75,
+      "passing": 90,
+      "defending": 83,
+      "dribbling": 79,
+      "physical": 70
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 13976,
+      "release_clause": 33786348
+    },
+    "traits": [
+      "Speed Demon"
+    ],
+    "player_id": "11_10475"
+  },
+  {
+    "name": "Andrés Navarro",
+    "age": 22,
+    "position": "CM",
+    "nationality": "Argentina",
+    "current_ability": 72,
+    "potential_ability": 70,
+    "market_value": 9280000,
+    "attributes": {
+      "pace": 65,
+      "shooting": 68,
+      "passing": 74,
+      "defending": 68,
+      "dribbling": 59,
+      "physical": 64
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 30723,
+      "release_clause": 58566777
+    },
+    "traits": [
+      "Defensive Wall",
+      "Versatile",
+      "Consistent Performer"
+    ],
+    "player_id": "11_10476"
+  },
+  {
+    "name": "Daniel Figueroa",
+    "age": 18,
+    "position": "CM",
+    "nationality": "Argentina",
+    "current_ability": 70,
+    "potential_ability": 77,
+    "market_value": 9300000,
+    "attributes": {
+      "pace": 63,
+      "shooting": 59,
+      "passing": 77,
+      "defending": 57,
+      "dribbling": 71,
+      "physical": 61
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 76152,
+      "release_clause": 47294206
+    },
+    "traits": [
+      "Flair",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_10477"
+  },
+  {
+    "name": "Agustín Messi",
+    "age": 30,
+    "position": "CM",
+    "nationality": "Argentina",
+    "current_ability": 69,
+    "potential_ability": 68,
+    "market_value": 7250000,
+    "attributes": {
+      "pace": 66,
+      "shooting": 71,
+      "passing": 78,
+      "defending": 63,
+      "dribbling": 64,
+      "physical": 57
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 146149,
+      "release_clause": 43258934
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_10478"
+  },
+  {
+    "name": "Andrés Medina",
+    "age": 21,
+    "position": "LM",
+    "nationality": "Argentina",
+    "current_ability": 64,
+    "potential_ability": 79,
+    "market_value": 7080000,
+    "attributes": {
+      "pace": 65,
+      "shooting": 65,
+      "passing": 54,
+      "defending": 55,
+      "dribbling": 63,
+      "physical": 64
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 11980,
+      "release_clause": 77984548
+    },
+    "traits": [
+      "Playmaker"
+    ],
+    "player_id": "11_10479"
+  },
+  {
+    "name": "Pablo Herrera",
+    "age": 29,
+    "position": "LM",
+    "nationality": "Argentina",
+    "current_ability": 80,
+    "potential_ability": 92,
+    "market_value": 10200000,
+    "attributes": {
+      "pace": 80,
+      "shooting": 84,
+      "passing": 78,
+      "defending": 80,
+      "dribbling": 79,
+      "physical": 80
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 13895,
+      "release_clause": 89890262
+    },
+    "traits": [
+      "Leadership"
+    ],
+    "player_id": "11_10480"
+  },
+  {
+    "name": "Martín Herrera",
+    "age": 31,
+    "position": "RM",
+    "nationality": "Argentina",
+    "current_ability": 57,
+    "potential_ability": 64,
+    "market_value": 4165000,
+    "attributes": {
+      "pace": 62,
+      "shooting": 51,
+      "passing": 42,
+      "defending": 48,
+      "dribbling": 52,
+      "physical": 54
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 71050,
+      "release_clause": 89476185
+    },
+    "traits": [
+      "Flair",
+      "Big Game Player",
+      "Versatile"
+    ],
+    "player_id": "11_10481"
+  },
+  {
+    "name": "Tomás Herrera",
+    "age": 31,
+    "position": "RM",
+    "nationality": "Argentina",
+    "current_ability": 88,
+    "potential_ability": 94,
+    "market_value": 11760000,
+    "attributes": {
+      "pace": 83,
+      "shooting": 78,
+      "passing": 91,
+      "defending": 73,
+      "dribbling": 89,
+      "physical": 84
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 75102,
+      "release_clause": 7320445
+    },
+    "traits": [
+      "Consistent Performer",
+      "Leadership",
+      "Versatile"
+    ],
+    "player_id": "11_10482"
+  },
+  {
+    "name": "Ángel Heredia",
+    "age": 32,
+    "position": "AM",
+    "nationality": "Argentina",
+    "current_ability": 67,
+    "potential_ability": 71,
+    "market_value": 6480000,
+    "attributes": {
+      "pace": 64,
+      "shooting": 52,
+      "passing": 64,
+      "defending": 71,
+      "dribbling": 57,
+      "physical": 60
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 119501,
+      "release_clause": 46299530
+    },
+    "traits": [
+      "Versatile"
+    ],
+    "player_id": "11_10483"
+  },
+  {
+    "name": "Joaquín Pérez",
+    "age": 27,
+    "position": "AM",
+    "nationality": "Argentina",
+    "current_ability": 65,
+    "potential_ability": 70,
+    "market_value": 6625000,
+    "attributes": {
+      "pace": 56,
+      "shooting": 55,
+      "passing": 74,
+      "defending": 67,
+      "dribbling": 65,
+      "physical": 65
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 59422,
+      "release_clause": 52028948
+    },
+    "traits": [
+      "Versatile"
+    ],
+    "player_id": "11_10484"
+  },
+  {
+    "name": "Miguel Flores",
+    "age": 28,
+    "position": "LW",
+    "nationality": "Argentina",
+    "current_ability": 70,
+    "potential_ability": 72,
+    "market_value": 7800000,
+    "attributes": {
+      "pace": 72,
+      "shooting": 66,
+      "passing": 69,
+      "defending": 67,
+      "dribbling": 70,
+      "physical": 70
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 36111,
+      "release_clause": 86105722
+    },
+    "traits": [
+      "Injury Prone",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_10485"
+  },
+  {
+    "name": "Miguel Cortés",
+    "age": 31,
+    "position": "LW",
+    "nationality": "Argentina",
+    "current_ability": 88,
+    "potential_ability": 98,
+    "market_value": 11760000,
+    "attributes": {
+      "pace": 97,
+      "shooting": 79,
+      "passing": 77,
+      "defending": 77,
+      "dribbling": 83,
+      "physical": 92
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 149387,
+      "release_clause": 78297930
+    },
+    "traits": [
+      "Defensive Wall",
+      "Big Game Player"
+    ],
+    "player_id": "11_10486"
+  },
+  {
+    "name": "Matías Figueroa",
+    "age": 35,
+    "position": "RW",
+    "nationality": "Argentina",
+    "current_ability": 70,
+    "potential_ability": 82,
+    "market_value": 6749999,
+    "attributes": {
+      "pace": 67,
+      "shooting": 71,
+      "passing": 56,
+      "defending": 69,
+      "dribbling": 79,
+      "physical": 58
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 67418,
+      "release_clause": 9168159
+    },
+    "traits": [
+      "Injury Prone",
+      "Defensive Wall",
+      "Big Game Player"
+    ],
+    "player_id": "11_10487"
+  },
+  {
+    "name": "Franco Maradona",
+    "age": 18,
+    "position": "RW",
+    "nationality": "Argentina",
+    "current_ability": 81,
+    "potential_ability": 93,
+    "market_value": 12710000,
+    "attributes": {
+      "pace": 87,
+      "shooting": 75,
+      "passing": 81,
+      "defending": 83,
+      "dribbling": 81,
+      "physical": 76
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2030-06-30",
+      "weekly_wage": 27847,
+      "release_clause": 51694048
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_10488"
+  },
+  {
+    "name": "Juan Aguilar",
+    "age": 33,
+    "position": "ST",
+    "nationality": "Argentina",
+    "current_ability": 61,
+    "potential_ability": 69,
+    "market_value": 4935000,
+    "attributes": {
+      "pace": 57,
+      "shooting": 63,
+      "passing": 47,
+      "defending": 53,
+      "dribbling": 47,
+      "physical": 48
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 87691,
+      "release_clause": 55399606
+    },
+    "traits": [
+      "Speed Demon",
+      "Injury Prone",
+      "Versatile"
+    ],
+    "player_id": "11_10489"
+  },
+  {
+    "name": "Tomás Valdés",
+    "age": 26,
+    "position": "ST",
+    "nationality": "Argentina",
+    "current_ability": 87,
+    "potential_ability": 99,
+    "market_value": 12690000,
+    "attributes": {
+      "pace": 88,
+      "shooting": 78,
+      "passing": 87,
+      "defending": 73,
+      "dribbling": 87,
+      "physical": 79
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 93482,
+      "release_clause": 26205035
+    },
+    "traits": [
+      "Injury Prone"
+    ],
+    "player_id": "11_10490"
+  },
+  {
+    "name": "Adrián Valencia",
+    "age": 24,
+    "position": "ST",
+    "nationality": "Argentina",
+    "current_ability": 71,
+    "potential_ability": 82,
+    "market_value": 8680000,
+    "attributes": {
+      "pace": 68,
+      "shooting": 62,
+      "passing": 74,
+      "defending": 69,
+      "dribbling": 76,
+      "physical": 57
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2030-06-30",
+      "weekly_wage": 133306,
+      "release_clause": 24771385
+    },
+    "traits": [
+      "Playmaker",
+      "Versatile"
+    ],
+    "player_id": "11_10491"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01_209",
+    "name": "Bari",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_210",
+    "name": "Brescia",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_211",
+    "name": "Carrarese",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_212",
+    "name": "Catanzaro",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_213",
+    "name": "Cesena",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_214",
+    "name": "Cittadella",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_215",
+    "name": "Cosenza",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_216",
+    "name": "Cremonese",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_217",
+    "name": "Frosinone",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_218",
+    "name": "Juve Stabia",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_219",
+    "name": "Mantova",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_220",
+    "name": "Modena",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_221",
+    "name": "Palermo",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_222",
+    "name": "Pisa",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_223",
+    "name": "Reggiana",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_224",
+    "name": "Salernitana",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_225",
+    "name": "Sampdoria",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_226",
+    "name": "Sassuolo",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_227",
+    "name": "Spezia",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  },
+  {
+    "id": "01_228",
+    "name": "Südtirol",
+    "country_code": "ITA",
+    "league_id": "00_9"
+  }
+]

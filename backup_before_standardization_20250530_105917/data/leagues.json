@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "league_epl",
+    "name": "English Premier Division",
+    "tier": 1,
+    "is_top_five": true,
+    "short_name": "EPD",
+    "country_code": "ENG",
+    "num_teams": 20,
+    "promotion_spots": 0,
+    "relegation_spots": 3,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 95,
+    "average_club_financial_power": "High",
+    "prize_money_distribution": {
+      "winner": 50000000,
+      "runner_up": 35000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_man_u",
+      "most_titles_count": 20,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_man_u",
+          "titles": 20
+        },
+        {
+          "club_id": "club_liverpool",
+          "titles": 19
+        },
+        {
+          "club_id": "club_arsenal",
+          "titles": 13
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Alan Shearer",
+        "goals": 260
+      },
+      "all_time_top_assister": {
+        "name": "Ryan Giggs",
+        "assists": 162
+      },
+      "most_points_in_a_season": {
+        "team": "Manchester City",
+        "points": 100,
+        "season": "2017-2018"
+      },
+      "most_goals_in_a_season": {
+        "player": "Erling Haaland",
+        "goals": 36,
+        "season": "2022-2023"
+      },
+      "most_assists_in_a_season": {
+        "player": "Kevin De Bruyne",
+        "assists": 20,
+        "season": "2019-2020"
+      },
+      "top_3_scorers": [
+        {
+          "name": "Alan Shearer",
+          "goals": 260
+        },
+        {
+          "name": "Wayne Rooney",
+          "goals": 208
+        },
+        {
+          "name": "Harry Kane",
+          "goals": 213
+        }
+      ],
+      "top_3_assisters": [
+        {
+          "name": "Ryan Giggs",
+          "assists": 162
+        },
+        {
+          "name": "Cesc Fàbregas",
+          "assists": 111
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "assists": 93
+        }
+      ],
+      "most_appearances": {
+        "player": "Gareth Barry",
+        "appearances": 653
+      }
+    }
+  },
+  {
+    "id": "league_laliga",
+    "name": "LaLiga",
+    "short_name": "LL",
+    "country_code": "ESP",
+    "tier": 1,
+    "is_top_five": true,
+    "num_teams": 20,
+    "promotion_spots": 0,
+    "relegation_spots": 3,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 90,
+    "average_club_financial_power": "High",
+    "prize_money_distribution": {
+      "winner": 45000000,
+      "runner_up": 30000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_real_madrid",
+      "most_titles_count": 35,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_real_madrid",
+          "titles": 35
+        },
+        {
+          "club_id": "club_barcelona",
+          "titles": 27
+        },
+        {
+          "club_id": "club_atletico_madrid",
+          "titles": 11
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Lionel Messi",
+        "goals": 474
+      },
+      "all_time_top_assister": {
+        "name": "Lionel Messi",
+        "assists": 192
+      },
+      "most_points_in_a_season": {
+        "team": "Barcelona",
+        "points": 100,
+        "season": "2012-2013"
+      },
+      "most_goals_in_a_season": {
+        "player": "Lionel Messi",
+        "goals": 50,
+        "season": "2011-2012"
+      },
+      "most_assists_in_a_season": {
+        "player": "Lionel Messi",
+        "assists": 21,
+        "season": "2019-2020"
+      },
+      "top_3_scorers": [
+        {
+          "name": "Lionel Messi",
+          "goals": 474
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "goals": 311
+        },
+        {
+          "name": "Telmo Zarra",
+          "goals": 251
+        }
+      ],
+      "top_3_assisters": [
+        {
+          "name": "Lionel Messi",
+          "assists": 192
+        },
+        {
+          "name": "Xavi",
+          "assists": 129
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "assists": 95
+        }
+      ],
+      "most_appearances": {
+        "player": "Andoni Zubizarreta",
+        "appearances": 622
+      }
+    }
+  },
+  {
+    "id": "league_ger_bundesliga",
+    "name": "German Bundesliga",
+    "short_name": "BL",
+    "country_code": "DEU",
+    "tier": 1,
+    "is_top_five": true,
+    "num_teams": 18,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 88,
+    "average_club_financial_power": "High",
+    "prize_money_distribution": {
+      "winner": 40000000,
+      "runner_up": 25000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_bayern_munich",
+      "most_titles_count": 32,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_bayern_munich",
+          "titles": 32
+        },
+        {
+          "club_id": "club_bvb",
+          "titles": 8
+        },
+        {
+          "club_id": "club_borussia_monchengladbach",
+          "titles": 5
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Gerd Müller",
+        "goals": 365
+      },
+      "all_time_top_assister": {
+        "name": "Thomas Müller",
+        "assists": 152
+      },
+      "most_points_in_a_season": {
+        "team": "Bayern Munich",
+        "points": 91,
+        "season": "2012-2013"
+      },
+      "most_goals_in_a_season": {
+        "player": "Gerd Müller",
+        "goals": 40,
+        "season": "1971-1972"
+      },
+      "most_assists_in_a_season": {
+        "player": "Thomas Müller",
+        "assists": 21,
+        "season": "2019-2020"
+      },
+      "top_3_scorers": [
+        {
+          "name": "Gerd Müller",
+          "goals": 365
+        },
+        {
+          "name": "Robert Lewandowski",
+          "goals": 312
+        },
+        {
+          "name": "Klaus Fischer",
+          "goals": 268
+        }
+      ],
+      "top_3_assisters": [
+        {
+          "name": "Thomas Müller",
+          "assists": 152
+        },
+        {
+          "name": "Franck Ribéry",
+          "assists": 92
+        },
+        {
+          "name": "Arjen Robben",
+          "assists": 81
+        }
+      ],
+      "most_appearances": {
+        "player": "Charly Körbel",
+        "appearances": 602
+      }
+    }
+  },
+  {
+    "id": "league_ita_seriea",
+    "name": "Italian Serie A",
+    "short_name": "SA",
+    "country_code": "ITA",
+    "tier": 1,
+    "is_top_five": true,
+    "num_teams": 20,
+    "promotion_spots": 0,
+    "relegation_spots": 3,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 85,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 35000000,
+      "runner_up": 20000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_juventus",
+      "most_titles_count": 36,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_juventus",
+          "titles": 36
+        },
+        {
+          "club_id": "club_inter_milan",
+          "titles": 19
+        },
+        {
+          "club_id": "club_ac_milan",
+          "titles": 19
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Silvio Piola",
+        "goals": 274
+      },
+      "all_time_top_assister": {
+        "name": "Francesco Totti",
+        "assists": 123
+      },
+      "most_points_in_a_season": {
+        "team": "Juventus",
+        "points": 102,
+        "season": "2013-2014"
+      },
+      "most_goals_in_a_season": {
+        "player": "Gonzalo Higuaín",
+        "goals": 36,
+        "season": "2015-2016"
+      },
+      "most_assists_in_a_season": {
+        "player": "Francesco Totti",
+        "assists": 15,
+        "season": "2006-2007"
+      },
+      "top_3_scorers": [
+        {
+          "name": "Silvio Piola",
+          "goals": 274
+        },
+        {
+          "name": "Francesco Totti",
+          "goals": 250
+        },
+        {
+          "name": "Gunnar Nordahl",
+          "goals": 225
+        }
+      ],
+      "top_3_assisters": [
+        {
+          "name": "Francesco Totti",
+          "assists": 123
+        },
+        {
+          "name": "Andrea Pirlo",
+          "assists": 92
+        },
+        {
+          "name": "Alessandro Del Piero",
+          "assists": 87
+        }
+      ],
+      "most_appearances": {
+        "player": "Gianluigi Buffon",
+        "appearances": 657
+      }
+    }
+  },
+  {
+    "id": "league_fra_ligue1",
+    "name": "French Ligue 1",
+    "short_name": "L1",
+    "country_code": "FRA",
+    "tier": 1,
+    "is_top_five": true,
+    "num_teams": 20,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 80,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 30000000,
+      "runner_up": 20000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_psg",
+      "most_titles_count": 11,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_psg",
+          "titles": 11
+        },
+        {
+          "club_id": "club_saint_etienne",
+          "titles": 10
+        },
+        {
+          "club_id": "club_olympique_marseille",
+          "titles": 9
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Delio Onnis",
+        "goals": 299
+      },
+      "all_time_top_assister": {
+        "name": "Angel Di Maria",
+        "assists": 108
+      },
+      "most_points_in_a_season": {
+        "team": "Paris Saint-Germain",
+        "points": 96,
+        "season": "2015-2016"
+      },
+      "most_goals_in_a_season": {
+        "player": "Josip Skoblar",
+        "goals": 44,
+        "season": "1970-1971"
+      },
+      "most_assists_in_a_season": {
+        "player": "Ángel Di María",
+        "assists": 18,
+        "season": "2015-2016"
+      },
+      "top_3_scorers": [
+        {
+          "name": "Delio Onnis",
+          "goals": 299
+        },
+        {
+          "name": "Bernard Lacombe",
+          "goals": 255
+        },
+        {
+          "name": "Hervé Revelli",
+          "goals": 216
+        }
+      ],
+      "top_3_assisters": [
+        {
+          "name": "Ángel Di María",
+          "assists": 108
+        },
+        {
+          "name": "Dimitri Payet",
+          "assists": 92
+        },
+        {
+          "name": "Jérôme Rothen",
+          "assists": 85
+        }
+      ],
+      "most_appearances": {
+        "player": "Mickaël Landreau",
+        "appearances": 618
+      }
+    }
+  },
+  {
+    "id": "league_laliga2",
+    "name": "LaLiga Hypermotion",
+    "short_name": "LL2",
+    "country_code": "ESP",
+    "tier": 2,
+    "is_top_five": false,
+    "num_teams": 22,
+    "promotion_spots": 3,
+    "relegation_spots": 4,
+    "playoff_spots": 4,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 70,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 8000000,
+      "runner_up": 6000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_real_murcia",
+      "most_titles_count": 8,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_real_murcia",
+          "titles": 8
+        },
+        {
+          "club_id": "club_real_betis",
+          "titles": 7
+        },
+        {
+          "club_id": "club_deportivo_la_coruna",
+          "titles": 6
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Nino",
+        "goals": 194
+      },
+      "most_appearances": {
+        "player": "Nino",
+        "appearances": 571
+      }
+    }
+  },
+  {
+    "id": "league_championship",
+    "name": "EFL Championship",
+    "short_name": "CH",
+    "country_code": "ENG",
+    "tier": 2,
+    "is_top_five": false,
+    "num_teams": 24,
+    "promotion_spots": 3,
+    "relegation_spots": 3,
+    "playoff_spots": 4,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 68,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 9000000,
+      "runner_up": 7000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_wolverhampton",
+      "most_titles_count": 4,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_wolverhampton",
+          "titles": 4
+        },
+        {
+          "club_id": "club_sunderland",
+          "titles": 4
+        },
+        {
+          "club_id": "club_ipswich",
+          "titles": 3
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Steve Bull",
+        "goals": 250
+      },
+      "most_appearances": {
+        "player": "Graham Alexander",
+        "appearances": 833
+      }
+    }
+  },
+  {
+    "id": "league_ger_bundesliga2",
+    "name": "2. Bundesliga",
+    "short_name": "BL2",
+    "country_code": "DEU",
+    "tier": 2,
+    "is_top_five": false,
+    "num_teams": 18,
+    "promotion_spots": 2,
+    "relegation_spots": 2,
+    "playoff_spots": 2,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 66,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 7000000,
+      "runner_up": 5000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_nurnberg",
+      "most_titles_count": 4,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_nurnberg",
+          "titles": 4
+        },
+        {
+          "club_id": "club_freiburg",
+          "titles": 3
+        },
+        {
+          "club_id": "club_koeln",
+          "titles": 3
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Simon Terodde",
+        "goals": 177
+      },
+      "most_appearances": {
+        "player": "Andreas Lambertz",
+        "appearances": 417
+      }
+    }
+  },
+  {
+    "id": "league_ita_serieb",
+    "name": "Serie B",
+    "short_name": "SB",
+    "country_code": "ITA",
+    "tier": 2,
+    "is_top_five": false,
+    "num_teams": 20,
+    "promotion_spots": 3,
+    "relegation_spots": 4,
+    "playoff_spots": 4,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 68,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 7500000,
+      "runner_up": 5500000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_atalanta",
+      "most_titles_count": 6,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_atalanta",
+          "titles": 6
+        },
+        {
+          "club_id": "club_torino",
+          "titles": 5
+        },
+        {
+          "club_id": "club_bari",
+          "titles": 4
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Roberto Baggio",
+        "goals": 156
+      },
+      "most_appearances": {
+        "player": "Antonio Di Natale",
+        "appearances": 394
+      }
+    }
+  },
+  {
+    "id": "league_fra_ligue2",
+    "name": "Ligue 2 BKT",
+    "short_name": "L2",
+    "country_code": "FRA",
+    "tier": 2,
+    "is_top_five": false,
+    "num_teams": 18,
+    "promotion_spots": 2,
+    "relegation_spots": 2,
+    "playoff_spots": 2,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 65,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 6500000,
+      "runner_up": 4500000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_metz",
+      "most_titles_count": 5,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_metz",
+          "titles": 5
+        },
+        {
+          "club_id": "club_nancy",
+          "titles": 4
+        },
+        {
+          "club_id": "club_reims",
+          "titles": 3
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Mamadou Niang",
+        "goals": 128
+      },
+      "most_appearances": {
+        "player": "Cyril Jeunechamp",
+        "appearances": 412
+      }
+    }
+  },
+  {
+    "id": "league_eredivisie",
+    "name": "Eredivisie",
+    "short_name": "ED",
+    "country_code": "NLD",
+    "tier": 1,
+    "is_top_five": false,
+    "num_teams": 18,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 75,
+    "average_club_financial_power": "Medium",
+    "historical_data": {}
+  },
+  {
+    "id": "league_primeira",
+    "name": "Primeira Liga",
+    "short_name": "PL",
+    "country_code": "POR",
+    "tier": 1,
+    "is_top_five": false,
+    "num_teams": 18,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 80,
+    "average_club_financial_power": "Medium",
+    "historical_data": {}
+  },
+  {
+    "id": "league_turkish",
+    "name": "Süper Lig",
+    "short_name": "SL",
+    "country_code": "TUR",
+    "tier": 1,
+    "is_top_five": false,
+    "num_teams": 19,
+    "promotion_spots": 0,
+    "relegation_spots": 4,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 72,
+    "average_club_financial_power": "Medium",
+    "historical_data": {}
+  },
+  {
+    "id": "league_belgian",
+    "name": "Belgian Pro League",
+    "short_name": "JPL",
+    "country_code": "BEL",
+    "tier": 1,
+    "is_top_five": false,
+    "num_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 1,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 70,
+    "average_club_financial_power": "Medium",
+    "historical_data": {}
+  },
+  {
+    "id": "league_swiss",
+    "name": "Swiss Super League",
+    "short_name": "SSL",
+    "country_code": "SUI",
+    "tier": 1,
+    "is_top_five": false,
+    "num_teams": 12,
+    "promotion_spots": 0,
+    "relegation_spots": 1,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 65,
+    "average_club_financial_power": "Medium",
+    "historical_data": {}
+  },
+  {
+    "id": "league_russian",
+    "name": "Russian Premier League",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "RPL",
+    "country_code": "RUS",
+    "num_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 2,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 75,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 15000000,
+      "runner_up": 10000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_spartak_moscow",
+      "most_titles_count": 22,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_spartak_moscow",
+          "titles": 22
+        },
+        {
+          "club_id": "club_cska_moscow",
+          "titles": 13
+        },
+        {
+          "club_id": "club_zenit",
+          "titles": 10
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Oleg Veretennikov",
+        "goals": 143
+      },
+      "all_time_top_assister": {
+        "name": "Dmitri Loskov",
+        "assists": 102
+      }
+    }
+  },
+  {
+    "id": "league_ukrainian",
+    "name": "Ukrainian Premier League",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "UPL",
+    "country_code": "UKR",
+    "num_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 70,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 12000000,
+      "runner_up": 8000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_shakhtar",
+      "most_titles_count": 14,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_dynamo_kyiv",
+          "titles": 16
+        },
+        {
+          "club_id": "club_shakhtar",
+          "titles": 14
+        },
+        {
+          "club_id": "club_dnipro",
+          "titles": 2
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Serhiy Rebrov",
+        "goals": 123
+      }
+    }
+  },
+  {
+    "id": "league_scottish",
+    "name": "Scottish Premiership",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "SPL",
+    "country_code": "SCO",
+    "num_teams": 12,
+    "promotion_spots": 0,
+    "relegation_spots": 1,
+    "playoff_spots": 1,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 70,
+    "average_club_financial_power": "Medium-Low",
+    "prize_money_distribution": {
+      "winner": 10000000,
+      "runner_up": 7000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_celtic",
+      "most_titles_count": 53,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_celtic",
+          "titles": 53
+        },
+        {
+          "club_id": "club_rangers",
+          "titles": 55
+        },
+        {
+          "club_id": "club_aberdeen",
+          "titles": 4
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Ally McCoist",
+        "goals": 355
+      }
+    }
+  },
+  {
+    "id": "league_austrian",
+    "name": "Austrian Bundesliga",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "ABL",
+    "country_code": "AUT",
+    "num_teams": 12,
+    "promotion_spots": 0,
+    "relegation_spots": 1,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 65,
+    "average_club_financial_power": "Medium-Low",
+    "prize_money_distribution": {
+      "winner": 8000000,
+      "runner_up": 5000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_rapid_wien",
+      "most_titles_count": 32,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_rapid_wien",
+          "titles": 32
+        },
+        {
+          "club_id": "club_austria_wien",
+          "titles": 24
+        },
+        {
+          "club_id": "club_rb_salzburg",
+          "titles": 17
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Hans Krankl",
+        "goals": 270
+      }
+    }
+  },
+  {
+    "id": "league_greek",
+    "name": "Greek Super League",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "GSL",
+    "country_code": "GRE",
+    "num_teams": 14,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 65,
+    "average_club_financial_power": "Medium-Low",
+    "prize_money_distribution": {
+      "winner": 7000000,
+      "runner_up": 4000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_olympiacos",
+      "most_titles_count": 47,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_olympiacos",
+          "titles": 47
+        },
+        {
+          "club_id": "club_panathinaikos",
+          "titles": 20
+        },
+        {
+          "club_id": "club_aek_athens",
+          "titles": 13
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Thomas Mavros",
+        "goals": 260
+      }    }
+  },
+  {
+    "id": "league_danish_superliga",
+    "name": "Danish Superliga",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "DSL",
+    "country_code": "DNK",
+    "num_teams": 12,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 6,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 68,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 8000000,
+      "runner_up": 5000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_fc_copenhagen",
+      "most_titles_count": 15,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_fc_copenhagen",
+          "titles": 15
+        },
+        {
+          "club_id": "club_fc_midtjylland",
+          "titles": 4
+        },
+        {
+          "club_id": "club_brondby",
+          "titles": 11
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Paulus Arajuuri",
+        "goals": 129
+      }
+    }
+  },
+  {
+    "id": "league_swedish_allsvenskan",
+    "name": "Swedish Allsvenskan",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "ALL",
+    "country_code": "SWE",
+    "num_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 3,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 66,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 6000000,
+      "runner_up": 4000000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_iff_goteborg",
+      "most_titles_count": 18,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_iff_goteborg",
+          "titles": 18
+        },
+        {
+          "club_id": "club_malmo_ff",
+          "titles": 24
+        },
+        {
+          "club_id": "club_aik",
+          "titles": 12
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Sven Rydell",
+        "goals": 226
+      }
+    }
+  },
+  {
+    "id": "league_norwegian_eliteserien",
+    "name": "Norwegian Eliteserien",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "ELS",
+    "country_code": "NOR",
+    "num_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 2,
+    "playoff_spots": 2,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 64,
+    "average_club_financial_power": "Medium",
+    "prize_money_distribution": {
+      "winner": 5000000,
+      "runner_up": 3500000,
+      "other_positions_scale": 0.8
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_rosenborg",
+      "most_titles_count": 26,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_rosenborg",
+          "titles": 26
+        },
+        {
+          "club_id": "club_molde",
+          "titles": 5
+        },
+        {
+          "club_id": "club_lillestrom",
+          "titles": 5
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Sigurd Rushfeldt",
+        "goals": 172
+      }
+    }
+  },
+  {
+    "id": "league_mls",
+    "name": "Major League Soccer",
+    "tier": 1,
+    "is_top_five": false,
+    "short_name": "MLS",
+    "country_code": "USA",
+    "num_teams": 30,
+    "promotion_spots": 0,
+    "relegation_spots": 0,
+    "playoff_spots": 14,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 72,
+    "average_club_financial_power": "Medium-High",
+    "prize_money_distribution": {
+      "winner": 12000000,
+      "runner_up": 8000000,
+      "other_positions_scale": 0.7
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_la_galaxy",
+      "most_titles_count": 5,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_la_galaxy",
+          "titles": 5
+        },
+        {
+          "club_id": "club_dc_united",
+          "titles": 4
+        },
+        {
+          "club_id": "club_seattle_sounders",
+          "titles": 2
+        }
+      ],
+      "all_time_top_scorer": {
+        "name": "Landon Donovan",
+        "goals": 145
+      },
+      "all_time_top_assister": {
+        "name": "Landon Donovan",
+        "assists": 136
+      },
+      "most_points_in_a_season": {
+        "team": "New England Revolution",
+        "points": 73,
+        "season": "2021"
+      },
+      "most_goals_in_a_season": {
+        "player": "Carlos Vela",
+        "goals": 34,
+        "season": "2019"
+      },
+      "most_assists_in_a_season": {
+        "player": "Carlos Vela",
+        "assists": 15,
+        "season": "2019"
+      }
+    }
+  },
+  {
+    "league_id": "brasileirao",
+    "name": "Brasileirão Serie A",
+    "country": "Brazil",
+    "level": 1,
+    "teams": 20,
+    "reputation": 75,
+    "format": "round_robin",
+    "seasons": [
+      "2025"
+    ]
+  },
+  {
+    "league_id": "primera_division",
+    "name": "Argentine Primera División",
+    "country": "Argentina",
+    "level": 1,
+    "teams": 30,
+    "reputation": 70,
+    "format": "round_robin",
+    "seasons": [
+      "2025"
+    ]
+  },
+  {
+    "league_id": "liga_mx",
+    "name": "Liga MX",
+    "country": "Mexico",
+    "level": 1,
+    "teams": 18,
+    "reputation": 68,
+    "format": "apertura_clausura",    "seasons": [
+      "2025"
+    ]
+  },
+  {
+    "id": "competition_ucl",
+    "name": "UEFA Champions League",
+    "short_name": "UCL",
+    "country_code": "EUR",
+    "tier": 0,
+    "is_continental": true,
+    "competition_type": "knockout_with_groups",
+    "num_teams": 36,
+    "num_groups": 0,
+    "group_stage_teams": 36,
+    "knockout_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 0,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 100,
+    "average_club_financial_power": "Very High",
+    "prize_money_distribution": {
+      "winner": 120000000,
+      "runner_up": 75000000,
+      "semi_finalist": 45000000,
+      "quarter_finalist": 30000000,
+      "round_of_16": 20000000,
+      "group_stage_participation": 15000000,
+      "group_stage_win_bonus": 2800000,
+      "group_stage_draw_bonus": 930000
+    },
+    "qualification_criteria": {
+      "automatic_spots": {
+        "league_epl": 4,
+        "league_laliga": 4,
+        "league_ger_bundesliga": 4,
+        "league_ita_seriea": 4,
+        "league_fra_ligue1": 3,
+        "league_eredivisie": 1,
+        "league_primeira": 1,
+        "league_russian": 1,
+        "league_ukrainian": 1,
+        "league_scottish": 1,        "league_austrian": 1,
+        "league_greek": 1,
+        "league_turkish": 1,
+        "league_belgian": 1,
+        "league_swiss": 1,
+        "league_danish_superliga": 1,
+        "league_swedish_allsvenskan": 1,
+        "league_norwegian_eliteserien": 1
+      },
+      "champions_path_qualifying": 6,
+      "league_path_qualifying": 4,
+      "total_teams": 36
+    },
+    "format": {
+      "league_phase": {
+        "teams": 36,
+        "matches_per_team": 8,
+        "format": "swiss_system"
+      },
+      "knockout_phase": {
+        "round_of_16": 16,
+        "quarter_finals": 8,
+        "semi_finals": 4,
+        "final": 2
+      }
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_real_madrid",
+      "most_titles_count": 15,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_real_madrid",
+          "titles": 15
+        },
+        {
+          "club_id": "club_ac_milan",
+          "titles": 7
+        },
+        {
+          "club_id": "club_liverpool",
+          "titles": 6
+        }
+      ]
+    },
+    "season_schedule": {
+      "league_phase_start": "September",
+      "league_phase_end": "January",
+      "knockout_phase_start": "February",
+      "final_date": "May"
+    }
+  },
+  {
+    "id": "competition_uel",
+    "name": "UEFA Europa League",
+    "short_name": "UEL",
+    "country_code": "EUR",
+    "tier": 1,
+    "is_continental": true,
+    "competition_type": "knockout_with_groups",
+    "num_teams": 36,
+    "num_groups": 0,
+    "group_stage_teams": 36,
+    "knockout_teams": 16,
+    "promotion_spots": 0,
+    "relegation_spots": 0,
+    "playoff_spots": 0,
+    "points_for_win": 3,
+    "points_for_draw": 1,
+    "points_for_loss": 0,
+    "reputation": 85,
+    "average_club_financial_power": "High",
+    "prize_money_distribution": {
+      "winner": 50000000,
+      "runner_up": 30000000,
+      "semi_finalist": 20000000,
+      "quarter_finalist": 15000000,
+      "round_of_16": 10000000,
+      "league_phase_participation": 8000000,
+      "league_phase_win_bonus": 1400000,
+      "league_phase_draw_bonus": 500000
+    },
+    "qualification_criteria": {
+      "automatic_spots": {
+        "league_epl": 3,
+        "league_laliga": 3,
+        "league_ger_bundesliga": 3,
+        "league_ita_seriea": 3,
+        "league_fra_ligue1": 3,
+        "league_eredivisie": 2,
+        "league_primeira": 2,
+        "league_championship": 1,
+        "league_laliga2": 1,
+        "league_ita_serieb": 1,
+        "league_ger_bundesliga2": 1,
+        "league_fra_ligue2": 1,
+        "league_russian": 2,
+        "league_ukrainian": 2,
+        "league_scottish": 2,        "league_austrian": 2,
+        "league_greek": 2,
+        "league_turkish": 2,
+        "league_belgian": 2,
+        "league_swiss": 2,
+        "league_danish_superliga": 2,
+        "league_swedish_allsvenskan": 2,
+        "league_norwegian_eliteserien": 2
+      },
+      "ucl_dropouts": 8,
+      "total_teams": 36
+    },
+    "format": {
+      "league_phase": {
+        "teams": 36,
+        "matches_per_team": 8,
+        "format": "swiss_system"
+      },
+      "knockout_phase": {
+        "round_of_16": 16,
+        "quarter_finals": 8,
+        "semi_finals": 4,
+        "final": 2
+      }
+    },
+    "historical_data": {
+      "most_titles_club_id": "club_sevilla",
+      "most_titles_count": 7,
+      "top_3_clubs_by_titles": [
+        {
+          "club_id": "club_sevilla",
+          "titles": 7
+        },
+        {
+          "club_id": "club_juventus",
+          "titles": 3
+        },
+        {
+          "club_id": "club_inter_milan",
+          "titles": 3
+        }
+      ]
+    },
+    "season_schedule": {
+      "league_phase_start": "September",
+      "league_phase_end": "January",
+      "knockout_phase_start": "February",
+      "final_date": "May"
+    }
+  }
+]

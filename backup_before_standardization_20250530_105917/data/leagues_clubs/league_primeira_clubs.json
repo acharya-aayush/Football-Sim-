@@ -1,0 +1,20 @@
+[
+  { "id": "club_arouca", "name": "FC Arouca", "stadium": {"name":"Estádio Municipal de Arouca","city":"Arouca","country":"Portugal","capacity":5000}, "financials": {}, "history": {} },
+  { "id": "club_avs", "name": "AVS Futebol", "stadium": {"name":"Estádio do CD Aves","city":"Vila das Aves","country":"Portugal","capacity":8500}, "financials": {}, "history": {} },
+  { "id": "club_benfica", "name": "SL Benfica", "stadium": {"name":"Estádio da Luz","city":"Lisbon","country":"Portugal","capacity":64783}, "financials": {}, "history": {} },
+  { "id": "club_boavista", "name": "Boavista FC", "stadium": {"name":"Estádio do Bessa","city":"Porto","country":"Portugal","capacity":28000}, "financials": {}, "history": {} },
+  { "id": "club_braga", "name": "SC Braga", "stadium": {"name":"Estádio Municipal de Braga","city":"Braga","country":"Portugal","capacity":30736}, "financials": {}, "history": {} },
+  { "id": "club_casa_pia", "name": "Casa Pia AC", "stadium": {"name":"Estádio Municipal de Rio Maior","city":"Rio Maior","country":"Portugal","capacity":15000}, "financials": {}, "history": {} },
+  { "id": "club_estoril", "name": "GD Estoril Praia", "stadium": {"name":"Estádio António Coimbra da Mota","city":"Estoril","country":"Portugal","capacity":8505}, "financials": {}, "history": {} },
+  { "id": "club_estrela", "name": "CF Estrela da Amadora", "stadium": {"name":"Estádio José Gomes","city":"Amadora","country":"Portugal","capacity":9288}, "financials": {}, "history": {} },
+  { "id": "club_famalicao", "name": "FC Famalicão", "stadium": {"name":"Estádio Municipal 22 de Junho","city":"Famalicão","country":"Portugal","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_farense", "name": "SC Farense", "stadium": {"name":"Estádio de São Luís","city":"Faro","country":"Portugal","capacity":7500}, "financials": {}, "history": {} },
+  { "id": "club_gil_vicente", "name": "Gil Vicente FC", "stadium": {"name":"Estádio Cidade de Barcelos","city":"Barcelos","country":"Portugal","capacity":12504}, "financials": {}, "history": {} },
+  { "id": "club_moreirense", "name": "Moreirense FC", "stadium": {"name":"Parque Joaquim de Almeida Freitas","city":"Moreira de Cónegos","country":"Portugal","capacity":9000}, "financials": {}, "history": {} },
+  { "id": "club_nacional", "name": "CD Nacional", "stadium": {"name":"Estádio da Madeira","city":"Funchal","country":"Portugal","capacity":5132}, "financials": {}, "history": {} },
+  { "id": "club_porto", "name": "FC Porto", "stadium": {"name":"Estádio do Dragão","city":"Porto","country":"Portugal","capacity":50277}, "financials": {}, "history": {} },
+  { "id": "club_rio_ave", "name": "Rio Ave FC", "stadium": {"name":"Estádio dos Arcos","city":"Vila do Conde","country":"Portugal","capacity":12815}, "financials": {}, "history": {} },
+  { "id": "club_santa_clara", "name": "CD Santa Clara", "stadium": {"name":"Estádio de São Miguel","city":"Ponta Delgada","country":"Portugal","capacity":12500}, "financials": {}, "history": {} },
+  { "id": "club_sporting", "name": "Sporting CP", "stadium": {"name":"Estádio José Alvalade","city":"Lisbon","country":"Portugal","capacity":50500}, "financials": {}, "history": {} },
+  { "id": "club_guimaraes", "name": "Vitória SC", "stadium": {"name":"Estádio D. Afonso Henriques","city":"Guimarães","country":"Portugal","capacity":30600}, "financials": {}, "history": {} }
+]

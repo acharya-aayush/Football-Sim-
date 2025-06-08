@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Marquinhos Moura",
+    "age": 42,
+    "nationality": "Brazil",
+    "experience_years": 3,
+    "reputation": 94,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "attacking",
+    "manager_id": "10_121",
+    "current_club": "league_brasileirao_club_01"
+  },
+  {
+    "name": "Lucas Araujo",
+    "age": 57,
+    "nationality": "Brazil",
+    "experience_years": 16,
+    "reputation": 60,
+    "preferred_formation": "4-4-2",
+    "playing_style": "defensive",
+    "manager_id": "10_122",
+    "current_club": "league_brasileirao_club_02"
+  },
+  {
+    "name": "Militão Silva",
+    "age": 40,
+    "nationality": "Brazil",
+    "experience_years": 9,
+    "reputation": 88,
+    "preferred_formation": "4-3-3",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_123",
+    "current_club": "league_brasileirao_club_03"
+  },
+  {
+    "name": "Adriano Franco",
+    "age": 42,
+    "nationality": "Brazil",
+    "experience_years": 19,
+    "reputation": 67,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "counter-attack",
+    "manager_id": "10_124",
+    "current_club": "league_brasileirao_club_04"
+  },
+  {
+    "name": "Coutinho Fernandes",
+    "age": 49,
+    "nationality": "Brazil",
+    "experience_years": 10,
+    "reputation": 87,
+    "preferred_formation": "4-4-2",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_125",
+    "current_club": "league_brasileirao_club_05"
+  },
+  {
+    "name": "Kaká Ferreira",
+    "age": 70,
+    "nationality": "Brazil",
+    "experience_years": 11,
+    "reputation": 68,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "defensive",
+    "manager_id": "10_126",
+    "current_club": "league_brasileirao_club_06"
+  },
+  {
+    "name": "André Souza",
+    "age": 36,
+    "nationality": "Brazil",
+    "experience_years": 21,
+    "reputation": 71,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "defensive",
+    "manager_id": "10_127",
+    "current_club": "league_brasileirao_club_07"
+  },
+  {
+    "name": "Willian Pinto",
+    "age": 63,
+    "nationality": "Brazil",
+    "experience_years": 2,
+    "reputation": 76,
+    "preferred_formation": "4-5-1",
+    "playing_style": "wing-play",
+    "manager_id": "10_128",
+    "current_club": "league_brasileirao_club_08"
+  },
+  {
+    "name": "Ronaldo Cavalcanti",
+    "age": 44,
+    "nationality": "Brazil",
+    "experience_years": 2,
+    "reputation": 86,
+    "preferred_formation": "3-5-2",
+    "playing_style": "high-press",
+    "manager_id": "10_129",
+    "current_club": "league_brasileirao_club_09"
+  },
+  {
+    "name": "Coutinho Mendes",
+    "age": 65,
+    "nationality": "Brazil",
+    "experience_years": 25,
+    "reputation": 81,
+    "preferred_formation": "4-3-3",
+    "playing_style": "defensive",
+    "manager_id": "10_130",
+    "current_club": "league_brasileirao_club_10"
+  },
+  {
+    "name": "Carlos Cardoso",
+    "age": 49,
+    "nationality": "Brazil",
+    "experience_years": 8,
+    "reputation": 82,
+    "preferred_formation": "4-5-1",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_131",
+    "current_club": "league_brasileirao_club_11"
+  },
+  {
+    "name": "Fabio Cardoso",
+    "age": 45,
+    "nationality": "Brazil",
+    "experience_years": 10,
+    "reputation": 76,
+    "preferred_formation": "4-5-1",
+    "playing_style": "possession",
+    "manager_id": "10_132",
+    "current_club": "league_brasileirao_club_12"
+  },
+  {
+    "name": "Oscar Teixeira",
+    "age": 47,
+    "nationality": "Brazil",
+    "experience_years": 17,
+    "reputation": 94,
+    "preferred_formation": "4-4-2",
+    "playing_style": "wing-play",
+    "manager_id": "10_133",
+    "current_club": "league_brasileirao_club_13"
+  },
+  {
+    "name": "André Fonseca",
+    "age": 36,
+    "nationality": "Brazil",
+    "experience_years": 18,
+    "reputation": 87,
+    "preferred_formation": "3-5-2",
+    "playing_style": "possession",
+    "manager_id": "10_134",
+    "current_club": "league_brasileirao_club_14"
+  },
+  {
+    "name": "Ederson Castro",
+    "age": 60,
+    "nationality": "Brazil",
+    "experience_years": 12,
+    "reputation": 60,
+    "preferred_formation": "4-5-1",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_135",
+    "current_club": "league_brasileirao_club_15"
+  },
+  {
+    "name": "Lucas Pires",
+    "age": 48,
+    "nationality": "Brazil",
+    "experience_years": 3,
+    "reputation": 76,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "high-press",
+    "manager_id": "10_136",
+    "current_club": "league_brasileirao_club_16"
+  },
+  {
+    "name": "Ederson Nunes",
+    "age": 47,
+    "nationality": "Brazil",
+    "experience_years": 1,
+    "reputation": 76,
+    "preferred_formation": "4-5-1",
+    "playing_style": "balanced",
+    "manager_id": "10_137",
+    "current_club": "league_brasileirao_club_17"
+  },
+  {
+    "name": "Oscar Cardoso",
+    "age": 69,
+    "nationality": "Brazil",
+    "experience_years": 3,
+    "reputation": 83,
+    "preferred_formation": "4-4-2",
+    "playing_style": "direct",
+    "manager_id": "10_138",
+    "current_club": "league_brasileirao_club_18"
+  },
+  {
+    "name": "Fernando Macedo",
+    "age": 41,
+    "nationality": "Brazil",
+    "experience_years": 14,
+    "reputation": 68,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "high-press",
+    "manager_id": "10_139",
+    "current_club": "league_brasileirao_club_19"
+  },
+  {
+    "name": "Renato Nunes",
+    "age": 59,
+    "nationality": "Brazil",
+    "experience_years": 24,
+    "reputation": 72,
+    "preferred_formation": "4-3-3",
+    "playing_style": "possession",
+    "manager_id": "10_140",
+    "current_club": "league_brasileirao_club_20"
+  }
+]

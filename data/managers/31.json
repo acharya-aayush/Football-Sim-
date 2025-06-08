@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Alfredo Delgado",
+    "age": 65,
+    "nationality": "Mexico",
+    "experience_years": 13,
+    "reputation": 66,
+    "preferred_formation": "4-4-2",
+    "playing_style": "direct",
+    "manager_id": "10_403",
+    "current_club": "league_ligamx_club_01"
+  },
+  {
+    "name": "Andrés López",
+    "age": 40,
+    "nationality": "Mexico",
+    "experience_years": 17,
+    "reputation": 85,
+    "preferred_formation": "4-3-3",
+    "playing_style": "counter-attack",
+    "manager_id": "10_404",
+    "current_club": "league_ligamx_club_02"
+  },
+  {
+    "name": "Ignacio Castillo",
+    "age": 39,
+    "nationality": "Mexico",
+    "experience_years": 13,
+    "reputation": 61,
+    "preferred_formation": "4-3-3",
+    "playing_style": "long-ball",
+    "manager_id": "10_405",
+    "current_club": "league_ligamx_club_03"
+  },
+  {
+    "name": "Sergio Vázquez",
+    "age": 49,
+    "nationality": "Mexico",
+    "experience_years": 16,
+    "reputation": 62,
+    "preferred_formation": "4-3-3",
+    "playing_style": "counter-attack",
+    "manager_id": "10_406",
+    "current_club": "league_ligamx_club_04"
+  },
+  {
+    "name": "Armando Guerrero",
+    "age": 49,
+    "nationality": "Mexico",
+    "experience_years": 3,
+    "reputation": 82,
+    "preferred_formation": "3-5-2",
+    "playing_style": "direct",
+    "manager_id": "10_407",
+    "current_club": "league_ligamx_club_05"
+  },
+  {
+    "name": "Mauricio Torres",
+    "age": 60,
+    "nationality": "Mexico",
+    "experience_years": 4,
+    "reputation": 91,
+    "preferred_formation": "4-3-3",
+    "playing_style": "wing-play",
+    "manager_id": "10_408",
+    "current_club": "league_ligamx_club_06"
+  },
+  {
+    "name": "Omar Mendoza",
+    "age": 46,
+    "nationality": "Mexico",
+    "experience_years": 17,
+    "reputation": 67,
+    "preferred_formation": "3-5-2",
+    "playing_style": "high-press",
+    "manager_id": "10_409",
+    "current_club": "league_ligamx_club_07"
+  },
+  {
+    "name": "Sergio Álvarez",
+    "age": 54,
+    "nationality": "Mexico",
+    "experience_years": 7,
+    "reputation": 94,
+    "preferred_formation": "4-4-2",
+    "playing_style": "balanced",
+    "manager_id": "10_410",
+    "current_club": "league_ligamx_club_08"
+  },
+  {
+    "name": "Eduardo Gómez",
+    "age": 65,
+    "nationality": "Mexico",
+    "experience_years": 22,
+    "reputation": 79,
+    "preferred_formation": "3-5-2",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_411",
+    "current_club": "league_ligamx_club_09"
+  },
+  {
+    "name": "Gabriel Salinas",
+    "age": 40,
+    "nationality": "Mexico",
+    "experience_years": 15,
+    "reputation": 82,
+    "preferred_formation": "3-5-2",
+    "playing_style": "high-press",
+    "manager_id": "10_412",
+    "current_club": "league_ligamx_club_10"
+  },
+  {
+    "name": "Gerardo Morales",
+    "age": 70,
+    "nationality": "Mexico",
+    "experience_years": 13,
+    "reputation": 69,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_413",
+    "current_club": "league_ligamx_club_11"
+  },
+  {
+    "name": "Miguel Campos",
+    "age": 40,
+    "nationality": "Mexico",
+    "experience_years": 18,
+    "reputation": 73,
+    "preferred_formation": "4-5-1",
+    "playing_style": "wing-play",
+    "manager_id": "10_414",
+    "current_club": "league_ligamx_club_12"
+  },
+  {
+    "name": "Salvador Castillo",
+    "age": 42,
+    "nationality": "Mexico",
+    "experience_years": 15,
+    "reputation": 60,
+    "preferred_formation": "4-5-1",
+    "playing_style": "high-press",
+    "manager_id": "10_415",
+    "current_club": "league_ligamx_club_13"
+  },
+  {
+    "name": "Sergio Guerrero",
+    "age": 67,
+    "nationality": "Mexico",
+    "experience_years": 23,
+    "reputation": 61,
+    "preferred_formation": "3-5-2",
+    "playing_style": "counter-attack",
+    "manager_id": "10_416",
+    "current_club": "league_ligamx_club_14"
+  },
+  {
+    "name": "José Torres",
+    "age": 40,
+    "nationality": "Mexico",
+    "experience_years": 21,
+    "reputation": 80,
+    "preferred_formation": "4-2-3-1",
+    "playing_style": "tiki-taka",
+    "manager_id": "10_417",
+    "current_club": "league_ligamx_club_15"
+  },
+  {
+    "name": "Antonio Moreno",
+    "age": 49,
+    "nationality": "Mexico",
+    "experience_years": 24,
+    "reputation": 74,
+    "preferred_formation": "4-5-1",
+    "playing_style": "defensive",
+    "manager_id": "10_418",
+    "current_club": "league_ligamx_club_16"
+  },
+  {
+    "name": "Raúl Sánchez",
+    "age": 40,
+    "nationality": "Mexico",
+    "experience_years": 15,
+    "reputation": 79,
+    "preferred_formation": "4-4-2",
+    "playing_style": "high-press",
+    "manager_id": "10_419",
+    "current_club": "league_ligamx_club_17"
+  },
+  {
+    "name": "Santiago Ríos",
+    "age": 66,
+    "nationality": "Mexico",
+    "experience_years": 6,
+    "reputation": 63,
+    "preferred_formation": "4-3-3",
+    "playing_style": "wing-play",
+    "manager_id": "10_420",
+    "current_club": "league_ligamx_club_18"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "01_351",
+    "name": "Celtic FC",
+    "nickname": "The Hoops",
+    "established_year": 1887,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Celtic Park",
+      "city": "Glasgow",
+      "country": "Scotland",
+      "capacity": 60411
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1100000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 100000000,
+      "sponsorship_value_annual": 35000000
+    },
+    "history": {
+      "league_titles_domestic": 53,
+      "domestic_cup_wins": 40,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "European Cup/Champions League Winners (1967)",
+        "First British club to win the European Cup",
+        "Nine consecutive league titles (2011-2020)"
+      ],
+      "legendary_player_names": [
+        "Henrik Larsson",
+        "Jimmy Johnstone",
+        "Kenny Dalglish"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "01_352",
+    "name": "Rangers FC",
+    "nickname": "The Gers",
+    "established_year": 1872,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Ibrox Stadium",
+      "city": "Glasgow",
+      "country": "Scotland",
+      "capacity": 50817
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 28000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 110000000,
+      "annual_expenses_approx": 95000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 55,
+      "domestic_cup_wins": 33,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "European Cup Winners' Cup (1972)",
+        "Nine consecutive league titles (1988-1997)",
+        "Most domestic league titles in the world"
+      ],
+      "legendary_player_names": [
+        "John Greig",
+        "Ally McCoist",
+        "Brian Laudrup"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "01_353",
+    "name": "Aberdeen FC",
+    "nickname": "The Dons",
+    "established_year": 1903,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Pittodrie Stadium",
+      "city": "Aberdeen",
+      "country": "Scotland",
+      "capacity": 20866
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 5000000,
+      "wage_budget_weekly_total": 400000,
+      "annual_revenue_approx": 22000000,
+      "annual_expenses_approx": 20000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 7,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "European Cup Winners' Cup (1983)",
+        "UEFA Super Cup (1983)",
+        "League title under Alex Ferguson (1985)"
+      ],
+      "legendary_player_names": [
+        "Willie Miller",
+        "Alex McLeish",
+        "Joe Harper"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_354",
+    "name": "Heart of Midlothian FC",
+    "nickname": "Hearts",
+    "established_year": 1874,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Tynecastle Park",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "capacity": 20099
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 350000,
+      "annual_revenue_approx": 18000000,
+      "annual_expenses_approx": 16000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "7-0 victory over Hibernian (2012)",
+        "Scottish Cup Winners (2012)",
+        "First fan-owned club in the Premiership"
+      ],
+      "legendary_player_names": [
+        "John Robertson",
+        "Gary Mackay",
+        "Steven Pressley"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_355",
+    "name": "Hibernian FC",
+    "nickname": "Hibs",
+    "established_year": 1875,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Easter Road",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "capacity": 20421
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 350000,
+      "annual_revenue_approx": 18000000,
+      "annual_expenses_approx": 16000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Famous Five forward line (1940s-1950s)",
+        "First British club to play in European competition",
+        "Scottish Cup win after 114-year wait (2016)"
+      ],
+      "legendary_player_names": [
+        "Gordon Smith",
+        "Pat Stanton",
+        "Lawrie Reilly"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_356",
+    "name": "Dundee United FC",
+    "nickname": "The Terrors",
+    "established_year": 1909,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Tannadice Park",
+      "city": "Dundee",
+      "country": "Scotland",
+      "capacity": 14223
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 300000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 14000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "UEFA Cup Final (1987)",
+        "Premier Division Champions (1983)",
+        "Jim McLean's legendary 22-year managerial reign"
+      ],
+      "legendary_player_names": [
+        "David Narey",
+        "Paul Sturrock",
+        "Maurice Malpas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_357",
+    "name": "Kilmarnock FC",
+    "nickname": "Killie",
+    "established_year": 1869,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Rugby Park",
+      "city": "Kilmarnock",
+      "country": "Scotland",
+      "capacity": 17889
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 250000,
+      "annual_revenue_approx": 12000000,
+      "annual_expenses_approx": 11000000,
+      "sponsorship_value_annual": 3500000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First professional league champions in Scotland (1965)",
+        "Scottish League Cup wins (2012)",
+        "Scotland's oldest professional club"
+      ],
+      "legendary_player_names": [
+        "Kris Boyd",
+        "Eddie Morrison",
+        "Ray Montgomerie"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_358",
+    "name": "Motherwell FC",
+    "nickname": "The Steelmen",
+    "established_year": 1886,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Fir Park",
+      "city": "Motherwell",
+      "country": "Scotland",
+      "capacity": 13677
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 3000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Scottish Premier League runners-up (2013)",
+        "Scottish Cup winners (1991)",
+        "Champions of Scotland (1932)"
+      ],
+      "legendary_player_names": [
+        "James McFadden",
+        "Phil O'Donnell",
+        "Willie Pettigrew"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_359",
+    "name": "St. Mirren FC",
+    "nickname": "The Buddies",
+    "established_year": 1877,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "SMiSA Stadium",
+      "city": "Paisley",
+      "country": "Scotland",
+      "capacity": 8023
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Scottish Cup Winners (1987)",
+        "League Cup Winners (2013)",
+        "Fan-ownership model"
+      ],
+      "legendary_player_names": [
+        "Tony Fitzpatrick",
+        "Steven Thompson",
+        "Billy Abercromby"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_360",
+    "name": "Dundee FC",
+    "nickname": "The Dark Blues",
+    "established_year": 1893,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Dens Park",
+      "city": "Dundee",
+      "country": "Scotland",
+      "capacity": 11775
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Scottish champions (1962)",
+        "European Cup semi-finalists (1963)",
+        "Scottish League Cup Winners (1974)"
+      ],
+      "legendary_player_names": [
+        "Alan Gilzean",
+        "Billy Steel",
+        "Gordon Wallace"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_361",
+    "name": "St. Johnstone FC",
+    "nickname": "Saints",
+    "established_year": 1884,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "McDiarmid Park",
+      "city": "Perth",
+      "country": "Scotland",
+      "capacity": 10696
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Scottish Cup Winners (2021)",
+        "League Cup Winners (2020-21)",
+        "European qualification (multiple seasons)"
+      ],
+      "legendary_player_names": [
+        "Callum Davidson",
+        "Steven Anderson",
+        "Dave Mackay"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_362",
+    "name": "Ross County FC",
+    "nickname": "The Staggies",
+    "established_year": 1929,
+    "country_code": "SCO",
+    "league_id": "00_18",
+    "stadium": {
+      "name": "Global Energy Stadium",
+      "city": "Dingwall",
+      "country": "Scotland",
+      "capacity": 6541
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Scottish League Cup Winners (2016)",
+        "Rapid rise from Highland League to Premiership",
+        "Premiership survival against odds"
+      ],
+      "legendary_player_names": [
+        "Richard Brittain",
+        "Michael Gardyne",
+        "Scott Boyd"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  }
+]

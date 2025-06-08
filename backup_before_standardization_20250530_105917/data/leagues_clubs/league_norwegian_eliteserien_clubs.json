@@ -1,0 +1,18 @@
+[
+  { "id": "club_rosenborg", "name": "Rosenborg BK", "stadium": {"name":"Lerkendal Stadion","city":"Trondheim","country":"Norway","capacity":21421}, "financials": {}, "history": {} },
+  { "id": "club_molde", "name": "Molde FK", "stadium": {"name":"Aker Stadion","city":"Molde","country":"Norway","capacity":11800}, "financials": {}, "history": {} },
+  { "id": "club_lillestrom", "name": "Lillestrøm SK", "stadium": {"name":"Åråsen Stadion","city":"Lillestrøm","country":"Norway","capacity":12250}, "financials": {}, "history": {} },
+  { "id": "club_bodo_glimt", "name": "FK Bodø/Glimt", "stadium": {"name":"Aspmyra Stadion","city":"Bodø","country":"Norway","capacity":8270}, "financials": {}, "history": {} },
+  { "id": "club_viking", "name": "Viking FK", "stadium": {"name":"SR-Bank Arena","city":"Stavanger","country":"Norway","capacity":16300}, "financials": {}, "history": {} },
+  { "id": "club_valerenga", "name": "Vålerenga IF", "stadium": {"name":"Intility Arena","city":"Oslo","country":"Norway","capacity":28000}, "financials": {}, "history": {} },
+  { "id": "club_brann", "name": "SK Brann", "stadium": {"name":"Brann Stadion","city":"Bergen","country":"Norway","capacity":17686}, "financials": {}, "history": {} },
+  { "id": "club_fredrikstad", "name": "Fredrikstad FK", "stadium": {"name":"Fredrikstad Stadion","city":"Fredrikstad","country":"Norway","capacity":12560}, "financials": {}, "history": {} },
+  { "id": "club_tromso", "name": "Tromsø IL", "stadium": {"name":"Alfheim Stadion","city":"Tromsø","country":"Norway","capacity":6859}, "financials": {}, "history": {} },
+  { "id": "club_stromsgodset", "name": "Strømsgodset IF", "stadium": {"name":"Marienlyst Stadion","city":"Drammen","country":"Norway","capacity":8935}, "financials": {}, "history": {} },
+  { "id": "club_haugesund", "name": "FK Haugesund", "stadium": {"name":"Haugesund Stadion","city":"Haugesund","country":"Norway","capacity":8754}, "financials": {}, "history": {} },
+  { "id": "club_kristiansund", "name": "Kristiansund BK", "stadium": {"name":"Kristiansund Stadion","city":"Kristiansund","country":"Norway","capacity":4444}, "financials": {}, "history": {} },
+  { "id": "club_odd", "name": "Odds BK", "stadium": {"name":"Skagerak Arena","city":"Skien","country":"Norway","capacity":13500}, "financials": {}, "history": {} },
+  { "id": "club_sandefjord", "name": "Sandefjord Fotball", "stadium": {"name":"Komplett Arena","city":"Sandefjord","country":"Norway","capacity":9000}, "financials": {}, "history": {} },
+  { "id": "club_aalesund", "name": "Aalesunds FK", "stadium": {"name":"Color Line Stadion","city":"Ålesund","country":"Norway","capacity":10778}, "financials": {}, "history": {} },
+  { "id": "club_sarpsborg", "name": "Sarpsborg 08 FF", "stadium": {"name":"Sarpsborg Stadion","city":"Sarpsborg","country":"Norway","capacity":5500}, "financials": {}, "history": {} }
+]

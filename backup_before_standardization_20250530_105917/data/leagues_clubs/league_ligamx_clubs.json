@@ -1,0 +1,344 @@
+[
+  {
+    "club_id": "league_ligamx_club_01",
+    "name": "Club América",
+    "city": "América",
+    "founded": 1928,
+    "stadium": {
+      "name": "Estadio Azteca",
+      "capacity": 62520
+    },
+    "reputation": 85,
+    "finances": {
+      "transfer_budget": 18924077,
+      "wage_budget": 21576216
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_02",
+    "name": "Chivas Guadalajara",
+    "city": "Guadalajara",
+    "founded": 1949,
+    "stadium": {
+      "name": "Estadio Akron",
+      "capacity": 54068
+    },
+    "reputation": 76,
+    "finances": {
+      "transfer_budget": 46389573,
+      "wage_budget": 21900110
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_03",
+    "name": "Cruz Azul",
+    "city": "Azul",
+    "founded": 1907,
+    "stadium": {
+      "name": "Estadio Azul",
+      "capacity": 61829
+    },
+    "reputation": 84,
+    "finances": {
+      "transfer_budget": 10720601,
+      "wage_budget": 8616253
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_04",
+    "name": "Tigres UANL",
+    "city": "UANL",
+    "founded": 1942,
+    "stadium": {
+      "name": "Estadio Universitario",
+      "capacity": 57984
+    },
+    "reputation": 84,
+    "finances": {
+      "transfer_budget": 44564445,
+      "wage_budget": 14130913
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_05",
+    "name": "Monterrey",
+    "city": "Monterrey",
+    "founded": 1932,
+    "stadium": {
+      "name": "Estadio BBVA",
+      "capacity": 33371
+    },
+    "reputation": 84,
+    "finances": {
+      "transfer_budget": 33062550,
+      "wage_budget": 10310573
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_06",
+    "name": "Toluca",
+    "city": "Toluca",
+    "founded": 1910,
+    "stadium": {
+      "name": "Estadio Nemesio Díez",
+      "capacity": 33758
+    },
+    "reputation": 70,
+    "finances": {
+      "transfer_budget": 6823518,
+      "wage_budget": 6275819
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_07",
+    "name": "Pachuca",
+    "city": "Pachuca",
+    "founded": 1904,
+    "stadium": {
+      "name": "Estadio Hidalgo",
+      "capacity": 15417
+    },
+    "reputation": 67,
+    "finances": {
+      "transfer_budget": 13475248,
+      "wage_budget": 6595326
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_08",
+    "name": "Santos Laguna",
+    "city": "Laguna",
+    "founded": 1923,
+    "stadium": {
+      "name": "Estadio TSM Corona",
+      "capacity": 30039
+    },
+    "reputation": 74,
+    "finances": {
+      "transfer_budget": 14605366,
+      "wage_budget": 3666324
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_09",
+    "name": "Club León",
+    "city": "León",
+    "founded": 1942,
+    "stadium": {
+      "name": "Estadio León",
+      "capacity": 34408
+    },
+    "reputation": 64,
+    "finances": {
+      "transfer_budget": 3818204,
+      "wage_budget": 6816651
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Blue"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_10",
+    "name": "Atlas",
+    "city": "Atlas",
+    "founded": 1903,
+    "stadium": {
+      "name": "Estadio Jalisco",
+      "capacity": 34716
+    },
+    "reputation": 64,
+    "finances": {
+      "transfer_budget": 14376380,
+      "wage_budget": 1585667
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "White"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_11",
+    "name": "Necaxa",
+    "city": "Necaxa",
+    "founded": 1929,
+    "stadium": {
+      "name": "Estadio Victoria",
+      "capacity": 21835
+    },
+    "reputation": 64,
+    "finances": {
+      "transfer_budget": 14777001,
+      "wage_budget": 6791708
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_12",
+    "name": "Pumas UNAM",
+    "city": "UNAM",
+    "founded": 1904,
+    "stadium": {
+      "name": "Estadio Olímpico Universitario",
+      "capacity": 15945
+    },
+    "reputation": 70,
+    "finances": {
+      "transfer_budget": 10352863,
+      "wage_budget": 2500820
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_13",
+    "name": "FC Juárez",
+    "city": "Juárez",
+    "founded": 1907,
+    "stadium": {
+      "name": "Estadio Olímpico Benito Juárez",
+      "capacity": 18415
+    },
+    "reputation": 74,
+    "finances": {
+      "transfer_budget": 12493338,
+      "wage_budget": 6889923
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_14",
+    "name": "Mazatlán FC",
+    "city": "FC",
+    "founded": 1900,
+    "stadium": {
+      "name": "Estadio Kraken",
+      "capacity": 27147
+    },
+    "reputation": 74,
+    "finances": {
+      "transfer_budget": 2228097,
+      "wage_budget": 4044834
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Black"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_15",
+    "name": "Querétaro",
+    "city": "Querétaro",
+    "founded": 1935,
+    "stadium": {
+      "name": "Estadio La Corregidora",
+      "capacity": 8053
+    },
+    "reputation": 71,
+    "finances": {
+      "transfer_budget": 11567942,
+      "wage_budget": 1458652
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_16",
+    "name": "Tijuana",
+    "city": "Tijuana",
+    "founded": 1923,
+    "stadium": {
+      "name": "Estadio Caliente",
+      "capacity": 22092
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 10842374,
+      "wage_budget": 4080098
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Yellow"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_17",
+    "name": "Puebla",
+    "city": "Puebla",
+    "founded": 1929,
+    "stadium": {
+      "name": "Estadio Cuauhtémoc",
+      "capacity": 20481
+    },
+    "reputation": 61,
+    "finances": {
+      "transfer_budget": 6342566,
+      "wage_budget": 3562905
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Red"
+    }
+  },
+  {
+    "club_id": "league_ligamx_club_18",
+    "name": "San Luis",
+    "city": "Luis",
+    "founded": 1909,
+    "stadium": {
+      "name": "Estadio Alfonso Lastras",
+      "capacity": 17255
+    },
+    "reputation": 60,
+    "finances": {
+      "transfer_budget": 14202158,
+      "wage_budget": 6515497
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Black"
+    }
+  }
+]

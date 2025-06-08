@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "11_4438",
+    "first_name": "Gerrit",
+    "last_name": "Holtmann",
+    "full_name": "Gerrit Holtmann",
+    "known_as": "Holtmann",
+    "second_nationality_code": "PHL",
+    "date_of_birth": "1995-03-25",
+    "age": 30,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 12000,
+    "market_value_eur": 1200000,
+    "release_clause_eur": 2500000,
+    "positions_primary": [
+      "LW",
+      "LM"
+    ],
+    "positions_secondary": [
+      "RW"
+    ],
+    "preferred_foot": "Left",
+    "height_cm": 185,
+    "weight_kg": 78,
+    "technical_attributes": {
+      "corners": 68,
+      "crossing": 75,
+      "dribbling": 80,
+      "finishing": 68,
+      "first_touch": 74,
+      "free_kick_taking": 65,
+      "heading_accuracy": 60,
+      "long_shots": 70,
+      "long_throws": 60,
+      "marking": 45,
+      "passing": 72,
+      "penalty_taking": 65,
+      "tackling": 45,
+      "technique": 75
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 70,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 68,
+      "decisions": 68,
+      "determination": 70,
+      "flair": 80,
+      "leadership": 60,
+      "off_the_ball": 78,
+      "positioning": 65,
+      "teamwork": 70,
+      "vision": 72,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 85,
+      "agility": 80,
+      "balance": 75,
+      "jumping_reach": 70,
+      "natural_fitness": 78,
+      "pace": 88,
+      "stamina": 80,
+      "strength": 72
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 25,
+    "consistency": 72,
+    "important_matches": 70,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      74,
+      76
+    ],
+    "current_ability": 74,
+    "player_traits": [
+      "trait_speedster",
+      "trait_dribbler"
+    ],
+    "status": "real_player",
+    "international_caps": 8,
+    "international_goals": 1,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4439",
+    "first_name": "Ron-Thorben",
+    "last_name": "Hoffmann",
+    "full_name": "Ron-Thorben Hoffmann",
+    "known_as": "Hoffmann",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-04-04",
+    "age": 26,
+    "club_id": "01_155",
+    "contract_start_date": "2022-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 9000,
+    "market_value_eur": 800000,
+    "release_clause_eur": 1800000,
+    "positions_primary": [
+      "GK"
+    ],
+    "positions_secondary": [],
+    "preferred_foot": "Right",
+    "height_cm": 190,
+    "weight_kg": 85,
+    "technical_attributes": {
+      "corners": 40,
+      "crossing": 40,
+      "dribbling": 45,
+      "finishing": 35,
+      "first_touch": 60,
+      "free_kick_taking": 35,
+      "heading_accuracy": 50,
+      "long_shots": 35,
+      "long_throws": 70,
+      "marking": 55,
+      "passing": 60,
+      "penalty_taking": 40,
+      "tackling": 50,
+      "technique": 60
+    },
+    "mental_attributes": {
+      "aggression": 45,
+      "anticipation": 70,
+      "bravery": 75,
+      "composure": 72,
+      "concentration": 75,
+      "decisions": 70,
+      "determination": 68,
+      "flair": 40,
+      "leadership": 65,
+      "off_the_ball": 40,
+      "positioning": 78,
+      "teamwork": 70,
+      "vision": 60,
+      "work_rate": 65
+    },
+    "physical_attributes": {
+      "acceleration": 60,
+      "agility": 70,
+      "balance": 75,
+      "jumping_reach": 85,
+      "natural_fitness": 78,
+      "pace": 55,
+      "stamina": 65,
+      "strength": 80
+    },
+    "goalkeeping_attributes": {
+      "aerial_ability": 75,
+      "command_of_area": 72,
+      "communication": 70,
+      "eccentricity": 20,
+      "handling": 75,
+      "kicking": 70,
+      "one_on_ones": 72,
+      "reflexes": 78,
+      "rushing_out": 70,
+      "punching": 68,
+      "throwing": 75
+    },
+    "injury_proneness": 18,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 5,
+    "potential_ability_range": [
+      72,
+      75
+    ],
+    "current_ability": 72,
+    "player_traits": [
+      "trait_leader"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4440",
+    "first_name": "Jomaine",
+    "last_name": "Otto",
+    "full_name": "Jomaine Otto",
+    "known_as": "Otto",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-10-25",
+    "age": 25,
+    "club_id": "01_155",
+    "contract_start_date": "2023-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 8000,
+    "market_value_eur": 700000,
+    "release_clause_eur": 1500000,
+    "positions_primary": [
+      "ST"
+    ],
+    "positions_secondary": [
+      "RW"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 183,
+    "weight_kg": 77,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 60,
+      "dribbling": 72,
+      "finishing": 74,
+      "first_touch": 70,
+      "free_kick_taking": 55,
+      "heading_accuracy": 68,
+      "long_shots": 65,
+      "long_throws": 55,
+      "marking": 45,
+      "passing": 65,
+      "penalty_taking": 68,
+      "tackling": 45,
+      "technique": 70
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 75,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 65,
+      "decisions": 68,
+      "determination": 70,
+      "flair": 72,
+      "leadership": 55,
+      "off_the_ball": 75,
+      "positioning": 65,
+      "teamwork": 68,
+      "vision": 65,
+      "work_rate": 72
+    },
+    "physical_attributes": {
+      "acceleration": 80,
+      "agility": 78,
+      "balance": 75,
+      "jumping_reach": 72,
+      "natural_fitness": 75,
+      "pace": 80,
+      "stamina": 78,
+      "strength": 74
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 22,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      73,
+      76
+    ],
+    "current_ability": 73,
+    "player_traits": [
+      "trait_poacher"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4441",
+    "first_name": "Florian",
+    "last_name": "Krüger",
+    "full_name": "Florian Krüger",
+    "known_as": "Krüger",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-02-13",
+    "age": 26,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 10000,
+    "market_value_eur": 900000,
+    "release_clause_eur": 1800000,
+    "positions_primary": [
+      "ST"
+    ],
+    "positions_secondary": [
+      "CF"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 186,
+    "weight_kg": 80,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 60,
+      "dribbling": 70,
+      "finishing": 75,
+      "first_touch": 72,
+      "free_kick_taking": 60,
+      "heading_accuracy": 75,
+      "long_shots": 68,
+      "long_throws": 55,
+      "marking": 45,
+      "passing": 65,
+      "penalty_taking": 70,
+      "tackling": 45,
+      "technique": 72
+    },
+    "mental_attributes": {
+      "aggression": 68,
+      "anticipation": 75,
+      "bravery": 65,
+      "composure": 72,
+      "concentration": 68,
+      "decisions": 70,
+      "determination": 72,
+      "flair": 70,
+      "leadership": 55,
+      "off_the_ball": 78,
+      "positioning": 68,
+      "teamwork": 70,
+      "vision": 65,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 78,
+      "agility": 75,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 78,
+      "pace": 80,
+      "stamina": 78,
+      "strength": 78
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 72,
+    "important_matches": 70,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      74,
+      77
+    ],
+    "current_ability": 74,
+    "player_traits": [
+      "trait_target_man"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4442",
+    "first_name": "Fabio",
+    "last_name": "Kaufmann",
+    "full_name": "Fabio Kaufmann",
+    "known_as": "Kaufmann",
+    "second_nationality_code": "ITA",
+    "date_of_birth": "1992-09-08",
+    "age": 33,
+    "club_id": "01_155",
+    "contract_start_date": "2022-07-01",
+    "contract_expiry_date": "2025-06-30",
+    "wage_eur_weekly": 9000,
+    "market_value_eur": 600000,
+    "release_clause_eur": 1200000,
+    "positions_primary": [
+      "RW",
+      "RM"
+    ],
+    "positions_secondary": [
+      "LW"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 178,
+    "weight_kg": 74,
+    "technical_attributes": {
+      "corners": 68,
+      "crossing": 75,
+      "dribbling": 75,
+      "finishing": 65,
+      "first_touch": 72,
+      "free_kick_taking": 65,
+      "heading_accuracy": 60,
+      "long_shots": 68,
+      "long_throws": 60,
+      "marking": 45,
+      "passing": 70,
+      "penalty_taking": 65,
+      "tackling": 50,
+      "technique": 75
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 70,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 68,
+      "decisions": 68,
+      "determination": 70,
+      "flair": 75,
+      "leadership": 60,
+      "off_the_ball": 75,
+      "positioning": 65,
+      "teamwork": 70,
+      "vision": 70,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 80,
+      "agility": 78,
+      "balance": 75,
+      "jumping_reach": 70,
+      "natural_fitness": 75,
+      "pace": 82,
+      "stamina": 78,
+      "strength": 70
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 22,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      72,
+      75
+    ],
+    "current_ability": 72,
+    "player_traits": [
+      "trait_crosser"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4443",
+    "first_name": "Niko",
+    "last_name": "Übersee",
+    "full_name": "Niko Übersee",
+    "known_as": "Übersee",
+    "second_nationality_code": null,
+    "date_of_birth": "1995-01-10",
+    "age": 30,
+    "club_id": "01_155",
+    "contract_start_date": "2023-07-01",
+    "contract_expiry_date": "2025-06-30",
+    "wage_eur_weekly": 7000,
+    "market_value_eur": 500000,
+    "release_clause_eur": 1000000,
+    "positions_primary": [
+      "CM",
+      "DM"
+    ],
+    "positions_secondary": [
+      "CB"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 182,
+    "weight_kg": 77,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 62,
+      "dribbling": 65,
+      "finishing": 55,
+      "first_touch": 68,
+      "free_kick_taking": 60,
+      "heading_accuracy": 65,
+      "long_shots": 60,
+      "long_throws": 60,
+      "marking": 65,
+      "passing": 70,
+      "penalty_taking": 60,
+      "tackling": 70,
+      "technique": 68
+    },
+    "mental_attributes": {
+      "aggression": 70,
+      "anticipation": 70,
+      "bravery": 70,
+      "composure": 68,
+      "concentration": 70,
+      "decisions": 68,
+      "determination": 72,
+      "flair": 60,
+      "leadership": 65,
+      "off_the_ball": 65,
+      "positioning": 75,
+      "teamwork": 75,
+      "vision": 68,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 70,
+      "agility": 70,
+      "balance": 75,
+      "jumping_reach": 75,
+      "natural_fitness": 75,
+      "pace": 70,
+      "stamina": 78,
+      "strength": 75
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 72,
+    "important_matches": 70,
+    "dirtiness": 15,
+    "potential_ability_range": [
+      72,
+      75
+    ],
+    "current_ability": 72,
+    "player_traits": [
+      "trait_ball_winner"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4444",
+    "first_name": "Benjamin",
+    "last_name": "Kessel",
+    "full_name": "Benjamin Kessel",
+    "known_as": "Kessel",
+    "second_nationality_code": null,
+    "date_of_birth": "1988-10-01",
+    "age": 36,
+    "club_id": "01_155",
+    "contract_start_date": "2023-07-01",
+    "contract_expiry_date": "2025-06-30",
+    "wage_eur_weekly": 6000,
+    "market_value_eur": 300000,
+    "release_clause_eur": 600000,
+    "positions_primary": [
+      "RB",
+      "CB"
+    ],
+    "positions_secondary": [
+      "DM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 188,
+    "weight_kg": 82,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 65,
+      "dribbling": 60,
+      "finishing": 50,
+      "first_touch": 65,
+      "free_kick_taking": 55,
+      "heading_accuracy": 75,
+      "long_shots": 55,
+      "long_throws": 70,
+      "marking": 70,
+      "passing": 65,
+      "penalty_taking": 55,
+      "tackling": 75,
+      "technique": 65
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 70,
+      "bravery": 75,
+      "composure": 65,
+      "concentration": 70,
+      "decisions": 65,
+      "determination": 75,
+      "flair": 55,
+      "leadership": 75,
+      "off_the_ball": 60,
+      "positioning": 78,
+      "teamwork": 75,
+      "vision": 60,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 65,
+      "agility": 65,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 75,
+      "pace": 68,
+      "stamina": 75,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 28,
+    "consistency": 70,
+    "important_matches": 70,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      70,
+      72
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_leader",
+      "trait_hard_tackler"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4445",
+    "first_name": "Saulo",
+    "last_name": "Decarli",
+    "full_name": "Saulo Decarli",
+    "known_as": "Decarli",
+    "second_nationality_code": "ITA",
+    "date_of_birth": "1992-04-04",
+    "age": 33,
+    "club_id": "01_155",
+    "contract_start_date": "2022-07-01",
+    "contract_expiry_date": "2025-06-30",
+    "wage_eur_weekly": 8000,
+    "market_value_eur": 400000,
+    "release_clause_eur": 800000,
+    "positions_primary": [
+      "CB"
+    ],
+    "positions_secondary": [
+      "RB"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 186,
+    "weight_kg": 80,
+    "technical_attributes": {
+      "corners": 50,
+      "crossing": 55,
+      "dribbling": 60,
+      "finishing": 50,
+      "first_touch": 65,
+      "free_kick_taking": 55,
+      "heading_accuracy": 78,
+      "long_shots": 55,
+      "long_throws": 65,
+      "marking": 75,
+      "passing": 65,
+      "penalty_taking": 55,
+      "tackling": 78,
+      "technique": 65
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 70,
+      "bravery": 75,
+      "composure": 65,
+      "concentration": 70,
+      "decisions": 65,
+      "determination": 70,
+      "flair": 55,
+      "leadership": 70,
+      "off_the_ball": 60,
+      "positioning": 78,
+      "teamwork": 70,
+      "vision": 60,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 65,
+      "agility": 65,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 75,
+      "pace": 68,
+      "stamina": 75,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 25,
+    "consistency": 70,
+    "important_matches": 70,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      70,
+      72
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_ball_winner"
+    ],
+    "status": "real_player",
+    "international_caps": 1,
+    "international_goals": 0,
+    "nationality": "Switzerland"
+  },
+  {
+    "id": "11_4446",
+    "first_name": "Hasan",
+    "last_name": "Benjamina",
+    "full_name": "Hasan Benjamina",
+    "known_as": "Benjamina",
+    "second_nationality_code": "TUR",
+    "date_of_birth": "2002-01-15",
+    "age": 23,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 4000,
+    "market_value_eur": 250000,
+    "release_clause_eur": 500000,
+    "positions_primary": [
+      "LB",
+      "CB"
+    ],
+    "positions_secondary": [
+      "DM"
+    ],
+    "preferred_foot": "Left",
+    "height_cm": 180,
+    "weight_kg": 74,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 65,
+      "dribbling": 65,
+      "finishing": 55,
+      "first_touch": 65,
+      "free_kick_taking": 60,
+      "heading_accuracy": 65,
+      "long_shots": 60,
+      "long_throws": 65,
+      "marking": 70,
+      "passing": 68,
+      "penalty_taking": 60,
+      "tackling": 72,
+      "technique": 68
+    },
+    "mental_attributes": {
+      "aggression": 70,
+      "anticipation": 68,
+      "bravery": 70,
+      "composure": 65,
+      "concentration": 68,
+      "decisions": 65,
+      "determination": 70,
+      "flair": 60,
+      "leadership": 60,
+      "off_the_ball": 60,
+      "positioning": 75,
+      "teamwork": 70,
+      "vision": 65,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 72,
+      "agility": 70,
+      "balance": 75,
+      "jumping_reach": 75,
+      "natural_fitness": 75,
+      "pace": 72,
+      "stamina": 75,
+      "strength": 75
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 18,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 15,
+    "potential_ability_range": [
+      70,
+      73
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_overlapping_fullback"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4447",
+    "first_name": "Luc",
+    "last_name": "Ihorst",
+    "full_name": "Luc Ihorst",
+    "known_as": "Ihorst",
+    "second_nationality_code": null,
+    "date_of_birth": "2000-03-07",
+    "age": 25,
+    "club_id": "01_155",
+    "contract_start_date": "2022-07-01",
+    "contract_expiry_date": "2025-06-30",
+    "wage_eur_weekly": 7000,
+    "market_value_eur": 400000,
+    "release_clause_eur": 800000,
+    "positions_primary": [
+      "ST"
+    ],
+    "positions_secondary": [
+      "CF"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 186,
+    "weight_kg": 80,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 60,
+      "dribbling": 68,
+      "finishing": 72,
+      "first_touch": 70,
+      "free_kick_taking": 60,
+      "heading_accuracy": 75,
+      "long_shots": 65,
+      "long_throws": 55,
+      "marking": 45,
+      "passing": 65,
+      "penalty_taking": 68,
+      "tackling": 45,
+      "technique": 70
+    },
+    "mental_attributes": {
+      "aggression": 68,
+      "anticipation": 75,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 68,
+      "decisions": 70,
+      "determination": 70,
+      "flair": 70,
+      "leadership": 55,
+      "off_the_ball": 75,
+      "positioning": 68,
+      "teamwork": 68,
+      "vision": 65,
+      "work_rate": 72
+    },
+    "physical_attributes": {
+      "acceleration": 78,
+      "agility": 75,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 78,
+      "pace": 80,
+      "stamina": 78,
+      "strength": 78
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      72,
+      75
+    ],
+    "current_ability": 72,
+    "player_traits": [
+      "trait_target_man"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4448",
+    "first_name": "Robin",
+    "last_name": "Schmidt",
+    "full_name": "Robin Schmidt",
+    "known_as": "Schmidt",
+    "second_nationality_code": null,
+    "date_of_birth": "2001-06-12",
+    "age": 24,
+    "club_id": "01_155",
+    "contract_start_date": "2023-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 5000,
+    "market_value_eur": 300000,
+    "release_clause_eur": 600000,
+    "positions_primary": [
+      "CB"
+    ],
+    "positions_secondary": [
+      "RB"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 185,
+    "weight_kg": 80,
+    "technical_attributes": {
+      "corners": 50,
+      "crossing": 55,
+      "dribbling": 60,
+      "finishing": 50,
+      "first_touch": 65,
+      "free_kick_taking": 55,
+      "heading_accuracy": 78,
+      "long_shots": 55,
+      "long_throws": 65,
+      "marking": 75,
+      "passing": 65,
+      "penalty_taking": 55,
+      "tackling": 78,
+      "technique": 65
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 70,
+      "bravery": 75,
+      "composure": 65,
+      "concentration": 70,
+      "decisions": 65,
+      "determination": 70,
+      "flair": 55,
+      "leadership": 70,
+      "off_the_ball": 60,
+      "positioning": 78,
+      "teamwork": 70,
+      "vision": 60,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 65,
+      "agility": 65,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 75,
+      "pace": 68,
+      "stamina": 75,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 70,
+    "important_matches": 70,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      70,
+      72
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_ball_winner"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4449",
+    "first_name": "Jannis",
+    "last_name": "Winter",
+    "full_name": "Jannis Winter",
+    "known_as": "Winter",
+    "second_nationality_code": null,
+    "date_of_birth": "2002-12-20",
+    "age": 22,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 3500,
+    "market_value_eur": 200000,
+    "release_clause_eur": 400000,
+    "positions_primary": [
+      "LB"
+    ],
+    "positions_secondary": [
+      "LM"
+    ],
+    "preferred_foot": "Left",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 65,
+      "dribbling": 65,
+      "finishing": 55,
+      "first_touch": 65,
+      "free_kick_taking": 60,
+      "heading_accuracy": 65,
+      "long_shots": 60,
+      "long_throws": 65,
+      "marking": 70,
+      "passing": 68,
+      "penalty_taking": 60,
+      "tackling": 72,
+      "technique": 68
+    },
+    "mental_attributes": {
+      "aggression": 70,
+      "anticipation": 68,
+      "bravery": 70,
+      "composure": 65,
+      "concentration": 68,
+      "decisions": 65,
+      "determination": 70,
+      "flair": 60,
+      "leadership": 60,
+      "off_the_ball": 60,
+      "positioning": 75,
+      "teamwork": 70,
+      "vision": 65,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 72,
+      "agility": 70,
+      "balance": 75,
+      "jumping_reach": 75,
+      "natural_fitness": 75,
+      "pace": 72,
+      "stamina": 75,
+      "strength": 75
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 18,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 15,
+    "potential_ability_range": [
+      70,
+      73
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_overlapping_fullback"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4450",
+    "first_name": "Maurice",
+    "last_name": "Kühn",
+    "full_name": "Maurice Kühn",
+    "known_as": "Kühn",
+    "second_nationality_code": null,
+    "date_of_birth": "2001-08-15",
+    "age": 24,
+    "club_id": "01_155",
+    "contract_start_date": "2023-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 4000,
+    "market_value_eur": 250000,
+    "release_clause_eur": 500000,
+    "positions_primary": [
+      "CM"
+    ],
+    "positions_secondary": [
+      "AM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 180,
+    "weight_kg": 74,
+    "technical_attributes": {
+      "corners": 65,
+      "crossing": 68,
+      "dribbling": 70,
+      "finishing": 60,
+      "first_touch": 70,
+      "free_kick_taking": 65,
+      "heading_accuracy": 60,
+      "long_shots": 68,
+      "long_throws": 60,
+      "marking": 55,
+      "passing": 72,
+      "penalty_taking": 65,
+      "tackling": 60,
+      "technique": 72
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 70,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 68,
+      "decisions": 70,
+      "determination": 70,
+      "flair": 70,
+      "leadership": 60,
+      "off_the_ball": 70,
+      "positioning": 68,
+      "teamwork": 70,
+      "vision": 72,
+      "work_rate": 72
+    },
+    "physical_attributes": {
+      "acceleration": 75,
+      "agility": 75,
+      "balance": 75,
+      "jumping_reach": 70,
+      "natural_fitness": 75,
+      "pace": 75,
+      "stamina": 75,
+      "strength": 72
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 18,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      70,
+      73
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_playmaker"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_4451",
+    "first_name": "Kristal",
+    "last_name": "Helgason",
+    "full_name": "Kristal Helgason",
+    "known_as": "Helgason",
+    "second_nationality_code": null,
+    "date_of_birth": "2000-06-23",
+    "age": 25,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 6000,
+    "market_value_eur": 350000,
+    "release_clause_eur": 700000,
+    "positions_primary": [
+      "CM",
+      "AM"
+    ],
+    "positions_secondary": [
+      "LM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 182,
+    "weight_kg": 76,
+    "technical_attributes": {
+      "corners": 65,
+      "crossing": 68,
+      "dribbling": 70,
+      "finishing": 60,
+      "first_touch": 70,
+      "free_kick_taking": 65,
+      "heading_accuracy": 60,
+      "long_shots": 68,
+      "long_throws": 60,
+      "marking": 55,
+      "passing": 72,
+      "penalty_taking": 65,
+      "tackling": 60,
+      "technique": 72
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 70,
+      "bravery": 65,
+      "composure": 70,
+      "concentration": 68,
+      "decisions": 70,
+      "determination": 70,
+      "flair": 70,
+      "leadership": 60,
+      "off_the_ball": 70,
+      "positioning": 68,
+      "teamwork": 70,
+      "vision": 72,
+      "work_rate": 72
+    },
+    "physical_attributes": {
+      "acceleration": 75,
+      "agility": 75,
+      "balance": 75,
+      "jumping_reach": 70,
+      "natural_fitness": 75,
+      "pace": 75,
+      "stamina": 75,
+      "strength": 72
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 18,
+    "consistency": 70,
+    "important_matches": 68,
+    "dirtiness": 10,
+    "potential_ability_range": [
+      70,
+      73
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_pass_master"
+    ],
+    "status": "real_player",
+    "international_caps": 2,
+    "international_goals": 0,
+    "nationality": "Iceland"
+  },
+  {
+    "id": "11_4452",
+    "first_name": "Philipp",
+    "last_name": "Ziegler",
+    "full_name": "Philipp Ziegler",
+    "known_as": "Ziegler",
+    "second_nationality_code": null,
+    "date_of_birth": "2003-05-10",
+    "age": 22,
+    "club_id": "01_155",
+    "contract_start_date": "2024-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 3000,
+    "market_value_eur": 150000,
+    "release_clause_eur": 300000,
+    "positions_primary": [
+      "RB"
+    ],
+    "positions_secondary": [
+      "CB"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 180,
+    "weight_kg": 74,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 65,
+      "dribbling": 60,
+      "finishing": 50,
+      "first_touch": 65,
+      "free_kick_taking": 55,
+      "heading_accuracy": 75,
+      "long_shots": 55,
+      "long_throws": 70,
+      "marking": 70,
+      "passing": 65,
+      "penalty_taking": 55,
+      "tackling": 75,
+      "technique": 65
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 70,
+      "bravery": 75,
+      "composure": 65,
+      "concentration": 70,
+      "decisions": 65,
+      "determination": 70,
+      "flair": 55,
+      "leadership": 70,
+      "off_the_ball": 60,
+      "positioning": 78,
+      "teamwork": 70,
+      "vision": 60,
+      "work_rate": 75
+    },
+    "physical_attributes": {
+      "acceleration": 65,
+      "agility": 65,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 75,
+      "pace": 68,
+      "stamina": 75,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 70,
+    "important_matches": 70,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      70,
+      72
+    ],
+    "current_ability": 70,
+    "player_traits": [
+      "trait_overlapping_fullback"
+    ],
+    "status": "real_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "name": "David Johnson",
+    "position": "GK",
+    "traits": [
+      "Vision",
+      "Speed"
+    ],
+    "playing_style": "Balanced",
+    "rating": 53,
+    "nationality": "France"
+  },
+  {
+    "name": "Chris Smith",
+    "position": "DEF",
+    "traits": [
+      "Speed",
+      "Vision"
+    ],
+    "playing_style": "Creative",
+    "rating": 53,
+    "nationality": "Spain"
+  },
+  {
+    "name": "Michael Jones",
+    "position": "GK",
+    "traits": [
+      "Strength",
+      "Speed"
+    ],
+    "playing_style": "Defensive",
+    "rating": 50,
+    "nationality": "Italy"
+  },
+  {
+    "name": "David Jones",
+    "position": "MID",
+    "traits": [
+      "Vision",
+      "Technique"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 68,
+    "nationality": "Brazil"
+  },
+  {
+    "name": "John Smith",
+    "position": "MID",
+    "traits": [
+      "Vision",
+      "Technique"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 60,
+    "nationality": "France"
+  },
+  {
+    "name": "John Williams",
+    "position": "FWD",
+    "traits": [
+      "Speed",
+      "Strength"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 54,
+    "nationality": "Spain"
+  },
+  {
+    "name": "James Jones",
+    "position": "FWD",
+    "traits": [
+      "Technique",
+      "Vision"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 69,
+    "nationality": "France"
+  },
+  {
+    "name": "Chris Williams",
+    "position": "DEF",
+    "traits": [
+      "Strength",
+      "Vision"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 73,
+    "nationality": "Argentina"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01_121",
+    "name": "Ajaccio",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_122",
+    "name": "Amiens",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_123",
+    "name": "Annecy",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_124",
+    "name": "Bastia",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_125",
+    "name": "Caen",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_126",
+    "name": "Clermont",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_127",
+    "name": "Dunkerque",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_128",
+    "name": "Grenoble",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_129",
+    "name": "Guingamp",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_130",
+    "name": "Laval",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_131",
+    "name": "Lorient",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_132",
+    "name": "Martigues",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_133",
+    "name": "Metz",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_134",
+    "name": "Paris FC",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_135",
+    "name": "Pau",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_136",
+    "name": "Red Star",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_137",
+    "name": "Rodez",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  },
+  {
+    "id": "01_138",
+    "name": "Troyes",
+    "country_code": "FRA",
+    "league_id": "00_10"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "01_379",
+    "name": "FC Basel 1893",
+    "stadium": {
+      "name": "St. Jakob-Park",
+      "city": "Basel",
+      "country": "Switzerland",
+      "capacity": 38512
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_380",
+    "name": "BSC Young Boys",
+    "stadium": {
+      "name": "Stadion Wankdorf",
+      "city": "Bern",
+      "country": "Switzerland",
+      "capacity": 31783
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_381",
+    "name": "FC Lugano",
+    "stadium": {
+      "name": "Stadio di Cornaredo",
+      "city": "Lugano",
+      "country": "Switzerland",
+      "capacity": 10500
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_382",
+    "name": "FC Lausanne-Sport",
+    "stadium": {
+      "name": "Stade de la Tuilière",
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "capacity": 12544
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_383",
+    "name": "FC St. Gallen 1879",
+    "stadium": {
+      "name": "Kybunpark",
+      "city": "St. Gallen",
+      "country": "Switzerland",
+      "capacity": 19694
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_384",
+    "name": "Servette FC",
+    "stadium": {
+      "name": "Stade de Genève",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "capacity": 30084
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_385",
+    "name": "FC Luzern",
+    "stadium": {
+      "name": "Swissporarena",
+      "city": "Lucerne",
+      "country": "Switzerland",
+      "capacity": 17500
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_386",
+    "name": "FC Zürich",
+    "stadium": {
+      "name": "Stadion Letzigrund",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "capacity": 25000
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_387",
+    "name": "FC Sion",
+    "stadium": {
+      "name": "Stade de Tourbillon",
+      "city": "Sion",
+      "country": "Switzerland",
+      "capacity": 20187
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_388",
+    "name": "Grasshopper Club Zurich",
+    "stadium": {
+      "name": "Stadion Letzigrund",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "capacity": 25000
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_389",
+    "name": "Yverdon Sport FC",
+    "stadium": {
+      "name": "Stade Municipal",
+      "city": "Yverdon-les-Bains",
+      "country": "Switzerland",
+      "capacity": 6600
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  },
+  {
+    "id": "01_390",
+    "name": "FC Winterthur",
+    "stadium": {
+      "name": "Stadion Schützenwiese",
+      "city": "Winterthur",
+      "country": "Switzerland",
+      "capacity": 8550
+    },
+    "financials": {},
+    "history": {},
+    "league_id": "00_15"
+  }
+]

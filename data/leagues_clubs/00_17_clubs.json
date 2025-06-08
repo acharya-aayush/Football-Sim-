@@ -1,0 +1,835 @@
+[
+  {
+    "id": "01_410",
+    "name": "Shakhtar Donetsk",
+    "nickname": "The Miners",
+    "established_year": 1936,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Donbass Arena",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "capacity": 52187
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 100000000,
+      "annual_expenses_approx": 85000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 14,
+      "domestic_cup_wins": 13,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "UEFA Cup Winners (2008-2009)",
+        "Champions League Quarter-Finals"
+      ],
+      "legendary_player_names": [
+        "Darijo Srna",
+        "Fernandinho",
+        "Andriy Pyatov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "01_411",
+    "name": "Dynamo Kyiv",
+    "nickname": "The White-Blues",
+    "established_year": 1927,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "NSC Olimpiyskiy",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "capacity": 70050
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 35000000,
+      "wage_budget_weekly_total": 1300000,
+      "annual_revenue_approx": 90000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 16,
+      "domestic_cup_wins": 13,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "European Cup Winners' Cup (1975, 1986)",
+        "UEFA Super Cup (1975)"
+      ],
+      "legendary_player_names": [
+        "Oleg Blokhin",
+        "Andriy Shevchenko",
+        "Oleksandr Shovkovskiy"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Very High"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "01_412",
+    "name": "Zorya Luhansk",
+    "nickname": "The Dawn",
+    "established_year": 1923,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Slavutych Arena",
+      "city": "Zaporizhia",
+      "country": "Ukraine",
+      "capacity": 12000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 500000,
+      "annual_revenue_approx": 25000000,
+      "annual_expenses_approx": 20000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Soviet Top League Champions (1972)",
+        "Europa League group stage appearances"
+      ],
+      "legendary_player_names": [
+        "Yuriy Vernydub",
+        "Oleksandr Chyzhevskyi",
+        "Viktor Aristov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_413",
+    "name": "Dnipro",
+    "nickname": "The Blue-White-Blues",
+    "established_year": 1918,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Dnipro Arena",
+      "city": "Dnipro",
+      "country": "Ukraine",
+      "capacity": 31003
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 8000000,
+      "wage_budget_weekly_total": 400000,
+      "annual_revenue_approx": 20000000,
+      "annual_expenses_approx": 18000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Europa League Finalists (2014-2015)",
+        "Soviet Top League Champions (1983, 1988)"
+      ],
+      "legendary_player_names": [
+        "Oleh Protasov",
+        "Yevhen Konoplyanka",
+        "Roman Zozulya"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_414",
+    "name": "FC Oleksandriya",
+    "nickname": "The Yellow-Blacks",
+    "established_year": 1990,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "CSC Nika Stadium",
+      "city": "Oleksandriya",
+      "country": "Ukraine",
+      "capacity": 7000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 12000000,
+      "annual_expenses_approx": 10000000,
+      "sponsorship_value_annual": 3000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Europa League group stage qualification",
+        "Ukrainian Premier League bronze medals"
+      ],
+      "legendary_player_names": [
+        "Andriy Zaporizhanu",
+        "Volodymyr Sharan",
+        "Andriy Tsurikov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_415",
+    "name": "Kolos Kovalivka",
+    "nickname": "The Villagers",
+    "established_year": 2012,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Kolos Stadium",
+      "city": "Kovalivka",
+      "country": "Ukraine",
+      "capacity": 5000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7000000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Europa Conference League qualification",
+        "Rapid rise through Ukrainian football leagues"
+      ],
+      "legendary_player_names": [
+        "Andriy Yarmolenko",
+        "Volodymyr Lysenko",
+        "Yevhen Novoseltsev"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_416",
+    "name": "Vorskla Poltava",
+    "nickname": "The Green-Whites",
+    "established_year": 1955,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Oleksiy Butovsky Vorskla Stadium",
+      "city": "Poltava",
+      "country": "Ukraine",
+      "capacity": 24795
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 250000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 13000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Ukrainian Cup Winners (2009)",
+        "Europa League group stage appearances"
+      ],
+      "legendary_player_names": [
+        "Vasyl Sachko",
+        "Andriy Pyatov",
+        "Serhiy Chizhov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_417",
+    "name": "Rukh Lviv",
+    "nickname": "The Movement",
+    "established_year": 2003,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Arena Lviv",
+      "city": "Lviv",
+      "country": "Ukraine",
+      "capacity": 34915
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 3000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Premier League promotion (2020)",
+        "Steady rise through Ukrainian league system"
+      ],
+      "legendary_player_names": [
+        "Roman Vantukh",
+        "Igor Didyk",
+        "Mykhailo Kozak"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_418",
+    "name": "Veres Rivne",
+    "nickname": "The Red-Blacks",
+    "established_year": 1957,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Avangard Stadium",
+      "city": "Rivne",
+      "country": "Ukraine",
+      "capacity": 4800
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7000000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Soviet First League champions (1990)",
+        "Recent return to Ukrainian Premier League"
+      ],
+      "legendary_player_names": [
+        "Serhiy Vynohradov",
+        "Ivan Krivosheev",
+        "Oleh Shandruk"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_419",
+    "name": "Polissia Zhytomyr",
+    "nickname": "The Forest Wolves",
+    "established_year": 1959,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Polissia Stadium",
+      "city": "Zhytomyr",
+      "country": "Ukraine",
+      "capacity": 5928
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent promotion to Ukrainian Premier League",
+        "Return to top flight after long absence"
+      ],
+      "legendary_player_names": [
+        "Ihor Volkov",
+        "Oleksandr Bondarenko",
+        "Serhiy Sobko"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 22,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_420",
+    "name": "Kryvbas Kryvyi Rih",
+    "nickname": "The Miners",
+    "established_year": 1959,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Kryvbas Stadium",
+      "city": "Kryvyi Rih",
+      "country": "Ukraine",
+      "capacity": 29734
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 12000000,
+      "annual_expenses_approx": 11000000,
+      "sponsorship_value_annual": 3500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Ukrainian Premier League bronze medals",
+        "UEFA Cup/Europa League appearances"
+      ],
+      "legendary_player_names": [
+        "Serhiy Mizin",
+        "Hennadiy Popovych",
+        "Oleksandr Horshkov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 58,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_421",
+    "name": "Chornomorets Odesa",
+    "nickname": "The Sailors",
+    "established_year": 1936,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Chornomorets Stadium",
+      "city": "Odesa",
+      "country": "Ukraine",
+      "capacity": 34164
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 250000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 14000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Ukrainian Cup Winners (1992, 1994)",
+        "Europa League group stage"
+      ],
+      "legendary_player_names": [
+        "Tymerlyan Huseinov",
+        "Ilya Tsymbalar",
+        "Anatoliy Dyryvyanko"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_422",
+    "name": "Inhulets Petrove",
+    "nickname": "The Miners",
+    "established_year": 2013,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Inhulets Stadium",
+      "city": "Petrove",
+      "country": "Ukraine",
+      "capacity": 4000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Ukrainian First League Champions (2020)",
+        "Rapid rise through Ukrainian football system"
+      ],
+      "legendary_player_names": [
+        "Serhii Kulynych",
+        "Andriy Boryachuk",
+        "Artem Sitalo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 22,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_423",
+    "name": "Obolon Kyiv",
+    "nickname": "The Brewers",
+    "established_year": 1992,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Obolon Arena",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "capacity": 5000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Return to Ukrainian Premier League",
+        "Previously known as Obolon-Brovar"
+      ],
+      "legendary_player_names": [
+        "Oleksandr Mandzyuk",
+        "Oleh Mazurenko",
+        "Andriy Yatsenko"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_424",
+    "name": "FC Lviv",
+    "nickname": "The Lions",
+    "established_year": 2006,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Arena Lviv",
+      "city": "Lviv",
+      "country": "Ukraine",
+      "capacity": 34915
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Ukrainian Premier League participation since 2018",
+        "Ukrainian First League promotion (2018)"
+      ],
+      "legendary_player_names": [
+        "Bruno Duarte",
+        "Alvaro Lemos",
+        "Felipe Pires"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_425",
+    "name": "Livyi Bereh Kyiv",
+    "nickname": "The Left Bank",
+    "established_year": 2017,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "Livyi Bereh Stadium",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "capacity": 5000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent promotion to Ukrainian Premier League",
+        "Rapid rise through Ukrainian football system"
+      ],
+      "legendary_player_names": [
+        "Dmytro Korkishko",
+        "Oleksandr Kasay",
+        "Roman Vovk"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 22,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_426",
+    "name": "LNZ Cherkasy",
+    "nickname": "The Farm Workers",
+    "established_year": 2006,
+    "country_code": "UKR",
+    "league_id": "00_17",
+    "stadium": {
+      "name": "LNZ Stadium",
+      "city": "Cherkasy",
+      "country": "Ukraine",
+      "capacity": 5000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent promotion to Ukrainian Premier League",
+        "Ukrainian First League promotion"
+      ],
+      "legendary_player_names": [
+        "Denys Kozhanov",
+        "Pavlo Orikhovskyi",
+        "Oleksiy Dytyatiyev"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 22,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  }
+]

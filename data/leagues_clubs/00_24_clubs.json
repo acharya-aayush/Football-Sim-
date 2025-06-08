@@ -1,0 +1,402 @@
+[
+  {
+    "club_id": "league_brasileirao_club_01",
+    "name": "Atlético-MG",
+    "city": "Atlético-MG",
+    "founded": 1929,
+    "stadium": {
+      "name": "Arena MRV",
+      "capacity": 13456
+    },
+    "reputation": 60,
+    "finances": {
+      "transfer_budget": 10975159,
+      "wage_budget": 5937407
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Red"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_02",
+    "name": "Bahia",
+    "city": "Bahia",
+    "founded": 1918,
+    "stadium": {
+      "name": "Casa de Apostas Arena Fonte Nova",
+      "capacity": 34447
+    },
+    "reputation": 75,
+    "finances": {
+      "transfer_budget": 3444922,
+      "wage_budget": 7484954
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Black"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_03",
+    "name": "Botafogo",
+    "city": "Botafogo",
+    "founded": 1912,
+    "stadium": {
+      "name": "Olímpico Nilton Santos",
+      "capacity": 71632
+    },
+    "reputation": 81,
+    "finances": {
+      "transfer_budget": 40136077,
+      "wage_budget": 11696079
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_04",
+    "name": "Ceará",
+    "city": "Ceará",
+    "founded": 1913,
+    "stadium": {
+      "name": "Castelão",
+      "capacity": 13269
+    },
+    "reputation": 67,
+    "finances": {
+      "transfer_budget": 5945495,
+      "wage_budget": 6606532
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_05",
+    "name": "Corinthians",
+    "city": "Corinthians",
+    "founded": 1914,
+    "stadium": {
+      "name": "Neo Química Arena",
+      "capacity": 56408
+    },
+    "reputation": 82,
+    "finances": {
+      "transfer_budget": 42851940,
+      "wage_budget": 7529472
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Blue"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_06",
+    "name": "Cruzeiro",
+    "city": "Cruzeiro",
+    "founded": 1946,
+    "stadium": {
+      "name": "Mineirão",
+      "capacity": 30374
+    },
+    "reputation": 63,
+    "finances": {
+      "transfer_budget": 4928537,
+      "wage_budget": 3838169
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Black"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_07",
+    "name": "Flamengo",
+    "city": "Flamengo",
+    "founded": 1932,
+    "stadium": {
+      "name": "Maracanã",
+      "capacity": 40708
+    },
+    "reputation": 77,
+    "finances": {
+      "transfer_budget": 30526601,
+      "wage_budget": 14106428
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Blue"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_08",
+    "name": "Fluminense",
+    "city": "Fluminense",
+    "founded": 1903,
+    "stadium": {
+      "name": "Arena do Grêmio",
+      "capacity": 8132
+    },
+    "reputation": 60,
+    "finances": {
+      "transfer_budget": 2532698,
+      "wage_budget": 4047092
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "Red"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_09",
+    "name": "Fortaleza",
+    "city": "Fortaleza",
+    "founded": 1922,
+    "stadium": {
+      "name": "Beira-Rio",
+      "capacity": 26479
+    },
+    "reputation": 73,
+    "finances": {
+      "transfer_budget": 9438054,
+      "wage_budget": 6228080
+    },
+    "colors": {
+      "primary": "Green",
+      "secondary": "Yellow"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_10",
+    "name": "Grêmio",
+    "city": "Grêmio",
+    "founded": 1922,
+    "stadium": {
+      "name": "Alfredo Jaconi",
+      "capacity": 34251
+    },
+    "reputation": 66,
+    "finances": {
+      "transfer_budget": 8418887,
+      "wage_budget": 7562353
+    },
+    "colors": {
+      "primary": "White",
+      "secondary": "Yellow"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_11",
+    "name": "Internacional",
+    "city": "Internacional",
+    "founded": 1924,
+    "stadium": {
+      "name": "Campos Maia",
+      "capacity": 10598
+    },
+    "reputation": 70,
+    "finances": {
+      "transfer_budget": 10171206,
+      "wage_budget": 5387745
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_12",
+    "name": "Juventude",
+    "city": "Juventude",
+    "founded": 1919,
+    "stadium": {
+      "name": "Allianz Parque",
+      "capacity": 29327
+    },
+    "reputation": 62,
+    "finances": {
+      "transfer_budget": 9352168,
+      "wage_budget": 7727734
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Blue"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_13",
+    "name": "Mirassol",
+    "city": "Mirassol",
+    "founded": 1916,
+    "stadium": {
+      "name": "Nabi Abi Chedid",
+      "capacity": 22150
+    },
+    "reputation": 61,
+    "finances": {
+      "transfer_budget": 14545420,
+      "wage_budget": 2148747
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_14",
+    "name": "Palmeiras",
+    "city": "Palmeiras",
+    "founded": 1933,
+    "stadium": {
+      "name": "Vila Belmiro",
+      "capacity": 46476
+    },
+    "reputation": 76,
+    "finances": {
+      "transfer_budget": 19504586,
+      "wage_budget": 5055571
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Blue"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_15",
+    "name": "RB Bragantino",
+    "city": "Bragantino",
+    "founded": 1945,
+    "stadium": {
+      "name": "MorumBIS",
+      "capacity": 10096
+    },
+    "reputation": 73,
+    "finances": {
+      "transfer_budget": 14410386,
+      "wage_budget": 7085033
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Black"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_16",
+    "name": "Santos",
+    "city": "Santos",
+    "founded": 1935,
+    "stadium": {
+      "name": "Ilha do Retiro",
+      "capacity": 62407
+    },
+    "reputation": 78,
+    "finances": {
+      "transfer_budget": 21959458,
+      "wage_budget": 24103341
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_17",
+    "name": "São Paulo",
+    "city": "Paulo",
+    "founded": 1912,
+    "stadium": {
+      "name": "São Januário",
+      "capacity": 38170
+    },
+    "reputation": 85,
+    "finances": {
+      "transfer_budget": 39842957,
+      "wage_budget": 23794794
+    },
+    "colors": {
+      "primary": "Blue",
+      "secondary": "Black"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_18",
+    "name": "Sport",
+    "city": "Sport",
+    "founded": 1914,
+    "stadium": {
+      "name": "Barradão",
+      "capacity": 26883
+    },
+    "reputation": 73,
+    "finances": {
+      "transfer_budget": 13779854,
+      "wage_budget": 2142265
+    },
+    "colors": {
+      "primary": "Red",
+      "secondary": "Blue"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_19",
+    "name": "Vasco",
+    "city": "Vasco",
+    "founded": 1930,
+    "stadium": {
+      "name": "Arena Castelão",
+      "capacity": 20442
+    },
+    "reputation": 71,
+    "finances": {
+      "transfer_budget": 14119726,
+      "wage_budget": 5791418
+    },
+    "colors": {
+      "primary": "Yellow",
+      "secondary": "Black"
+    },
+    "league_id": "league_brasileirao"
+  },
+  {
+    "club_id": "league_brasileirao_club_20",
+    "name": "Vitória",
+    "city": "Vitória",
+    "founded": 1942,
+    "stadium": {
+      "name": "Arena da Baixada",
+      "capacity": 30546
+    },
+    "reputation": 65,
+    "finances": {
+      "transfer_budget": 10656195,
+      "wage_budget": 3981951
+    },
+    "colors": {
+      "primary": "Black",
+      "secondary": "White"
+    },
+    "league_id": "league_brasileirao"
+  }
+]

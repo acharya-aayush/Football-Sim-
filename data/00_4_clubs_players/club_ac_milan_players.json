@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "11_5794",
+    "first_name": "Mike",
+    "last_name": "Maignan",
+    "full_name": "Mike Maignan",
+    "known_as": "Maignan",
+    "second_nationality_code": null,
+    "date_of_birth": "1995-07-03",
+    "age": 29,
+    "club_id": "01_201",
+    "contract_start_date": "2021-07-01",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 120000,
+    "market_value_eur": 40000000,
+    "release_clause_eur": 180000000,
+    "positions_primary": [
+      "GK"
+    ],
+    "positions_secondary": [],
+    "preferred_foot": "Right",
+    "height_cm": 191,
+    "weight_kg": 89,
+    "technical_attributes": {
+      "corners": 10,
+      "crossing": 10,
+      "dribbling": 15,
+      "finishing": 10,
+      "first_touch": 30,
+      "free_kick_taking": 10,
+      "heading_accuracy": 10,
+      "long_shots": 10,
+      "long_throws": 10,
+      "marking": 10,
+      "passing": 65,
+      "penalty_taking": 10,
+      "tackling": 10,
+      "technique": 50
+    },
+    "mental_attributes": {
+      "aggression": 40,
+      "anticipation": 85,
+      "bravery": 80,
+      "composure": 88,
+      "concentration": 88,
+      "decisions": 85,
+      "determination": 88,
+      "flair": 20,
+      "leadership": 80,
+      "off_the_ball": 10,
+      "positioning": 90,
+      "teamwork": 75,
+      "vision": 60,
+      "work_rate": 70
+    },
+    "physical_attributes": {
+      "acceleration": 60,
+      "agility": 75,
+      "balance": 70,
+      "jumping_reach": 85,
+      "natural_fitness": 88,
+      "pace": 60,
+      "stamina": 70,
+      "strength": 80
+    },
+    "goalkeeping_attributes": {
+      "aerial_reach": 88,
+      "command_of_area": 87,
+      "communication": 85,
+      "eccentricity": 70,
+      "handling": 90,
+      "kicking": 85,
+      "one_on_ones": 88,
+      "passing": 80,
+      "punching": 82,
+      "reflexes": 90,
+      "rushing_out": 85,
+      "throwing": 80
+    },
+    "injury_proneness": 25,
+    "consistency": 87,
+    "important_matches": 88,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      87,
+      90
+    ],
+    "current_ability": 87,
+    "player_traits": [
+      "trait_star_player_4"
+    ],
+    "status": "real_player",
+    "international_caps": 15,
+    "international_goals": 0,
+    "nationality": "France"
+  },
+  {
+    "id": "11_5795",
+    "first_name": "Theo",
+    "last_name": "Hernández",
+    "full_name": "Theo Hernández",
+    "known_as": "Theo",
+    "second_nationality_code": null,
+    "date_of_birth": "1997-10-06",
+    "age": 27,
+    "club_id": "01_201",
+    "contract_start_date": "2019-07-06",
+    "contract_expiry_date": "2026-06-30",
+    "wage_eur_weekly": 110000,
+    "market_value_eur": 60000000,
+    "release_clause_eur": 250000000,
+    "positions_primary": [
+      "LB"
+    ],
+    "positions_secondary": [
+      "LWB"
+    ],
+    "preferred_foot": "Left",
+    "height_cm": 184,
+    "weight_kg": 81,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 82,
+      "dribbling": 85,
+      "finishing": 70,
+      "first_touch": 80,
+      "free_kick_taking": 55,
+      "heading_accuracy": 70,
+      "long_shots": 68,
+      "long_throws": 60,
+      "marking": 78,
+      "passing": 78,
+      "penalty_taking": 65,
+      "tackling": 80,
+      "technique": 83
+    },
+    "mental_attributes": {
+      "aggression": 85,
+      "anticipation": 80,
+      "bravery": 85,
+      "composure": 80,
+      "concentration": 75,
+      "decisions": 78,
+      "determination": 85,
+      "flair": 80,
+      "leadership": 70,
+      "off_the_ball": 80,
+      "positioning": 75,
+      "teamwork": 78,
+      "vision": 75,
+      "work_rate": 88
+    },
+    "physical_attributes": {
+      "acceleration": 95,
+      "agility": 88,
+      "balance": 80,
+      "jumping_reach": 75,
+      "natural_fitness": 88,
+      "pace": 94,
+      "stamina": 90,
+      "strength": 78
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 85,
+    "important_matches": 85,
+    "dirtiness": 40,
+    "potential_ability_range": [
+      86,
+      89
+    ],
+    "current_ability": 86,
+    "player_traits": [
+      "trait_speedster",
+      "trait_overlapping_fullback",
+      "trait_star_player_4"
+    ],
+    "status": "real_player",
+    "international_caps": 25,
+    "international_goals": 2,
+    "nationality": "France"
+  },
+  {
+    "id": "11_5796",
+    "first_name": "Rafael",
+    "last_name": "Leão",
+    "full_name": "Rafael Leão",
+    "known_as": "Leão",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-06-10",
+    "age": 25,
+    "club_id": "01_201",
+    "contract_start_date": "2019-08-01",
+    "contract_expiry_date": "2028-06-30",
+    "wage_eur_weekly": 125000,
+    "market_value_eur": 90000000,
+    "release_clause_eur": 175000000,
+    "positions_primary": [
+      "LW"
+    ],
+    "positions_secondary": [
+      "ST",
+      "AM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 188,
+    "weight_kg": 81,
+    "technical_attributes": {
+      "corners": 65,
+      "crossing": 78,
+      "dribbling": 92,
+      "finishing": 82,
+      "first_touch": 88,
+      "free_kick_taking": 60,
+      "heading_accuracy": 68,
+      "long_shots": 75,
+      "long_throws": 40,
+      "marking": 30,
+      "passing": 80,
+      "penalty_taking": 70,
+      "tackling": 35,
+      "technique": 90
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 80,
+      "bravery": 70,
+      "composure": 85,
+      "concentration": 75,
+      "decisions": 78,
+      "determination": 80,
+      "flair": 90,
+      "leadership": 50,
+      "off_the_ball": 85,
+      "positioning": 75,
+      "teamwork": 70,
+      "vision": 82,
+      "work_rate": 78
+    },
+    "physical_attributes": {
+      "acceleration": 90,
+      "agility": 88,
+      "balance": 82,
+      "jumping_reach": 70,
+      "natural_fitness": 85,
+      "pace": 92,
+      "stamina": 80,
+      "strength": 75
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 85,
+    "important_matches": 88,
+    "dirtiness": 25,
+    "potential_ability_range": [
+      88,
+      91
+    ],
+    "current_ability": 87,
+    "player_traits": [
+      "trait_dribbler",
+      "trait_speedster",
+      "trait_star_player_5"
+    ],
+    "status": "real_player",
+    "international_caps": 40,
+    "international_goals": 10,
+    "nationality": "Portugal"
+  },
+  {
+    "id": "11_5797",
+    "first_name": "Christian",
+    "last_name": "Pulisic",
+    "full_name": "Christian Pulisic",
+    "known_as": "Pulisic",
+    "second_nationality_code": null,
+    "date_of_birth": "1998-09-18",
+    "age": 26,
+    "club_id": "01_201",
+    "contract_start_date": "2023-07-13",
+    "contract_expiry_date": "2027-06-30",
+    "wage_eur_weekly": 100000,
+    "market_value_eur": 50000000,
+    "release_clause_eur": 120000000,
+    "positions_primary": [
+      "RW"
+    ],
+    "positions_secondary": [
+      "LW",
+      "AM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 177,
+    "weight_kg": 73,
+    "technical_attributes": {
+      "corners": 70,
+      "crossing": 78,
+      "dribbling": 88,
+      "finishing": 80,
+      "first_touch": 85,
+      "free_kick_taking": 65,
+      "heading_accuracy": 50,
+      "long_shots": 75,
+      "long_throws": 40,
+      "marking": 40,
+      "passing": 78,
+      "penalty_taking": 75,
+      "tackling": 45,
+      "technique": 87
+    },
+    "mental_attributes": {
+      "aggression": 70,
+      "anticipation": 80,
+      "bravery": 75,
+      "composure": 82,
+      "concentration": 78,
+      "decisions": 78,
+      "determination": 82,
+      "flair": 85,
+      "leadership": 60,
+      "off_the_ball": 85,
+      "positioning": 75,
+      "teamwork": 78,
+      "vision": 80,
+      "work_rate": 80
+    },
+    "physical_attributes": {
+      "acceleration": 88,
+      "agility": 90,
+      "balance": 85,
+      "jumping_reach": 60,
+      "natural_fitness": 80,
+      "pace": 86,
+      "stamina": 82,
+      "strength": 65
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 35,
+    "consistency": 80,
+    "important_matches": 82,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      84,
+      87
+    ],
+    "current_ability": 84,
+    "player_traits": [
+      "trait_dribbler",
+      "trait_inverted_winger",
+      "trait_star_player_4"
+    ],
+    "status": "real_player",
+    "international_caps": 70,
+    "international_goals": 30,
+    "nationality": "United States"
+  },
+  {
+    "id": "11_5798",
+    "first_name": "Tijjani",
+    "last_name": "Reijnders",
+    "full_name": "Tijjani Reijnders",
+    "known_as": "Reijnders",
+    "second_nationality_code": null,
+    "date_of_birth": "1998-07-29",
+    "age": 26,
+    "club_id": "01_201",
+    "contract_start_date": "2023-07-19",
+    "contract_expiry_date": "2030-06-30",
+    "wage_eur_weekly": 80000,
+    "market_value_eur": 50000000,
+    "release_clause_eur": 150000000,
+    "positions_primary": [
+      "CM"
+    ],
+    "positions_secondary": [
+      "DM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 185,
+    "weight_kg": 73,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 70,
+      "dribbling": 80,
+      "finishing": 75,
+      "first_touch": 85,
+      "free_kick_taking": 65,
+      "heading_accuracy": 60,
+      "long_shots": 78,
+      "long_throws": 40,
+      "marking": 70,
+      "passing": 88,
+      "penalty_taking": 60,
+      "tackling": 78,
+      "technique": 85
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 82,
+      "bravery": 78,
+      "composure": 85,
+      "concentration": 80,
+      "decisions": 82,
+      "determination": 85,
+      "flair": 75,
+      "leadership": 70,
+      "off_the_ball": 80,
+      "positioning": 78,
+      "teamwork": 88,
+      "vision": 85,
+      "work_rate": 88
+    },
+    "physical_attributes": {
+      "acceleration": 78,
+      "agility": 75,
+      "balance": 78,
+      "jumping_reach": 68,
+      "natural_fitness": 85,
+      "pace": 75,
+      "stamina": 90,
+      "strength": 70
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 85,
+    "important_matches": 85,
+    "dirtiness": 30,
+    "potential_ability_range": [
+      84,
+      87
+    ],
+    "current_ability": 84,
+    "player_traits": [
+      "trait_playmaker",
+      "trait_pass_master",
+      "trait_late_runner",
+      "trait_star_player_3"
+    ],
+    "status": "real_player",
+    "international_caps": 10,
+    "international_goals": 2,
+    "nationality": "Netherlands"
+  },
+  {
+    "id": "11_5799",
+    "first_name": "Fikayo",
+    "last_name": "Tomori",
+    "full_name": "Fikayo Tomori",
+    "known_as": "Tomori",
+    "second_nationality_code": null,
+    "date_of_birth": "1997-12-19",
+    "age": 27,
+    "club_id": "01_201",
+    "contract_start_date": "2021-01-22",
+    "contract_expiry_date": "2027-06-30",
+    "wage_eur_weekly": 90000,
+    "market_value_eur": 40000000,
+    "release_clause_eur": 120000000,
+    "positions_primary": [
+      "CB"
+    ],
+    "positions_secondary": [
+      "RB"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "technical_attributes": {
+      "corners": 30,
+      "crossing": 40,
+      "dribbling": 68,
+      "finishing": 40,
+      "first_touch": 70,
+      "free_kick_taking": 30,
+      "heading_accuracy": 85,
+      "long_shots": 35,
+      "long_throws": 30,
+      "marking": 88,
+      "passing": 70,
+      "penalty_taking": 30,
+      "tackling": 88,
+      "technique": 70
+    },
+    "mental_attributes": {
+      "aggression": 80,
+      "anticipation": 85,
+      "bravery": 85,
+      "composure": 80,
+      "concentration": 82,
+      "decisions": 80,
+      "determination": 85,
+      "flair": 45,
+      "leadership": 75,
+      "off_the_ball": 60,
+      "positioning": 85,
+      "teamwork": 82,
+      "vision": 60,
+      "work_rate": 80
+    },
+    "physical_attributes": {
+      "acceleration": 84,
+      "agility": 78,
+      "balance": 75,
+      "jumping_reach": 80,
+      "natural_fitness": 85,
+      "pace": 84,
+      "stamina": 82,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 25,
+    "consistency": 82,
+    "important_matches": 80,
+    "dirtiness": 35,
+    "potential_ability_range": [
+      83,
+      86
+    ],
+    "current_ability": 83,
+    "player_traits": [
+      "trait_hard_tackler",
+      "trait_ball_winner",
+      "trait_speedster",
+      "trait_star_player_3"
+    ],
+    "status": "real_player",
+    "international_caps": 5,
+    "international_goals": 0,
+    "nationality": "England"
+  },
+  {
+    "id": "11_5800",
+    "first_name": "Ruben",
+    "last_name": "Loftus-Cheek",
+    "full_name": "Ruben Loftus-Cheek",
+    "known_as": "Loftus-Cheek",
+    "second_nationality_code": null,
+    "date_of_birth": "1996-01-23",
+    "age": 29,
+    "club_id": "01_201",
+    "contract_start_date": "2023-06-30",
+    "contract_expiry_date": "2027-06-30",
+    "wage_eur_weekly": 75000,
+    "market_value_eur": 25000000,
+    "release_clause_eur": 75000000,
+    "positions_primary": [
+      "CM"
+    ],
+    "positions_secondary": [
+      "AM",
+      "DM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 191,
+    "weight_kg": 88,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 70,
+      "dribbling": 82,
+      "finishing": 75,
+      "first_touch": 80,
+      "free_kick_taking": 60,
+      "heading_accuracy": 70,
+      "long_shots": 78,
+      "long_throws": 40,
+      "marking": 65,
+      "passing": 78,
+      "penalty_taking": 65,
+      "tackling": 70,
+      "technique": 80
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 75,
+      "bravery": 78,
+      "composure": 80,
+      "concentration": 75,
+      "decisions": 78,
+      "determination": 80,
+      "flair": 75,
+      "leadership": 65,
+      "off_the_ball": 75,
+      "positioning": 70,
+      "teamwork": 78,
+      "vision": 78,
+      "work_rate": 80
+    },
+    "physical_attributes": {
+      "acceleration": 78,
+      "agility": 75,
+      "balance": 78,
+      "jumping_reach": 70,
+      "natural_fitness": 80,
+      "pace": 75,
+      "stamina": 82,
+      "strength": 88
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 30,
+    "consistency": 78,
+    "important_matches": 78,
+    "dirtiness": 30,
+    "potential_ability_range": [
+      81,
+      84
+    ],
+    "current_ability": 81,
+    "player_traits": [
+      "trait_dribbler",
+      "trait_late_runner",
+      "trait_star_player_2"
+    ],
+    "status": "real_player",
+    "international_caps": 15,
+    "international_goals": 0,
+    "nationality": "England"
+  },
+  {
+    "id": "11_5801",
+    "first_name": "Youssouf",
+    "last_name": "Fofana",
+    "full_name": "Youssouf Fofana",
+    "known_as": "Fofana",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-01-10",
+    "age": 26,
+    "club_id": "01_201",
+    "contract_start_date": "2024-08-01",
+    "contract_expiry_date": "2028-06-30",
+    "wage_eur_weekly": 70000,
+    "market_value_eur": 30000000,
+    "release_clause_eur": 90000000,
+    "positions_primary": [
+      "DM"
+    ],
+    "positions_secondary": [
+      "CM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "technical_attributes": {
+      "corners": 40,
+      "crossing": 60,
+      "dribbling": 75,
+      "finishing": 50,
+      "first_touch": 80,
+      "free_kick_taking": 40,
+      "heading_accuracy": 70,
+      "long_shots": 60,
+      "long_throws": 35,
+      "marking": 80,
+      "passing": 82,
+      "penalty_taking": 50,
+      "tackling": 85,
+      "technique": 78
+    },
+    "mental_attributes": {
+      "aggression": 85,
+      "anticipation": 80,
+      "bravery": 82,
+      "composure": 80,
+      "concentration": 82,
+      "decisions": 78,
+      "determination": 85,
+      "flair": 60,
+      "leadership": 70,
+      "off_the_ball": 70,
+      "positioning": 80,
+      "teamwork": 85,
+      "vision": 75,
+      "work_rate": 88
+    },
+    "physical_attributes": {
+      "acceleration": 70,
+      "agility": 68,
+      "balance": 72,
+      "jumping_reach": 75,
+      "natural_fitness": 85,
+      "pace": 69,
+      "stamina": 90,
+      "strength": 80
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 82,
+    "important_matches": 80,
+    "dirtiness": 45,
+    "potential_ability_range": [
+      82,
+      85
+    ],
+    "current_ability": 82,
+    "player_traits": [
+      "trait_ball_winner",
+      "trait_hard_tackler",
+      "trait_star_player_2"
+    ],
+    "status": "real_player",
+    "international_caps": 12,
+    "international_goals": 0,
+    "nationality": "France"
+  },
+  {
+    "id": "11_5802",
+    "first_name": "Davide",
+    "last_name": "Calabria",
+    "full_name": "Davide Calabria",
+    "known_as": "Calabria",
+    "second_nationality_code": null,
+    "date_of_birth": "1996-12-06",
+    "age": 28,
+    "club_id": "01_201",
+    "contract_start_date": "2015-07-01",
+    "contract_expiry_date": "2028-06-30",
+    "wage_eur_weekly": 65000,
+    "market_value_eur": 20000000,
+    "release_clause_eur": 60000000,
+    "positions_primary": [
+      "RB"
+    ],
+    "positions_secondary": [
+      "LB",
+      "DM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 177,
+    "weight_kg": 70,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 78,
+      "dribbling": 75,
+      "finishing": 55,
+      "first_touch": 78,
+      "free_kick_taking": 50,
+      "heading_accuracy": 60,
+      "long_shots": 55,
+      "long_throws": 60,
+      "marking": 80,
+      "passing": 80,
+      "penalty_taking": 60,
+      "tackling": 82,
+      "technique": 78
+    },
+    "mental_attributes": {
+      "aggression": 80,
+      "anticipation": 80,
+      "bravery": 80,
+      "composure": 80,
+      "concentration": 80,
+      "decisions": 82,
+      "determination": 85,
+      "flair": 60,
+      "leadership": 85,
+      "off_the_ball": 75,
+      "positioning": 80,
+      "teamwork": 85,
+      "vision": 70,
+      "work_rate": 88
+    },
+    "physical_attributes": {
+      "acceleration": 78,
+      "agility": 75,
+      "balance": 78,
+      "jumping_reach": 70,
+      "natural_fitness": 85,
+      "pace": 75,
+      "stamina": 88,
+      "strength": 70
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 25,
+    "consistency": 80,
+    "important_matches": 82,
+    "dirtiness": 40,
+    "potential_ability_range": [
+      80,
+      83
+    ],
+    "current_ability": 80,
+    "player_traits": [
+      "trait_leader",
+      "trait_overlapping_fullback",
+      "trait_star_player_3"
+    ],
+    "status": "real_player",
+    "international_caps": 7,
+    "international_goals": 0,
+    "nationality": "Italy"
+  },
+  {
+    "id": "11_5803",
+    "first_name": "Samuel",
+    "last_name": "Chukwueze",
+    "full_name": "Samuel Chukwueze",
+    "known_as": "Chukwueze",
+    "second_nationality_code": null,
+    "date_of_birth": "1999-05-22",
+    "age": 25,
+    "club_id": "01_201",
+    "contract_start_date": "2023-07-27",
+    "contract_expiry_date": "2028-06-30",
+    "wage_eur_weekly": 60000,
+    "market_value_eur": 20000000,
+    "release_clause_eur": 80000000,
+    "positions_primary": [
+      "RW"
+    ],
+    "positions_secondary": [
+      "LW"
+    ],
+    "preferred_foot": "Left",
+    "height_cm": 172,
+    "weight_kg": 70,
+    "technical_attributes": {
+      "corners": 60,
+      "crossing": 75,
+      "dribbling": 85,
+      "finishing": 70,
+      "first_touch": 80,
+      "free_kick_taking": 55,
+      "heading_accuracy": 40,
+      "long_shots": 70,
+      "long_throws": 35,
+      "marking": 30,
+      "passing": 70,
+      "penalty_taking": 65,
+      "tackling": 35,
+      "technique": 82
+    },
+    "mental_attributes": {
+      "aggression": 65,
+      "anticipation": 75,
+      "bravery": 65,
+      "composure": 78,
+      "concentration": 70,
+      "decisions": 75,
+      "determination": 80,
+      "flair": 82,
+      "leadership": 50,
+      "off_the_ball": 80,
+      "positioning": 70,
+      "teamwork": 70,
+      "vision": 75,
+      "work_rate": 78
+    },
+    "physical_attributes": {
+      "acceleration": 88,
+      "agility": 90,
+      "balance": 85,
+      "jumping_reach": 55,
+      "natural_fitness": 80,
+      "pace": 88,
+      "stamina": 80,
+      "strength": 60
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 25,
+    "consistency": 75,
+    "important_matches": 78,
+    "dirtiness": 20,
+    "potential_ability_range": [
+      80,
+      83
+    ],
+    "current_ability": 79,
+    "player_traits": [
+      "trait_dribbler",
+      "trait_inverted_winger",
+      "trait_speedster",
+      "trait_star_player_2"
+    ],
+    "status": "real_player",
+    "international_caps": 30,
+    "international_goals": 5,
+    "nationality": "Nigeria"
+  },
+  {
+    "id": "11_5804",
+    "first_name": "Malick",
+    "last_name": "Thiaw",
+    "full_name": "Malick Thiaw",
+    "known_as": "Thiaw",
+    "second_nationality_code": "FIN",
+    "date_of_birth": "2001-08-19",
+    "age": 23,
+    "club_id": "01_201",
+    "contract_start_date": "2022-08-29",
+    "contract_expiry_date": "2027-06-30",
+    "wage_eur_weekly": 45000,
+    "market_value_eur": 25000000,
+    "release_clause_eur": 75000000,
+    "positions_primary": [
+      "CB"
+    ],
+    "positions_secondary": [],
+    "preferred_foot": "Right",
+    "height_cm": 191,
+    "weight_kg": 80,
+    "technical_attributes": {
+      "corners": 30,
+      "crossing": 35,
+      "dribbling": 60,
+      "finishing": 35,
+      "first_touch": 70,
+      "free_kick_taking": 30,
+      "heading_accuracy": 82,
+      "long_shots": 30,
+      "long_throws": 30,
+      "marking": 82,
+      "passing": 70,
+      "penalty_taking": 30,
+      "tackling": 83,
+      "technique": 68
+    },
+    "mental_attributes": {
+      "aggression": 78,
+      "anticipation": 78,
+      "bravery": 80,
+      "composure": 78,
+      "concentration": 78,
+      "decisions": 75,
+      "determination": 80,
+      "flair": 40,
+      "leadership": 60,
+      "off_the_ball": 55,
+      "positioning": 82,
+      "teamwork": 78,
+      "vision": 55,
+      "work_rate": 78
+    },
+    "physical_attributes": {
+      "acceleration": 70,
+      "agility": 65,
+      "balance": 68,
+      "jumping_reach": 85,
+      "natural_fitness": 80,
+      "pace": 70,
+      "stamina": 78,
+      "strength": 85
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 78,
+    "important_matches": 75,
+    "dirtiness": 30,
+    "potential_ability_range": [
+      81,
+      84
+    ],
+    "current_ability": 79,
+    "player_traits": [
+      "trait_ball_winner",
+      "trait_star_player_2"
+    ],
+    "status": "real_player",
+    "international_caps": 4,
+    "international_goals": 0,
+    "nationality": "Germany"
+  },
+  {
+    "id": "11_5805",
+    "first_name": "Yunus",
+    "last_name": "Musah",
+    "full_name": "Yunus Musah",
+    "known_as": "Musah",
+    "second_nationality_code": "GHA",
+    "date_of_birth": "2002-11-29",
+    "age": 22,
+    "club_id": "01_201",
+    "contract_start_date": "2023-08-04",
+    "contract_expiry_date": "2028-06-30",
+    "wage_eur_weekly": 40000,
+    "market_value_eur": 22000000,
+    "release_clause_eur": 65000000,
+    "positions_primary": [
+      "CM"
+    ],
+    "positions_secondary": [
+      "RM"
+    ],
+    "preferred_foot": "Right",
+    "height_cm": 180,
+    "weight_kg": 77,
+    "technical_attributes": {
+      "corners": 55,
+      "crossing": 70,
+      "dribbling": 80,
+      "finishing": 60,
+      "first_touch": 78,
+      "free_kick_taking": 45,
+      "heading_accuracy": 55,
+      "long_shots": 65,
+      "long_throws": 40,
+      "marking": 68,
+      "passing": 75,
+      "penalty_taking": 50,
+      "tackling": 75,
+      "technique": 78
+    },
+    "mental_attributes": {
+      "aggression": 75,
+      "anticipation": 75,
+      "bravery": 75,
+      "composure": 78,
+      "concentration": 75,
+      "decisions": 75,
+      "determination": 80,
+      "flair": 70,
+      "leadership": 60,
+      "off_the_ball": 75,
+      "positioning": 70,
+      "teamwork": 80,
+      "vision": 70,
+      "work_rate": 85
+    },
+    "physical_attributes": {
+      "acceleration": 80,
+      "agility": 80,
+      "balance": 78,
+      "jumping_reach": 65,
+      "natural_fitness": 82,
+      "pace": 78,
+      "stamina": 85,
+      "strength": 75
+    },
+    "goalkeeping_attributes": null,
+    "injury_proneness": 20,
+    "consistency": 75,
+    "important_matches": 75,
+    "dirtiness": 30,
+    "potential_ability_range": [
+      80,
+      83
+    ],
+    "current_ability": 78,
+    "player_traits": [
+      "trait_dribbler",
+      "trait_star_player_2"
+    ],
+    "status": "real_player",
+    "international_caps": 35,
+    "international_goals": 0,
+    "nationality": "United States"
+  },
+  {
+    "name": "John Brown",
+    "position": "GK",
+    "traits": [
+      "Strength",
+      "Vision"
+    ],
+    "playing_style": "Balanced",
+    "rating": 67,
+    "nationality": "France"
+  },
+  {
+    "name": "James Brown",
+    "position": "FWD",
+    "traits": [
+      "Vision",
+      "Speed"
+    ],
+    "playing_style": "Creative",
+    "rating": 67,
+    "nationality": "Argentina"
+  },
+  {
+    "name": "David Johnson",
+    "position": "FWD",
+    "traits": [
+      "Vision",
+      "Speed"
+    ],
+    "playing_style": "Balanced",
+    "rating": 58,
+    "nationality": "Argentina"
+  },
+  {
+    "name": "Chris Smith",
+    "position": "MID",
+    "traits": [
+      "Strength",
+      "Vision"
+    ],
+    "playing_style": "Defensive",
+    "rating": 67,
+    "nationality": "Brazil"
+  },
+  {
+    "name": "David Brown",
+    "position": "FWD",
+    "traits": [
+      "Strength",
+      "Technique"
+    ],
+    "playing_style": "Defensive",
+    "rating": 68,
+    "nationality": "Spain"
+  },
+  {
+    "name": "John Smith",
+    "position": "GK",
+    "traits": [
+      "Technique",
+      "Speed"
+    ],
+    "playing_style": "Creative",
+    "rating": 51,
+    "nationality": "Argentina"
+  },
+  {
+    "name": "James Jones",
+    "position": "GK",
+    "traits": [
+      "Vision",
+      "Strength"
+    ],
+    "playing_style": "Creative",
+    "rating": 61,
+    "nationality": "Argentina"
+  },
+  {
+    "name": "Chris Williams",
+    "position": "GK",
+    "traits": [
+      "Technique",
+      "Strength"
+    ],
+    "playing_style": "Aggressive",
+    "rating": 71,
+    "nationality": "Brazil"
+  },
+  {
+    "name": "Michael Brown",
+    "position": "FWD",
+    "traits": [
+      "Strength",
+      "Speed"
+    ],
+    "playing_style": "Creative",
+    "rating": 57,
+    "nationality": "France"
+  },
+  {
+    "name": "David Smith",
+    "position": "FWD",
+    "traits": [
+      "Speed",
+      "Technique"
+    ],
+    "playing_style": "Defensive",
+    "rating": 59,
+    "nationality": "France"
+  },
+  {
+    "name": "Chris Jones",
+    "position": "MID",
+    "traits": [
+      "Speed",
+      "Strength"
+    ],
+    "playing_style": "Balanced",
+    "rating": 73,
+    "nationality": "Italy"
+  }
+]

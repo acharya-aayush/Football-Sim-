@@ -1,0 +1,151 @@
+[
+  {
+    "id": "style_possession_control",
+    "name": "Possession Control",
+    "description": "Focuses on high ball retention, patient build-up, and controlling game tempo.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "team_pass_completion_rate",
+        "modifier_type": "percentage_increase",
+        "value": 5
+      },
+      {
+        "attribute_modified": "team_tempo_control_rating",
+        "modifier_type": "flat_bonus",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_high_press", "style_counter_attack"]
+  },
+  {
+    "id": "style_high_press",
+    "name": "High Press",
+    "description": "Aggressively attempts to win the ball back high up the pitch.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "ball_recovery_rate_opponent_half",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      },
+      {
+        "attribute_modified": "opponent_pass_completion_own_half_penalty",
+        "modifier_type": "percentage_decrease",
+        "value": 5
+      },
+      {
+        "attribute_modified": "team_stamina_decay_rate",
+        "modifier_type": "percentage_increase",
+        "value": 5
+      }
+    ],
+    "countered_by": ["style_direct_play", "style_possession_control"]
+  },
+  {
+    "id": "style_counter_attack",
+    "name": "Counter Attack",
+    "description": "Absorbs pressure and launches rapid attacks upon winning possession.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "transition_speed_defense_to_attack",
+        "modifier_type": "percentage_increase",
+        "value": 15
+      },
+      {
+        "attribute_modified": "shot_accuracy_on_fast_break",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_organized_defense", "style_possession_control"]
+  },
+  {
+    "id": "style_direct_play",
+    "name": "Direct Play",
+    "description": "Moves the ball forward quickly, often with long passes, bypassing midfield.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "ball_progression_speed_to_final_third",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      },
+      {
+        "attribute_modified": "chance_creation_vs_high_line",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_organized_defense"]
+  },
+  {
+    "id": "style_organized_defense",
+    "name": "Organized Defense",
+    "description": "Prioritizes defensive solidity with a compact shape, making it hard to break down.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "opponent_shot_conversion_rate_penalty",
+        "modifier_type": "percentage_decrease",
+        "value": 5
+      },
+      {
+        "attribute_modified": "team_defensive_positioning_rating",
+        "modifier_type": "flat_bonus",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_wing_play", "style_possession_control"]
+  },
+  {
+    "id": "style_wing_play",
+    "name": "Wing Play",
+    "description": "Focuses on attacking down the flanks using wingers and fullbacks.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "cross_frequency_per_attack",
+        "modifier_type": "percentage_increase",
+        "value": 15
+      },
+      {
+        "attribute_modified": "chance_creation_from_wide_areas",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_organized_defense", "style_counter_attack"]
+  },
+  {
+    "id": "style_set_piece_focus",
+    "name": "Set Piece Focus",
+    "description": "Specializes in creating and converting chances from set plays (corners, free kicks).",
+    "bonus_effects": [
+      {
+        "attribute_modified": "set_piece_goal_conversion_rate",
+        "modifier_type": "percentage_increase",
+        "value": 10
+      },
+      {
+        "attribute_modified": "set_piece_threat_rating",
+        "modifier_type": "flat_bonus",
+        "value": 15
+      }
+    ],
+    "countered_by": ["style_organized_defense"]
+  },
+  {
+    "id": "style_park_the_bus",
+    "name": "Park the Bus",
+    "description": "An extreme defensive tactic with nearly all players defending very deep to prevent conceding.",
+    "bonus_effects": [
+      {
+        "attribute_modified": "opponent_expected_goals_per_shot_penalty",
+        "modifier_type": "percentage_decrease",
+        "value": 15
+      },
+      {
+        "attribute_modified": "opponent_chance_creation_in_box_penalty",
+        "modifier_type": "percentage_decrease",
+        "value": 10
+      }
+    ],
+    "countered_by": ["style_possession_control", "style_wing_play"]
+  }
+]

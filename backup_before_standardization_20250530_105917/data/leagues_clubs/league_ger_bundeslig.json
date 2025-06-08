@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "club_augsburg",
+    "name": "FC Augsburg",
+    "nickname": "Fuggerstädter",
+    "established_year": 1907,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "WWK Arena",
+      "city": "Augsburg",
+      "country": "Germany",
+      "capacity": 30660
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Consistent Bundesliga participation"
+      ],
+      "legendary_player_names": [
+        "Halil Altıntop",
+        "Paul Verhaegh"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Jess Thorup",
+      "nationality_code": "DEN",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_thorup_jess",
+      "manager_name": "Jess Thorup"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_bayern_munich",
+      "club_1860_munich"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_bayer_leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "nickname": "Werkself",
+    "established_year": 1904,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "BayArena",
+      "city": "Leverkusen",
+      "country": "Germany",
+      "capacity": 30210
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 250000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the Bundesliga and DFB-Pokal in 2024",
+        "Won the UEFA Cup in 1988"
+      ],
+      "legendary_player_names": [
+        "Bernd Schneider",
+        "Michael Ballack",
+        "Dimitar Berbatov",
+        "Jupp Heynckes"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Xabi Alonso",
+      "nationality_code": "ESP",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_alonso_xabi",
+      "manager_name": "Xabi Alonso"
+    },
+    "staff_quality": {
+      "coaching_attack": 18,
+      "coaching_defense": 17,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 85,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 85,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#E32219",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_fc_koln"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_bayern_munich",
+    "name": "FC Bayern Munich",
+    "nickname": "Die Roten",
+    "established_year": 1900,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Allianz Arena",
+      "city": "Munich",
+      "country": "Germany",
+      "capacity": 75000
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 150000000,
+      "wage_budget_weekly_total": 6000000,
+      "annual_revenue_approx": 700000000,
+      "annual_expenses_approx": 500000000,
+      "sponsorship_value_annual": 100000000
+    },
+    "history": {
+      "league_titles_domestic": 34,
+      "domestic_cup_wins": 20,
+      "continental_cup_wins": 11,
+      "notable_achievements": [
+        "Most Bundesliga titles",
+        "Multiple Champions League winners",
+        "Multiple treble winners"
+      ],
+      "legendary_player_names": [
+        "Franz Beckenbauer",
+        "Gerd Müller",
+        "Philipp Lahm",
+        "Manuel Neuer"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Vincent Kompany",
+      "nationality_code": "BEL",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_kompany_vincent",
+      "manager_name": "Vincent Kompany"
+    },
+    "staff_quality": {
+      "coaching_attack": 20,
+      "coaching_defense": 19,
+      "coaching_fitness": 19,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 98,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 89,
+      "youth_academy_rating": 19,
+      "training_facilities_rating": 20
+    },
+    "colors": {
+      "primary": "#DC052D",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_bvb",
+      "club_1860_munich"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "club_bochum",
+    "name": "VfL Bochum",
+    "nickname": "Die Unabsteigbaren",
+    "established_year": 1848,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum",
+      "country": "Germany",
+      "capacity": 27599
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Known for resilience in avoiding relegation"
+      ],
+      "legendary_player_names": [
+        "Ansgar Brinkmann",
+        "Peter Jackisch"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Dieter Hecking",
+      "nationality_code": "GER",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_hecking_dieter",
+      "manager_name": "Dieter Hecking"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_schalke_04",
+      "club_bvb"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_bvb",
+    "name": "Borussia Dortmund",
+    "nickname": "Die Schwarzgelben",
+    "established_year": 1909,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Signal Iduna Park",
+      "city": "Dortmund",
+      "country": "Germany",
+      "capacity": 81365
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 70000000,
+      "wage_budget_weekly_total": 2800000,
+      "annual_revenue_approx": 450000000,
+      "annual_expenses_approx": 400000000,
+      "sponsorship_value_annual": 40000000
+    },
+    "history": {
+      "league_titles_domestic": 8,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Multiple Bundesliga and DFB-Pokal winners",
+        "Won the Champions League in 1997"
+      ],
+      "legendary_player_names": [
+        "Marco Reus",
+        "Robert Lewandowski",
+        "Mats Hummels",
+        "Michael Zorc"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Niko Kovač",
+      "nationality_code": "CRO",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_kovač_niko",
+      "manager_name": "Niko Kovač"
+    },
+    "staff_quality": {
+      "coaching_attack": 17,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 88,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 82,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#FEF200",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_schalke_04",
+      "club_bayern_munich"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Develop Youth and Buy Stars"
+    }
+  },
+  {
+    "id": "club_borussia_monchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "nickname": "Die Fohlen",
+    "established_year": 1900,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Borussia-Park",
+      "city": "Mönchengladbach",
+      "country": "Germany",
+      "capacity": 54057
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 160000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 5,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won multiple Bundesliga titles in the 1970s",
+        "Won the UEFA Cup twice"
+      ],
+      "legendary_player_names": [
+        "Günter Netzer",
+        "Jupp Heynckes",
+        "Lothar Matthäus",
+        "Patrick Herrmann"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Gerardo Seoane",
+      "nationality_code": "SUI",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_seoane_gerardo",
+      "manager_name": "Gerardo Seoane"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#4F9A43"
+    },
+    "rival_club_ids": [
+      "club_fc_koln"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_eintracht_frankfurt",
+    "name": "Eintracht Frankfurt",
+    "nickname": "Die Adler",
+    "established_year": 1899,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Deutsche Bank Park",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "capacity": 58000
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 200000000,
+      "annual_expenses_approx": 180000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 2,
+      "notable_achievements": [
+        "Won the UEFA Cup/Europa League twice",
+        "Passionate fanbase"
+      ],
+      "legendary_player_names": [
+        "Bernd Hölzenbein",
+        "Anthony Yeboah",
+        "Alex Meier"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Dino Toppmöller",
+      "nationality_code": "GER",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_toppmöller_dino",
+      "manager_name": "Dino Toppmöller"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 85,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_darmstadt_98",
+      "club_fc_kaiserslautern"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_sc_freiburg",
+    "name": "SC Freiburg",
+    "nickname": "Breisgau-Brasilianer",
+    "established_year": 1904,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau",
+      "country": "Germany",
+      "capacity": 34700
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 900000,
+      "annual_revenue_approx": 90000000,
+      "annual_expenses_approx": 80000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Known for consistent overperformance and youth development"
+      ],
+      "legendary_player_names": [
+        "Joachim Löw",
+        "Papiss Cissé",
+        "Vincenzo Grifo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Julian Schuster",
+      "nationality_code": "GER",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_schuster_julian",
+      "manager_name": "Julian Schuster"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Establish in Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#CC0000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_karlsruher_sc"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "club_heidenheim",
+    "name": "FC Heidenheim",
+    "nickname": "FCH",
+    "established_year": 1846,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz",
+      "country": "Germany",
+      "capacity": 15000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 500000,
+      "annual_revenue_approx": 50000000,
+      "annual_expenses_approx": 45000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promoted to Bundesliga for the first time"
+      ],
+      "legendary_player_names": [
+        "Marc Schnatterer"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Frank Schmidt",
+      "nationality_code": "GER",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_schmidt_frank",
+      "manager_name": "Frank Schmidt"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 12,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    },
+    "colors": {
+      "primary": "#003366",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_hoffenheim",
+    "name": "TSG 1899 Hoffenheim",
+    "nickname": "Hoffe",
+    "established_year": 1899,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "PreZero Arena",
+      "city": "Sinsheim",
+      "country": "Germany",
+      "capacity": 30150
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 110000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Rapid rise through the leagues"
+      ],
+      "legendary_player_names": [
+        "Demba Ba",
+        "Vedad Ibišević",
+        "Roberto Firmino"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Christian Ilzer",
+      "nationality_code": "AUT",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_ilzer_christian",
+      "manager_name": "Christian Ilzer"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#0099CC",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_holstein_kiel",
+    "name": "Holstein Kiel",
+    "nickname": "Die Störche",
+    "established_year": 1900,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Holstein-Stadion",
+      "city": "Kiel",
+      "country": "Germany",
+      "capacity": 15034
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 500000,
+      "annual_revenue_approx": 50000000,
+      "annual_expenses_approx": 45000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the German championship in 1912",
+        "Promoted to Bundesliga"
+      ],
+      "legendary_player_names": [
+        "Andreas Köpke",
+        "Falko Götz"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Marcel Rapp",
+      "nationality_code": "GER",
+      "preferred_formation": "4-3-1-2"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 12,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 62,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#FFFFFF",
+      "accent": "#F0E03B"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-1-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_rb_leipzig",
+    "name": "RB Leipzig",
+    "nickname": "Die Roten Bullen",
+    "established_year": 2009,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Red Bull Arena",
+      "city": "Leipzig",
+      "country": "Germany",
+      "capacity": 47069
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 80000000,
+      "wage_budget_weekly_total": 2500000,
+      "annual_revenue_approx": 350000000,
+      "annual_expenses_approx": 300000000,
+      "sponsorship_value_annual": 50000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Rapid ascent through the German football system",
+        "Consistent Champions League participant"
+      ],
+      "legendary_player_names": [
+        "Timo Werner",
+        "Marcel Halstenberg"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Zsolt Lőw",
+      "nationality_code": "HUN",
+      "preferred_formation": "4-2-2-2",
+      "manager_id": "mgr_lőw_zsolt",
+      "manager_name": "Zsolt Lőw"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 83,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-2-2",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_mainz_05",
+    "name": "FSV Mainz 05",
+    "nickname": "Die Nullfünfer",
+    "established_year": 1905,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Mewa Arena",
+      "city": "Mainz",
+      "country": "Germany",
+      "capacity": 33305
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Consistent Bundesliga participant despite smaller resources"
+      ],
+      "legendary_player_names": [
+        "Manuel Friedrich",
+        "Andreas Ivanschitz"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Bo Henriksen",
+      "nationality_code": "DEN",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_henriksen_bo",
+      "manager_name": "Bo Henriksen"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 69,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_eintracht_frankfurt"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_st_pauli",
+    "name": "FC St. Pauli",
+    "nickname": "Kiezkicker",
+    "established_year": 1910,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Millerntor-Stadion",
+      "city": "Hamburg",
+      "country": "Germany",
+      "capacity": 29546
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Known for strong cultural identity and fanbase"
+      ],
+      "legendary_player_names": [
+        "Bernhard Dietz",
+        "Ivan Klasnić"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Alexander Blessin",
+      "nationality_code": "GER",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_blessin_alexander",
+      "manager_name": "Alexander Blessin"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#A52A2A",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_hamburger_sv"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_vfb_stuttgart",
+    "name": "VfB Stuttgart",
+    "nickname": "Die Schwaben",
+    "established_year": 1893,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "MHPArena",
+      "city": "Stuttgart",
+      "country": "Germany",
+      "capacity": 60449
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1300000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 5,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Multiple Bundesliga and DFB-Pokal winners"
+      ],
+      "legendary_player_names": [
+        "Karl Allgöwer",
+        "Guido Buchwald",
+        "Fritz Walter",
+        "Thomas Hitzlsperger"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Sebastian Hoeneß",
+      "nationality_code": "GER",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_hoeneß_sebastian",
+      "manager_name": "Sebastian Hoeneß"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_karlsruher_sc"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "club_union_berlin",
+    "name": "FC Union Berlin",
+    "nickname": "Die Eisernen",
+    "established_year": 1966,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin",
+      "country": "Germany",
+      "capacity": 22012
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 90000000,
+      "annual_expenses_approx": 85000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Remarkable rise to the Bundesliga and European qualification",
+        "Strong cult following"
+      ],
+      "legendary_player_names": [
+        "Torsten Mattuschka",
+        "Sebastian Polter"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Steffen Baumgart",
+      "nationality_code": "GER",
+      "preferred_formation": "3-4-3",
+      "manager_id": "mgr_baumgart_steffen",
+      "manager_name": "Steffen Baumgart"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 74,
+      "ambition_level": "Establish in Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 88,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_hertha_bsc"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_werder_bremen",
+    "name": "SV Werder Bremen",
+    "nickname": "Die Grün-Weißen",
+    "established_year": 1899,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Weserstadion",
+      "city": "Bremen",
+      "country": "Germany",
+      "capacity": 42100
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 900000,
+      "annual_revenue_approx": 100000000,
+      "annual_expenses_approx": 95000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Multiple Bundesliga and DFB-Pokal winners",
+        "Won the UEFA Cup Winners' Cup in 1992"
+      ],
+      "legendary_player_names": [
+        "Rudi Völler",
+        "Claudio Pizarro",
+        "Torsten Frings"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Ole Werner",
+      "nationality_code": "GER",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_werner_ole",
+      "manager_name": "Ole Werner"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 76,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "National",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#00884C",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_hamburger_sv"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "club_vfl_wolfsburg",
+    "name": "VfL Wolfsburg",
+    "nickname": "Die Wölfe",
+    "established_year": 1945,
+    "country_code": "GER",
+    "league_id": "league_ger_bundesliga",
+    "stadium": {
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg",
+      "country": "Germany",
+      "capacity": 30000
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 160000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Bundesliga in 2009",
+        "Won the DFB-Pokal in 2015"
+      ],
+      "legendary_player_names": [
+        "Edin Džeko",
+        "Grafite",
+        "Diego Benaglio"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Ralph Hasenhüttl",
+      "nationality_code": "AUT",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_hasenhüttl_ralph",
+      "manager_name": "Ralph Hasenhüttl"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 76,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#65B32E",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_hannover_96"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  }
+]

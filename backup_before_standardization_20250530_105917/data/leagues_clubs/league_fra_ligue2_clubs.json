@@ -1,0 +1,20 @@
+[
+  {"id": "club_ajaccio", "name": "Ajaccio", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_amiens", "name": "Amiens", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_annecy", "name": "Annecy", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_bastia", "name": "Bastia", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_caen", "name": "Caen", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_clermont", "name": "Clermont", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_dunkerque", "name": "Dunkerque", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_grenoble", "name": "Grenoble", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_guingamp", "name": "Guingamp", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_laval", "name": "Laval", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_lorient", "name": "Lorient", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_martigues", "name": "Martigues", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_metz", "name": "Metz", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_paris_fc", "name": "Paris FC", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_pau", "name": "Pau", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_red_star", "name": "Red Star", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_rodez", "name": "Rodez", "country_code": "FRA", "league_id": "league_fra_ligue2"},
+  {"id": "club_troyes", "name": "Troyes", "country_code": "FRA", "league_id": "league_fra_ligue2"}
+]

@@ -1,0 +1,14 @@
+[
+  { "id": "club_basel", "name": "FC Basel 1893", "stadium": {"name":"St. Jakob-Park","city":"Basel","country":"Switzerland","capacity":38512}, "financials": {}, "history": {} },
+  { "id": "club_young_boys", "name": "BSC Young Boys", "stadium": {"name":"Stadion Wankdorf","city":"Bern","country":"Switzerland","capacity":31783}, "financials": {}, "history": {} },
+  { "id": "club_lugano", "name": "FC Lugano", "stadium": {"name":"Stadio di Cornaredo","city":"Lugano","country":"Switzerland","capacity":10500}, "financials": {}, "history": {} },
+  { "id": "club_lausanne", "name": "FC Lausanne-Sport", "stadium": {"name":"Stade de la Tuilière","city":"Lausanne","country":"Switzerland","capacity":12544}, "financials": {}, "history": {} },
+  { "id": "club_st_gallen", "name": "FC St. Gallen 1879", "stadium": {"name":"Kybunpark","city":"St. Gallen","country":"Switzerland","capacity":19694}, "financials": {}, "history": {} },
+  { "id": "club_servette", "name": "Servette FC", "stadium": {"name":"Stade de Genève","city":"Geneva","country":"Switzerland","capacity":30084}, "financials": {}, "history": {} },
+  { "id": "club_luzern", "name": "FC Luzern", "stadium": {"name":"Swissporarena","city":"Lucerne","country":"Switzerland","capacity":17500}, "financials": {}, "history": {} },
+  { "id": "club_zurich", "name": "FC Zürich", "stadium": {"name":"Stadion Letzigrund","city":"Zurich","country":"Switzerland","capacity":25000}, "financials": {}, "history": {} },
+  { "id": "club_sion", "name": "FC Sion", "stadium": {"name":"Stade de Tourbillon","city":"Sion","country":"Switzerland","capacity":20187}, "financials": {}, "history": {} },
+  { "id": "club_grasshoppers", "name": "Grasshopper Club Zurich", "stadium": {"name":"Stadion Letzigrund","city":"Zurich","country":"Switzerland","capacity":25000}, "financials": {}, "history": {} },
+  { "id": "club_yverdon", "name": "Yverdon Sport FC", "stadium": {"name":"Stade Municipal","city":"Yverdon-les-Bains","country":"Switzerland","capacity":6600}, "financials": {}, "history": {} },
+  { "id": "club_winterthur", "name": "FC Winterthur", "stadium": {"name":"Stadion Schützenwiese","city":"Winterthur","country":"Switzerland","capacity":8550}, "financials": {}, "history": {} }
+]

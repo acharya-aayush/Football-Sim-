@@ -1,0 +1,12 @@
+[
+  { "id": "club_benfica", "name": "SL Benfica", "stadium": {"name":"Estádio da Luz","city":"Lisbon","country":"Portugal","capacity":64783}, "financials": {}, "history": {} },
+  { "id": "club_porto", "name": "FC Porto", "stadium": {"name":"Estádio do Dragão","city":"Porto","country":"Portugal","capacity":50277}, "financials": {}, "history": {} },
+  { "id": "club_sporting", "name": "Sporting CP", "stadium": {"name":"Estádio José Alvalade","city":"Lisbon","country":"Portugal","capacity":50500}, "financials": {}, "history": {} },
+  { "id": "club_braga", "name": "SC Braga", "stadium": {"name":"Estádio Municipal de Braga","city":"Braga","country":"Portugal","capacity":30736}, "financials": {}, "history": {} },
+  { "id": "club_bochampio", "name": "Boavista FC", "stadium": {"name":"Estádio do Bessa","city":"Porto","country":"Portugal","capacity":28000}, "financials": {}, "history": {} },
+  { "id": "club_famalicao", "name": "FC Famalicão", "stadium": {"name":"Estádio Municipal 22 de Junho","city":"Famalicão","country":"Portugal","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_estoril", "name": "GD Estoril Praia", "stadium": {"name":"Estádio António Coimbra da Mota","city":"Estoril","country":"Portugal","capacity":8505}, "financials": {}, "history": {} },
+  { "id": "club_guimaraes", "name": "Vitória SC", "stadium": {"name":"Estádio D. Afonso Henriques","city":"Guimarães","country":"Portugal","capacity":30600}, "financials": {}, "history": {} },
+  { "id": "club_pacos", "name": "Paços de Ferreira", "stadium": {"name":"Estádio da Capital do Móvel","city":"Paços de Ferreira","country":"Portugal","capacity":9050}, "financials": {}, "history": {} },
+  { "id": "club_nacional", "name": "CD Nacional","stadium": {"name":"Estádio da Madeira","city":"Funchal","country":"Portugal","capacity":5000}, "financials": {}, "history": {} }
+]

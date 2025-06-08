@@ -1,0 +1,816 @@
+[
+  {
+    "name": "Óscar Ríos",
+    "age": 31,
+    "position": "GK",
+    "nationality": "Mexico",
+    "current_ability": 87,
+    "potential_ability": 99,
+    "market_value": 11515000,
+    "attributes": {
+      "pace": 91,
+      "shooting": 78,
+      "passing": 72,
+      "defending": 85,
+      "dribbling": 76,
+      "physical": 85
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 149066,
+      "release_clause": 22595830
+    },
+    "traits": [
+      "Flair",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_8410"
+  },
+  {
+    "name": "Ricardo Ponce",
+    "age": 34,
+    "position": "GK",
+    "nationality": "Mexico",
+    "current_ability": 59,
+    "potential_ability": 73,
+    "market_value": 4370000,
+    "attributes": {
+      "pace": 52,
+      "shooting": 58,
+      "passing": 47,
+      "defending": 55,
+      "dribbling": 52,
+      "physical": 62
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 113254,
+      "release_clause": 57837943
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Big Game Player",
+      "Defensive Wall"
+    ],
+    "player_id": "11_8411"
+  },
+  {
+    "name": "Agustín Flores",
+    "age": 19,
+    "position": "CB",
+    "nationality": "Mexico",
+    "current_ability": 77,
+    "potential_ability": 91,
+    "market_value": 11285000,
+    "attributes": {
+      "pace": 79,
+      "shooting": 67,
+      "passing": 82,
+      "defending": 82,
+      "dribbling": 68,
+      "physical": 75
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 99163,
+      "release_clause": 42573595
+    },
+    "traits": [
+      "Injury Prone",
+      "Versatile",
+      "Defensive Wall"
+    ],
+    "player_id": "11_8412"
+  },
+  {
+    "name": "Manuel García",
+    "age": 23,
+    "position": "CB",
+    "nationality": "Mexico",
+    "current_ability": 88,
+    "potential_ability": 99,
+    "market_value": 13679999,
+    "attributes": {
+      "pace": 74,
+      "shooting": 88,
+      "passing": 77,
+      "defending": 90,
+      "dribbling": 83,
+      "physical": 82
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 13760,
+      "release_clause": 86867197
+    },
+    "traits": [
+      "Leadership",
+      "Injury Prone"
+    ],
+    "player_id": "11_8413"
+  },
+  {
+    "name": "Fernando Sandoval",
+    "age": 34,
+    "position": "CB",
+    "nationality": "Mexico",
+    "current_ability": 86,
+    "potential_ability": 99,
+    "market_value": 10580000,
+    "attributes": {
+      "pace": 83,
+      "shooting": 75,
+      "passing": 81,
+      "defending": 95,
+      "dribbling": 86,
+      "physical": 75
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 64036,
+      "release_clause": 12351832
+    },
+    "traits": [
+      "Speed Demon",
+      "Consistent Performer"
+    ],
+    "player_id": "11_8414"
+  },
+  {
+    "name": "Adrián Castillo",
+    "age": 19,
+    "position": "CB",
+    "nationality": "Mexico",
+    "current_ability": 64,
+    "potential_ability": 78,
+    "market_value": 7320000,
+    "attributes": {
+      "pace": 53,
+      "shooting": 60,
+      "passing": 68,
+      "defending": 63,
+      "dribbling": 67,
+      "physical": 56
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 5740,
+      "release_clause": 12316328
+    },
+    "traits": [
+      "Defensive Wall",
+      "Consistent Performer"
+    ],
+    "player_id": "11_8415"
+  },
+  {
+    "name": "Gerardo González",
+    "age": 26,
+    "position": "LB",
+    "nationality": "Mexico",
+    "current_ability": 63,
+    "potential_ability": 73,
+    "market_value": 6210000,
+    "attributes": {
+      "pace": 66,
+      "shooting": 57,
+      "passing": 49,
+      "defending": 58,
+      "dribbling": 62,
+      "physical": 60
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 131418,
+      "release_clause": 93187874
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Speed Demon"
+    ],
+    "player_id": "11_8416"
+  },
+  {
+    "name": "Rafael Hernández",
+    "age": 31,
+    "position": "LB",
+    "nationality": "Mexico",
+    "current_ability": 84,
+    "potential_ability": 92,
+    "market_value": 10780000,
+    "attributes": {
+      "pace": 82,
+      "shooting": 86,
+      "passing": 77,
+      "defending": 87,
+      "dribbling": 76,
+      "physical": 82
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 131687,
+      "release_clause": 54873874
+    },
+    "traits": [
+      "Leadership",
+      "Playmaker"
+    ],
+    "player_id": "11_8417"
+  },
+  {
+    "name": "Alfredo Gómez",
+    "age": 24,
+    "position": "RB",
+    "nationality": "Mexico",
+    "current_ability": 57,
+    "potential_ability": 66,
+    "market_value": 4759999,
+    "attributes": {
+      "pace": 52,
+      "shooting": 59,
+      "passing": 61,
+      "defending": 58,
+      "dribbling": 51,
+      "physical": 56
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 30583,
+      "release_clause": 70880379
+    },
+    "traits": [
+      "Playmaker",
+      "Leadership"
+    ],
+    "player_id": "11_8418"
+  },
+  {
+    "name": "Eduardo Jiménez",
+    "age": 29,
+    "position": "RB",
+    "nationality": "Mexico",
+    "current_ability": 66,
+    "potential_ability": 71,
+    "market_value": 6630000,
+    "attributes": {
+      "pace": 70,
+      "shooting": 70,
+      "passing": 57,
+      "defending": 67,
+      "dribbling": 58,
+      "physical": 69
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 9772,
+      "release_clause": 59517194
+    },
+    "traits": [
+      "Versatile"
+    ],
+    "player_id": "11_8419"
+  },
+  {
+    "name": "Rafael Fuentes",
+    "age": 35,
+    "position": "DM",
+    "nationality": "Mexico",
+    "current_ability": 71,
+    "potential_ability": 82,
+    "market_value": 6974999,
+    "attributes": {
+      "pace": 64,
+      "shooting": 63,
+      "passing": 74,
+      "defending": 67,
+      "dribbling": 70,
+      "physical": 75
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 108694,
+      "release_clause": 22172458
+    },
+    "traits": [
+      "Injury Prone"
+    ],
+    "player_id": "11_8420"
+  },
+  {
+    "name": "Gabriel Ruiz",
+    "age": 27,
+    "position": "DM",
+    "nationality": "Mexico",
+    "current_ability": 78,
+    "potential_ability": 81,
+    "market_value": 10070000,
+    "attributes": {
+      "pace": 82,
+      "shooting": 68,
+      "passing": 76,
+      "defending": 80,
+      "dribbling": 77,
+      "physical": 78
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 89850,
+      "release_clause": 23900034
+    },
+    "traits": [
+      "Big Game Player",
+      "Leadership"
+    ],
+    "player_id": "11_8421"
+  },
+  {
+    "name": "Gerardo Fuentes",
+    "age": 29,
+    "position": "CM",
+    "nationality": "Mexico",
+    "current_ability": 87,
+    "potential_ability": 87,
+    "market_value": 11985000,
+    "attributes": {
+      "pace": 75,
+      "shooting": 65,
+      "passing": 74,
+      "defending": 76,
+      "dribbling": 66,
+      "physical": 72
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 91795,
+      "release_clause": 77625586
+    },
+    "traits": [
+      "Leadership",
+      "Injury Prone",
+      "Speed Demon"
+    ],
+    "player_id": "11_8422"
+  },
+  {
+    "name": "Iván Chávez",
+    "age": 25,
+    "position": "CM",
+    "nationality": "Mexico",
+    "current_ability": 69,
+    "potential_ability": 80,
+    "market_value": 7974999,
+    "attributes": {
+      "pace": 57,
+      "shooting": 55,
+      "passing": 70,
+      "defending": 65,
+      "dribbling": 65,
+      "physical": 55
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 49483,
+      "release_clause": 54127988
+    },
+    "traits": [
+      "Leadership",
+      "Injury Prone",
+      "Big Game Player"
+    ],
+    "player_id": "11_8423"
+  },
+  {
+    "name": "Fernando Reyes",
+    "age": 21,
+    "position": "CM",
+    "nationality": "Mexico",
+    "current_ability": 66,
+    "potential_ability": 73,
+    "market_value": 7670000,
+    "attributes": {
+      "pace": 56,
+      "shooting": 57,
+      "passing": 64,
+      "defending": 53,
+      "dribbling": 65,
+      "physical": 66
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 126548,
+      "release_clause": 54696651
+    },
+    "traits": [
+      "Defensive Wall",
+      "Consistent Performer"
+    ],
+    "player_id": "11_8424"
+  },
+  {
+    "name": "Jorge Sánchez",
+    "age": 22,
+    "position": "CM",
+    "nationality": "Mexico",
+    "current_ability": 56,
+    "potential_ability": 69,
+    "market_value": 4640000,
+    "attributes": {
+      "pace": 51,
+      "shooting": 50,
+      "passing": 65,
+      "defending": 59,
+      "dribbling": 42,
+      "physical": 46
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 77139,
+      "release_clause": 46560412
+    },
+    "traits": [
+      "Speed Demon"
+    ],
+    "player_id": "11_8425"
+  },
+  {
+    "name": "Rubén Espinoza",
+    "age": 28,
+    "position": "LM",
+    "nationality": "Mexico",
+    "current_ability": 83,
+    "potential_ability": 96,
+    "market_value": 11180000,
+    "attributes": {
+      "pace": 80,
+      "shooting": 75,
+      "passing": 69,
+      "defending": 85,
+      "dribbling": 85,
+      "physical": 87
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 46366,
+      "release_clause": 73876083
+    },
+    "traits": [
+      "Leadership",
+      "Defensive Wall",
+      "Playmaker"
+    ],
+    "player_id": "11_8426"
+  },
+  {
+    "name": "Rodolfo Ibarra",
+    "age": 26,
+    "position": "LM",
+    "nationality": "Mexico",
+    "current_ability": 66,
+    "potential_ability": 76,
+    "market_value": 7020000,
+    "attributes": {
+      "pace": 69,
+      "shooting": 61,
+      "passing": 62,
+      "defending": 68,
+      "dribbling": 71,
+      "physical": 53
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 126152,
+      "release_clause": 80066397
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_8427"
+  },
+  {
+    "name": "Arturo Ramos",
+    "age": 33,
+    "position": "RM",
+    "nationality": "Mexico",
+    "current_ability": 79,
+    "potential_ability": 90,
+    "market_value": 9165000,
+    "attributes": {
+      "pace": 85,
+      "shooting": 66,
+      "passing": 67,
+      "defending": 79,
+      "dribbling": 83,
+      "physical": 70
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 143514,
+      "release_clause": 15528275
+    },
+    "traits": [
+      "Speed Demon",
+      "Versatile"
+    ],
+    "player_id": "11_8428"
+  },
+  {
+    "name": "Alejandro Espinoza",
+    "age": 23,
+    "position": "RM",
+    "nationality": "Mexico",
+    "current_ability": 61,
+    "potential_ability": 76,
+    "market_value": 5984999,
+    "attributes": {
+      "pace": 60,
+      "shooting": 46,
+      "passing": 60,
+      "defending": 57,
+      "dribbling": 57,
+      "physical": 56
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 13288,
+      "release_clause": 63620164
+    },
+    "traits": [
+      "Speed Demon",
+      "Flair",
+      "Consistent Performer"
+    ],
+    "player_id": "11_8429"
+  },
+  {
+    "name": "Ricardo Álvarez",
+    "age": 32,
+    "position": "AM",
+    "nationality": "Mexico",
+    "current_ability": 85,
+    "potential_ability": 91,
+    "market_value": 10800000,
+    "attributes": {
+      "pace": 70,
+      "shooting": 57,
+      "passing": 76,
+      "defending": 63,
+      "dribbling": 57,
+      "physical": 56
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 26863,
+      "release_clause": 27426895
+    },
+    "traits": [
+      "Leadership",
+      "Speed Demon",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_8430"
+  },
+  {
+    "name": "Agustín Rodríguez",
+    "age": 32,
+    "position": "AM",
+    "nationality": "Mexico",
+    "current_ability": 63,
+    "potential_ability": 62,
+    "market_value": 5520000,
+    "attributes": {
+      "pace": 55,
+      "shooting": 59,
+      "passing": 72,
+      "defending": 62,
+      "dribbling": 62,
+      "physical": 55
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 112427,
+      "release_clause": 20628959
+    },
+    "traits": [
+      "Injury Prone"
+    ],
+    "player_id": "11_8431"
+  },
+  {
+    "name": "Manuel Jiménez",
+    "age": 34,
+    "position": "LW",
+    "nationality": "Mexico",
+    "current_ability": 82,
+    "potential_ability": 82,
+    "market_value": 9660000,
+    "attributes": {
+      "pace": 77,
+      "shooting": 79,
+      "passing": 83,
+      "defending": 75,
+      "dribbling": 81,
+      "physical": 69
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 68030,
+      "release_clause": 88462233
+    },
+    "traits": [
+      "Speed Demon",
+      "Leadership"
+    ],
+    "player_id": "11_8432"
+  },
+  {
+    "name": "Carlos Contreras",
+    "age": 23,
+    "position": "LW",
+    "nationality": "Mexico",
+    "current_ability": 75,
+    "potential_ability": 75,
+    "market_value": 9975000,
+    "attributes": {
+      "pace": 82,
+      "shooting": 79,
+      "passing": 80,
+      "defending": 61,
+      "dribbling": 78,
+      "physical": 61
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 76313,
+      "release_clause": 47827210
+    },
+    "traits": [
+      "Flair"
+    ],
+    "player_id": "11_8433"
+  },
+  {
+    "name": "Alejandro Moreno",
+    "age": 26,
+    "position": "RW",
+    "nationality": "Mexico",
+    "current_ability": 79,
+    "potential_ability": 92,
+    "market_value": 10530000,
+    "attributes": {
+      "pace": 85,
+      "shooting": 69,
+      "passing": 82,
+      "defending": 82,
+      "dribbling": 87,
+      "physical": 72
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2024-06-30",
+      "weekly_wage": 13474,
+      "release_clause": 11636280
+    },
+    "traits": [
+      "Playmaker",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_8434"
+  },
+  {
+    "name": "Alejandro Reyes",
+    "age": 23,
+    "position": "RW",
+    "nationality": "Mexico",
+    "current_ability": 84,
+    "potential_ability": 89,
+    "market_value": 12539999,
+    "attributes": {
+      "pace": 86,
+      "shooting": 77,
+      "passing": 77,
+      "defending": 74,
+      "dribbling": 89,
+      "physical": 80
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 57466,
+      "release_clause": 51724131
+    },
+    "traits": [
+      "Leadership",
+      "Big Game Player"
+    ],
+    "player_id": "11_8435"
+  },
+  {
+    "name": "Luis Sandoval",
+    "age": 30,
+    "position": "ST",
+    "nationality": "Mexico",
+    "current_ability": 92,
+    "potential_ability": 98,
+    "market_value": 13000000,
+    "attributes": {
+      "pace": 80,
+      "shooting": 73,
+      "passing": 84,
+      "defending": 81,
+      "dribbling": 82,
+      "physical": 74
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 147398,
+      "release_clause": 23964409
+    },
+    "traits": [
+      "Defensive Wall",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_8436"
+  },
+  {
+    "name": "Iván Torres",
+    "age": 33,
+    "position": "ST",
+    "nationality": "Mexico",
+    "current_ability": 86,
+    "potential_ability": 97,
+    "market_value": 10810000,
+    "attributes": {
+      "pace": 89,
+      "shooting": 89,
+      "passing": 82,
+      "defending": 81,
+      "dribbling": 89,
+      "physical": 89
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 67364,
+      "release_clause": 13149904
+    },
+    "traits": [
+      "Leadership",
+      "Big Game Player",
+      "Consistent Performer"
+    ],
+    "player_id": "11_8437"
+  },
+  {
+    "name": "César Ramos",
+    "age": 22,
+    "position": "ST",
+    "nationality": "Mexico",
+    "current_ability": 68,
+    "potential_ability": 82,
+    "market_value": 8119999,
+    "attributes": {
+      "pace": 74,
+      "shooting": 66,
+      "passing": 69,
+      "defending": 67,
+      "dribbling": 57,
+      "physical": 53
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 6101,
+      "release_clause": 58826647
+    },
+    "traits": [
+      "Big Game Player",
+      "Leadership"
+    ],
+    "player_id": "11_8438"
+  }
+]

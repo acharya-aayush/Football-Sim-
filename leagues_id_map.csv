@@ -1,0 +1,24 @@
+old_league_id,new_league_id,league_name
+league_epl,00_1,English Premier Division
+league_laliga,00_2,LaLiga
+league_ger_bundesliga,00_3,German Bundesliga
+league_ita_seriea,00_4,Italian Serie A
+league_fra_ligue1,00_5,French Ligue 1
+league_laliga2,00_6,LaLiga Hypermotion
+league_championship,00_7,EFL Championship
+league_ger_bundesliga2,00_8,2. Bundesliga
+league_ita_serieb,00_9,Serie B
+league_fra_ligue2,00_10,Ligue 2 BKT
+league_eredivisie,00_11,Eredivisie
+league_primeira,00_12,Primeira Liga
+league_turkish,00_13,Süper Lig
+league_belgian,00_14,Belgian Pro League
+league_swiss,00_15,Swiss Super League
+league_russian,00_16,Russian Premier League
+league_ukrainian,00_17,Ukrainian Premier League
+league_scottish,00_18,Scottish Premiership
+league_austrian,00_19,Austrian Bundesliga
+league_greek,00_20,Greek Super League
+league_mls,00_21,Major League Soccer
+competition_ucl,00_25,UEFA Champions League
+competition_uel,00_26,UEFA Europa League

@@ -1,0 +1,85 @@
+{
+  "positions": {
+    "Striker": ["finishing", "long_shots", "off_the_ball", "positioning"],
+    "Midfielder": ["passing", "dribbling", "vision", "teamwork"],
+    "Defender": ["tackling", "marking", "heading_accuracy", "positioning", "anticipation"]
+  },
+  "academy_stats": {
+    "Elite Academy": 70,
+    "Normal Academy": 60,
+    "No Academy Journey": 50
+  },
+  "default_stats": {
+    "id": "player_default",
+    "first_name": "Default",
+    "last_name": "Player",
+    "nationality_code": "NA",
+    "date_of_birth": "NA",
+    "club_name": "NA",
+    "contract_start_date": "NA",
+    "contract_end_date": "NA",
+    "wage_eur": 0,
+    "market_value_eur": 0,
+    "release_clause_eur": 0,
+    "player_positions": ["NA"],
+    "player_traits": [],
+    "status": "generated_player",
+    "international_caps": 0,
+    "international_goals": 0,
+    "technical_attributes": {
+      "corners": 10,
+      "crossing": 10,
+      "dribbling": 10,
+      "finishing": 10,
+      "first_touch": 10,
+      "free_kick_taking": 10,
+      "heading_accuracy": 10,
+      "long_shots": 10,
+      "long_throws": 10,
+      "marking": 10,
+      "passing": 10,
+      "penalty_taking": 10,
+      "tackling": 10,
+      "technique": 10
+    },
+    "mental_attributes": {
+      "aggression": 10,
+      "anticipation": 10,
+      "bravery": 10,
+      "composure": 10,
+      "concentration": 10,
+      "decisions": 10,
+      "determination": 10,
+      "flair": 10,
+      "leadership": 10,
+      "off_the_ball": 10,
+      "positioning": 10,
+      "teamwork": 10,
+      "vision": 10,
+      "work_rate": 10
+    },
+    "physical_attributes": {
+      "acceleration": 10,
+      "agility": 10,
+      "balance": 10,
+      "jumping_reach": 10,
+      "natural_fitness": 10,
+      "pace": 10,
+      "stamina": 10,
+      "strength": 10
+    },
+    "goalkeeping_attributes": {
+      "aerial_reach": 10,
+      "command_of_area": 10,
+      "communication": 10,
+      "eccentricity": 10,
+      "handling": 10,
+      "kicking": 10,
+      "one_on_ones": 10,
+      "reflexes": 10,
+      "rush_out_of_goal": 10,
+      "tendency_to_punch": 10,
+      "throwing": 10
+    }
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "01_29",
+    "name": "Birmingham City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_30",
+    "name": "Blackburn Rovers",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_31",
+    "name": "Blackpool",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_32",
+    "name": "Bristol City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_33",
+    "name": "Cardiff City",
+    "country_code": "WAL",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_34",
+    "name": "Coventry City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_35",
+    "name": "Huddersfield Town",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_36",
+    "name": "Hull City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_37",
+    "name": "Leeds United",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_38",
+    "name": "Middlesbrough",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_39",
+    "name": "Millwall",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_40",
+    "name": "Norwich City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_41",
+    "name": "Oxford United",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_42",
+    "name": "Plymouth Argyle",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_43",
+    "name": "Preston North End",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_44",
+    "name": "Queens Park Rangers",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_45",
+    "name": "Rotherham United",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_46",
+    "name": "Sheffield United",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_47",
+    "name": "Sheffield Wednesday",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_48",
+    "name": "Stoke City",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_49",
+    "name": "Sunderland",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_50",
+    "name": "Swansea City",
+    "country_code": "WAL",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_51",
+    "name": "Watford",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  },
+  {
+    "id": "01_52",
+    "name": "West Bromwich Albion",
+    "country_code": "ENG",
+    "league_id": "00_7"
+  }
+]

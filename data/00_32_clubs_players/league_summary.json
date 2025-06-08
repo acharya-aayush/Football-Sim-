@@ -1,0 +1,85 @@
+{
+  "league": {
+    "name": "Nepal Super League",
+    "country": "Nepal",
+    "season": "2025",
+    "teams": 7,
+    "total_players": 159,
+    "total_foreigners": 13,
+    "total_market_value": 208857998
+  },
+  "teams": [
+    {
+      "name": "Lalitpur City FC",
+      "file": "lalitpur_city.json",
+      "squad_size": 24,
+      "foreigners": 4,
+      "total_value": 31420000
+    },
+    {
+      "name": "Dhangadhi FC",
+      "file": "dhangadhi.json",
+      "squad_size": 19,
+      "foreigners": 3,
+      "total_value": 25860999
+    },
+    {
+      "name": "FC Chitwan",
+      "file": "chitwan.json",
+      "squad_size": 20,
+      "foreigners": 3,
+      "total_value": 26163000
+    },
+    {
+      "name": "Pokhara Thunders",
+      "file": "pokhara_thunders.json",
+      "squad_size": 25,
+      "foreigners": 2,
+      "total_value": 33111000
+    },
+    {
+      "name": "Kathmandu RayZers FC",
+      "file": "kathmandu_rayzers.json",
+      "squad_size": 22,
+      "foreigners": 1,
+      "total_value": 29015999
+    },
+    {
+      "name": "Butwal Lumbini FC",
+      "file": "butwal_lumbini.json",
+      "squad_size": 26,
+      "foreigners": 0,
+      "total_value": 33543000
+    },
+    {
+      "name": "Jhapa FC",
+      "file": "jhapa.json",
+      "squad_size": 23,
+      "foreigners": 0,
+      "total_value": 29744000
+    }
+  ],
+  "foreign_players_included": [
+    "Ahmad Hijazi",
+    "Amadou Diop",
+    "Jonathan Cantillana",
+    "Imoh Ezekiel",
+    "Torric Jebrin",
+    "Joe Aidoo",
+    "Stephen Samir Binong",
+    "Papa Ibou Kebe",
+    "Kervens Belfort",
+    "George Prince Karki",
+    "Nodirbek Mavlonov",
+    "Jeffery Willy Marcel Baltus",
+    "Walid Birrou Essafi",
+    "Afeez Olawale"
+  ],
+  "generation_notes": [
+    "Based on real Nepal Super League 2025 season data",
+    "Includes actual current foreign players in NSL",
+    "Features authentic Nepalese players from national team",
+    "Team data reflects 2025 season standings and squad sizes",
+    "Market values and wages calibrated for South Asian market"
+  ]
+}

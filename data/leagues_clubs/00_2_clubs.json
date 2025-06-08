@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "01_250",
+    "name": "Deportivo Alavés",
+    "nickname": "Babazorros",
+    "established_year": 1921,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Mendizorrotza",
+      "city": "Vitoria-Gasteiz",
+      "country": "Spain",
+      "capacity": 19840
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached UEFA Cup Final in 2001"
+      ],
+      "legendary_player_names": [
+        "Javier Moreno",
+        "Delfí Geli",
+        "José Luis Mato (Joselu)"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Eduardo Coudet",
+      "nationality_code": "ARG",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_coudet_eduardo",
+      "manager_name": "Eduardo Coudet"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
+    },
+    "rival_club_ids": [
+      "club_eibar",
+      "club_real_sociedad"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_251",
+    "name": "Athletic Club",
+    "nickname": "Los Leones",
+    "established_year": 1898,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "San Mamés",
+      "city": "Bilbao",
+      "country": "Spain",
+      "capacity": 53289
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 8,
+      "domestic_cup_wins": 24,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Never relegated from La Liga",
+        "Strong Basque identity and player policy"
+      ],
+      "legendary_player_names": [
+        "Telmo Zarra",
+        "José Ángel Iribar",
+        "Andoni Zubizarreta",
+        "Iker Muniain"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Ernesto Valverde",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_valverde_ernesto",
+      "manager_name": "Ernesto Valverde"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 16,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Local"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_real_sociedad"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "01_252",
+    "name": "Atlético Madrid",
+    "nickname": "Los Colchoneros",
+    "established_year": 1903,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Metropolitano Stadium",
+      "city": "Madrid",
+      "country": "Spain",
+      "capacity": 70460
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 80000000,
+      "wage_budget_weekly_total": 3000000,
+      "annual_revenue_approx": 400000000,
+      "annual_expenses_approx": 350000000,
+      "sponsorship_value_annual": 50000000
+    },
+    "history": {
+      "league_titles_domestic": 11,
+      "domestic_cup_wins": 10,
+      "continental_cup_wins": 3,
+      "notable_achievements": [
+        "Multiple La Liga and Europa League winners",
+        "Reached Champions League Final multiple times"
+      ],
+      "legendary_player_names": [
+        "Luis Aragonés",
+        "Fernando Torres",
+        "Antoine Griezmann",
+        "Diego Godín"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Diego Simeone",
+      "nationality_code": "ARG",
+      "preferred_formation": "5-3-2"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 19,
+      "coaching_fitness": 18,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 90,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Global",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#C8102E",
+      "secondary": "#FFFFFF",
+      "accent": "#223A70"
+    },
+    "rival_club_ids": [
+      "club_real_madrid"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "5-3-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_253",
+    "name": "FC Barcelona",
+    "nickname": "Barça",
+    "established_year": 1899,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Camp Nou",
+      "city": "Barcelona",
+      "country": "Spain",
+      "capacity": 99354
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 100000000,
+      "wage_budget_weekly_total": 4000000,
+      "annual_revenue_approx": 800000000,
+      "annual_expenses_approx": 700000000,
+      "sponsorship_value_annual": 150000000
+    },
+    "history": {
+      "league_titles_domestic": 27,
+      "domestic_cup_wins": 31,
+      "continental_cup_wins": 14,
+      "notable_achievements": [
+        "Multiple Champions League winners",
+        "Known for 'Tiki-Taka' playing style",
+        "Historic treble winners"
+      ],
+      "legendary_player_names": [
+        "Lionel Messi",
+        "Johan Cruyff",
+        "Xavi Hernández",
+        "Andrés Iniesta"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Hansi Flick",
+      "nationality_code": "GER",
+      "preferred_formation": "4-3-3"
+    },
+    "staff_quality": {
+      "coaching_attack": 19,
+      "coaching_defense": 16,
+      "coaching_fitness": 17,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 96,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 88,
+      "youth_academy_rating": 20,
+      "training_facilities_rating": 19
+    },
+    "colors": {
+      "primary": "#004D98",
+      "secondary": "#FDB515",
+      "accent": "#A50044"
+    },
+    "rival_club_ids": [
+      "club_real_madrid",
+      "club_espanyol"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_254",
+    "name": "Real Betis",
+    "nickname": "Los Verdiblancos",
+    "established_year": 1907,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Benito Villamarín",
+      "city": "Seville",
+      "country": "Spain",
+      "capacity": 60721
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1400000,
+      "annual_revenue_approx": 140000000,
+      "annual_expenses_approx": 120000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won La Liga in 1935",
+        "Passionate fanbase"
+      ],
+      "legendary_player_names": [
+        "Rafael Gordillo",
+        "Joaquín Sánchez",
+        "Alfonso Pérez"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manuel Pellegrini",
+      "nationality_code": "CHI",
+      "preferred_formation": "4-2-3-1"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 77,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#008A52",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_sevilla"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_255",
+    "name": "Celta Vigo",
+    "nickname": "Os Celestes",
+    "established_year": 1923,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Balaídos",
+      "city": "Vigo",
+      "country": "Spain",
+      "capacity": 24870
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 900000,
+      "annual_revenue_approx": 90000000,
+      "annual_expenses_approx": 80000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached UEFA Cup quarter-finals"
+      ],
+      "legendary_player_names": [
+        "Iago Aspas",
+        "Aleksandr Mostovoy",
+        "Valery Karpin"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Claudio Giráldez",
+      "nationality_code": "ESP",
+      "preferred_formation": "3-4-3",
+      "manager_id": "mgr_giráldez_claudio",
+      "manager_name": "Claudio Giráldez"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#2299EE",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
+    },
+    "rival_club_ids": [
+      "club_deportivo_la_coruna"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_256",
+    "name": "RCD Espanyol",
+    "nickname": "Periquitos",
+    "established_year": 1900,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Stage Front Stadium",
+      "city": "Cornellà de Llobregat",
+      "country": "Spain",
+      "capacity": 40000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 4,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Copa del Rey 4 times",
+        "Reached UEFA Cup Final in 1988 and 2007"
+      ],
+      "legendary_player_names": [
+        "Raúl Tamudo",
+        "Mauricio Pochettino",
+        "Thomas N'Kono"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manolo González",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_gonzález_manolo",
+      "manager_name": "Manolo González"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 72,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#004499",
+      "secondary": "#C0C0C0",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_barcelona"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_257",
+    "name": "Getafe CF",
+    "nickname": "Los Azulones",
+    "established_year": 1946,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Coliseum Alfonso Pérez",
+      "city": "Getafe",
+      "country": "Spain",
+      "capacity": 17393
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 65000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached Copa del Rey Final twice"
+      ],
+      "legendary_player_names": [
+        "Daniel Güiza",
+        "Pedro León",
+        "Jaime Mata"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "José Bordalás",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_bordalás_josé",
+      "manager_name": "José Bordalás"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 15,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Local",
+      "fan_morale_default": 66,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#0055A4",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_leganes"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_258",
+    "name": "Girona FC",
+    "nickname": "Blanquivermells",
+    "established_year": 1930,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadi Montilivi",
+      "city": "Girona",
+      "country": "Spain",
+      "capacity": 14624
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 100000000,
+      "annual_expenses_approx": 80000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Achieved promotion to La Liga"
+      ],
+      "legendary_player_names": [
+        "Cristhian Stuani",
+        "Pere Pons"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Míchel",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-1-4-1",
+      "manager_id": "mgr_míchel",
+      "manager_name": "Míchel"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#A41D35",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_barcelona"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-1-4-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_259",
+    "name": "UD Las Palmas",
+    "nickname": "La Unión Deportiva",
+    "established_year": 1949,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadio Gran Canaria",
+      "city": "Las Palmas",
+      "country": "Spain",
+      "capacity": 32392
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Multiple promotions to La Liga"
+      ],
+      "legendary_player_names": [
+        "Juan Carlos Valerón",
+        "Tonono",
+        "Miguel Ángel Brindisi"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Luis Miguel Carrión",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_carrión_luis",
+      "manager_name": "Luis Miguel Carrión"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 67,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#FDC52F",
+      "secondary": "#0047AB",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_tenerife"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_260",
+    "name": "CD Leganés",
+    "nickname": "Pepineros",
+    "established_year": 1928,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadio Municipal de Butarque",
+      "city": "Leganés",
+      "country": "Spain",
+      "capacity": 12450
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Achieved promotion to La Liga for the first time"
+      ],
+      "legendary_player_names": [
+        "Martín Mantovani",
+        "Nabil El Zhar"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Borja Jiménez",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_jiménez_borja",
+      "manager_name": "Borja Jiménez"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#0055A4",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_getafe"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_261",
+    "name": "RCD Mallorca",
+    "nickname": "Los Bermellones",
+    "established_year": 1916,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadi Mallorca Son Moix",
+      "city": "Palma",
+      "country": "Spain",
+      "capacity": 23142
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Copa del Rey in 2003",
+        "Reached UEFA Cup Winners' Cup Final in 1999"
+      ],
+      "legendary_player_names": [
+        "Samuel Eto'o",
+        "Dani Güiza",
+        "Ariel Ibagaza"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Jagoba Arrasate",
+      "nationality_code": "ESP",
+      "preferred_formation": "5-3-2",
+      "manager_id": "mgr_arrasate_jagoba",
+      "manager_name": "Jagoba Arrasate"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 69,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "5-3-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_262",
+    "name": "CA Osasuna",
+    "nickname": "Los Rojillos",
+    "established_year": 1920,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "El Sadar",
+      "city": "Pamplona",
+      "country": "Spain",
+      "capacity": 23576
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 65000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached Copa del Rey Final in 2005 and 2023"
+      ],
+      "legendary_player_names": [
+        "Patxi Puñal",
+        "Walter Pandiani"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Vicente Moreno",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_moreno_vicente",
+      "manager_name": "Vicente Moreno"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#BA0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_athletic_bilbao"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_263",
+    "name": "Rayo Vallecano",
+    "nickname": "Los Franjirrojos",
+    "established_year": 1924,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadio de Vallecas",
+      "city": "Madrid",
+      "country": "Spain",
+      "capacity": 14708
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Reached UEFA Cup quarter-finals"
+      ],
+      "legendary_player_names": [
+        "Michu",
+        "Álvaro Negredo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Íñigo Pérez",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_pérez_íñigo",
+      "manager_name": "Íñigo Pérez"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Local",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_getafe"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_264",
+    "name": "Real Madrid CF",
+    "nickname": "Los Blancos",
+    "established_year": 1902,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Santiago Bernabéu Stadium",
+      "city": "Madrid",
+      "country": "Spain",
+      "capacity": 81044
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 200000000,
+      "wage_budget_weekly_total": 7000000,
+      "annual_revenue_approx": 900000000,
+      "annual_expenses_approx": 600000000,
+      "sponsorship_value_annual": 200000000
+    },
+    "history": {
+      "league_titles_domestic": 36,
+      "domestic_cup_wins": 20,
+      "continental_cup_wins": 24,
+      "notable_achievements": [
+        "Most La Liga titles",
+        "Most Champions League titles",
+        "Recognized as FIFA Club of the Century"
+      ],
+      "legendary_player_names": [
+        "Alfredo Di Stéfano",
+        "Zinedine Zidane",
+        "Cristiano Ronaldo",
+        "Sergio Ramos"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Carlo Ancelotti",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-3-3"
+    },
+    "staff_quality": {
+      "coaching_attack": 19,
+      "coaching_defense": 18,
+      "coaching_fitness": 18,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 99,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 90,
+      "youth_academy_rating": 19,
+      "training_facilities_rating": 20
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "accent": "#005694"
+    },
+    "rival_club_ids": [
+      "club_barcelona",
+      "club_atletico_madrid"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_265",
+    "name": "Real Sociedad",
+    "nickname": "Txuri-Urdin",
+    "established_year": 1909,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Anoeta Stadium",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "capacity": 39313
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 100000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won La Liga twice in the early 1980s"
+      ],
+      "legendary_player_names": [
+        "Luis Arconada",
+        "Xabi Alonso",
+        "Antoine Griezmann"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Imanol Alguacil",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_alguacil_imanol",
+      "manager_name": "Imanol Alguacil"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 16,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 73,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#0055A4",
+      "secondary": "#FFFFFF",
+      "accent": "#A50044"
+    },
+    "rival_club_ids": [
+      "club_athletic_bilbao"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "01_266",
+    "name": "Sevilla FC",
+    "nickname": "Los Rojiblancos",
+    "established_year": 1890,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Ramón Sánchez Pizjuán",
+      "city": "Seville",
+      "country": "Spain",
+      "capacity": 43883
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1800000,
+      "annual_revenue_approx": 250000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 7,
+      "notable_achievements": [
+        "Most UEFA Europa League titles"
+      ],
+      "legendary_player_names": [
+        "Jesus Navas",
+        "Frédéric Kanouté",
+        "Ivan Rakitić"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 26,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Xavier García Pimienta",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_pimienta_xavier",
+      "manager_name": "Xavier García Pimienta"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 83,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 74,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D10000",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_real_betis"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_267",
+    "name": "Valencia CF",
+    "nickname": "Los Che",
+    "established_year": 1919,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Mestalla Stadium",
+      "city": "Valencia",
+      "country": "Spain",
+      "capacity": 49430
+    },
+    "financials": {
+      "status": "Insecure",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 160000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 6,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Multiple La Liga winners",
+        "Reached Champions League Final twice"
+      ],
+      "legendary_player_names": [
+        "Mario Kempes",
+        "Gaizka Mendieta",
+        "David Villa",
+        "David Silva"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Carlos Corberán",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_corberán_carlos",
+      "manager_name": "Carlos Corberán"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE7F00",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_villarreal"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Focus on Youth"
+    }
+  },
+  {
+    "id": "01_268",
+    "name": "Villarreal CF",
+    "nickname": "El Submarino Amarillo",
+    "established_year": 1923,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadio de la Cerámica",
+      "city": "Villarreal",
+      "country": "Spain",
+      "capacity": 23008
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 35000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 150000000,
+      "sponsorship_value_annual": 12000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the UEFA Europa League in 2021",
+        "Reached Champions League semi-finals"
+      ],
+      "legendary_player_names": [
+        "Diego Forlán",
+        "Juan Román Riquelme",
+        "Santi Cazorla",
+        "Gerard Moreno"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Marcelino García Toral",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-4-2",
+      "manager_id": "mgr_toral_marcelino",
+      "manager_name": "Marcelino García Toral"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 76,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#003A8E",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_valencia"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-4-2",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_269",
+    "name": "Real Valladolid CF",
+    "nickname": "Pucela",
+    "established_year": 1928,
+    "country_code": "ESP",
+    "league_id": "00_2",
+    "stadium": {
+      "name": "Estadio José Zorrilla",
+      "city": "Valladolid",
+      "country": "Spain",
+      "capacity": 26512
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 18000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 65000000,
+      "annual_expenses_approx": 60000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Historic club from Castile and León",
+        "Multiple La Liga participations"
+      ],
+      "legendary_player_names": [
+        "Fernando Hierro",
+        "José Luis Caminero",
+        "Sergio Escudero"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Paulo Pezzolano",
+      "nationality_code": "URU",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "10_402",
+      "manager_name": "Paulo Pezzolano"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#663399",
+      "accent": "#663399"
+    },
+    "rival_club_ids": [
+      "club_burgos"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Balanced",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  }
+]

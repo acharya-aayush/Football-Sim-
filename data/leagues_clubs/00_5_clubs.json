@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "01_103",
+    "name": "Angers SCO",
+    "nickname": "Les Scoïstes",
+    "established_year": 1919,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Raymond Kopa",
+      "city": "Angers",
+      "country": "France",
+      "capacity": 18752
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promoted to Ligue 1"
+      ],
+      "legendary_player_names": [
+        "Fahid Ben Khalfallah",
+        "Pierrick Capelle"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Alexandre Dujeux",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_dujeux_alexandre",
+      "manager_name": "Alexandre Dujeux"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_104",
+    "name": "AJ Auxerre",
+    "nickname": "AJA",
+    "established_year": 1905,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade de l'Abbé-Deschamps",
+      "city": "Auxerre",
+      "country": "France",
+      "capacity": 18541
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 4,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 in 1996",
+        "Known for strong youth academy"
+      ],
+      "legendary_player_names": [
+        "Eric Cantona",
+        "Laurent Blanc",
+        "Djibril Cissé"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Christophe Pélissier",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_pélissier_christophe",
+      "manager_name": "Christophe Pélissier"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Develop Youth and Mix"
+    }
+  },
+  {
+    "id": "01_105",
+    "name": "Stade Brestois 29",
+    "nickname": "Les Ti' Zefs",
+    "established_year": 1950,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Francis-Le Blé",
+      "city": "Brest",
+      "country": "France",
+      "capacity": 15931
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Consistent Ligue 1 participation in recent years"
+      ],
+      "legendary_player_names": [
+        "Franck Ribéry",
+        "Paul Le Guen"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Eric Roy",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_roy_eric",
+      "manager_name": "Eric Roy"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_guingamp"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_106",
+    "name": "Le Havre AC",
+    "nickname": "Les Ciel et Marine",
+    "established_year": 1872,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Océane",
+      "city": "Le Havre",
+      "country": "France",
+      "capacity": 25178
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Oldest football club in France",
+        "Won the Coupe de France in 1959"
+      ],
+      "legendary_player_names": [
+        "Jean-Pierre Papin",
+        "Vikash Dhorasoo"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Didier Digard",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_digard_didier",
+      "manager_name": "Didier Digard"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 67,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#0066CC",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_caen"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Develop Youth and Mix"
+    }
+  },
+  {
+    "id": "01_107",
+    "name": "RC Lens",
+    "nickname": "Les Sang et Or",
+    "established_year": 1906,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Bollaert-Delelis",
+      "city": "Lens",
+      "country": "France",
+      "capacity": 38223
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 100000000,
+      "sponsorship_value_annual": 10000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 in 1998"
+      ],
+      "legendary_player_names": [
+        "Daniel Moreira",
+        "Seydou Keita"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Will Still",
+      "nationality_code": "BEL",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_still_will",
+      "manager_name": "Will Still"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFD700",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_lille"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "01_108",
+    "name": "LOSC Lille",
+    "nickname": "Les Dogues",
+    "established_year": 1944,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Decathlon Arena Pierre Mauroy Stadium",
+      "city": "Lille",
+      "country": "France",
+      "capacity": 50186
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 multiple times"
+      ],
+      "legendary_player_names": [
+        "Eden Hazard",
+        "Pierre Mauroy",
+        "Jean Baratte"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Bruno Génésio",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_génésio_bruno",
+      "manager_name": "Bruno Génésio"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#0000FF"
+    },
+    "rival_club_ids": [
+      "club_lens"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "01_109",
+    "name": "Olympique Lyonnais",
+    "nickname": "Les Gones",
+    "established_year": 1950,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Groupama Stadium",
+      "city": "Décines-Charpieu",
+      "country": "France",
+      "capacity": 59186
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1800000,
+      "annual_revenue_approx": 250000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 7,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 seven consecutive times",
+        "Consistent Champions League participant"
+      ],
+      "legendary_player_names": [
+        "Juninho Pernambucano",
+        "Karim Benzema",
+        "Hugo Lloris"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Pierre Sage",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_sage_pierre",
+      "manager_name": "Pierre Sage"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 83,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 18,
+      "training_facilities_rating": 17
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
+    },
+    "rival_club_ids": [
+      "club_saint_etienne",
+      "club_marseille"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "01_110",
+    "name": "Olympique de Marseille",
+    "nickname": "Les Phocéens",
+    "established_year": 1899,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Orange Vélodrome",
+      "city": "Marseille",
+      "country": "France",
+      "capacity": 67394
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1800000,
+      "annual_revenue_approx": 250000000,
+      "annual_expenses_approx": 200000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 9,
+      "domestic_cup_wins": 10,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Won the Champions League in 1993",
+        "Passionate fanbase"
+      ],
+      "legendary_player_names": [
+        "Jean-Pierre Papin",
+        "Didier Drogba",
+        "Chris Waddle"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Roberto De Zerbi",
+      "nationality_code": "ITA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_zerbi_roberto",
+      "manager_name": "Roberto De Zerbi"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 85,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 82,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_psg",
+      "club_lyon"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_111",
+    "name": "AS Monaco FC",
+    "nickname": "Les Rouges et Blancs",
+    "established_year": 1924,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Louis II",
+      "city": "Monaco",
+      "country": "Monaco",
+      "capacity": 16360
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 60000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 200000000,
+      "annual_expenses_approx": 180000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 8,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Multiple Ligue 1 winners",
+        "Reached Champions League Final in 2004"
+      ],
+      "legendary_player_names": [
+        "Thierry Henry",
+        "David Trezeguet",
+        "Radamel Falcao"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Adi Hütter",
+      "nationality_code": "AUT",
+      "preferred_formation": "3-4-2-1",
+      "manager_id": "mgr_hütter_adi",
+      "manager_name": "Adi Hütter"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 81,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "National",
+      "fan_morale_default": 76,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 18
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [
+      "club_nice"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "3-4-2-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "01_112",
+    "name": "Montpellier Hérault SC",
+    "nickname": "La Paillade",
+    "established_year": 1974,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade de la Mosson",
+      "city": "Montpellier",
+      "country": "France",
+      "capacity": 32900
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 60000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 in 2012"
+      ],
+      "legendary_player_names": [
+        "Olivier Giroud",
+        "Carlos Valderrama"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Michel Der Zakarian",
+      "nationality_code": "ARM",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_zakarian_michel",
+      "manager_name": "Michel Der Zakarian"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#0000FF",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_113",
+    "name": "FC Nantes",
+    "nickname": "Les Canaris",
+    "established_year": 1943,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "country": "France",
+      "capacity": 35322
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 8,
+      "domestic_cup_wins": 4,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 multiple times",
+        "Known for their 'Jeu à la Nantaise' playing style"
+      ],
+      "legendary_player_names": [
+        "Didier Deschamps",
+        "Marcel Desailly",
+        "Claude Makelele"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Antoine Kombouaré",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_kombouaré_antoine",
+      "manager_name": "Antoine Kombouaré"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 76,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#F0E03B",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_rennes"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Mix"
+    }
+  },
+  {
+    "id": "01_114",
+    "name": "OGC Nice",
+    "nickname": "Les Aiglons",
+    "established_year": 1904,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Allianz Riviera",
+      "city": "Nice",
+      "country": "France",
+      "capacity": 36178
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 4,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 four times historically"
+      ],
+      "legendary_player_names": [
+        "Just Fontaine",
+        "Hervé Revelli"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Franck Haise",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_haise_franck",
+      "manager_name": "Franck Haise"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 77,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#0000FF",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_monaco"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_115",
+    "name": "Paris Saint-Germain FC",
+    "nickname": "Les Parisiens",
+    "established_year": 1970,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Parc des Princes",
+      "city": "Paris",
+      "country": "France",
+      "capacity": 47929
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 200000000,
+      "wage_budget_weekly_total": 8000000,
+      "annual_revenue_approx": 800000000,
+      "annual_expenses_approx": 600000000,
+      "sponsorship_value_annual": 200000000
+    },
+    "history": {
+      "league_titles_domestic": 13,
+      "domestic_cup_wins": 15,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Most Ligue 1 and Coupe de France titles",
+        "Won the UEFA Cup Winners' Cup in 1996",
+        "Consistent Champions League participant and finalist"
+      ],
+      "legendary_player_names": [
+        "Zlatan Ibrahimović",
+        "Edinson Cavani",
+        "Thiago Silva",
+        "Kylian Mbappé"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Luis Enrique",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3"
+    },
+    "staff_quality": {
+      "coaching_attack": 20,
+      "coaching_defense": 18,
+      "coaching_fitness": 19,
+      "scouting_network_reach": "Worldwide"
+    },
+    "attributes": {
+      "reputation": 96,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 89,
+      "youth_academy_rating": 19,
+      "training_facilities_rating": 20
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#CC0000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_marseille"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_116",
+    "name": "Stade de Reims",
+    "nickname": "Les Rouges et Blancs",
+    "established_year": 1911,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Auguste-Delaune",
+      "city": "Reims",
+      "country": "France",
+      "capacity": 21684
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 6,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 six times historically",
+        "Reached European Cup Final twice"
+      ],
+      "legendary_player_names": [
+        "Raymond Kopa",
+        "Just Fontaine"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Luka Elsner",
+      "nationality_code": "SVN",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_elsner_luka",
+      "manager_name": "Luka Elsner"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 72,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_117",
+    "name": "Stade Rennais FC",
+    "nickname": "Les Rouges et Noirs",
+    "established_year": 1901,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Roazhon Park",
+      "city": "Rennes",
+      "country": "France",
+      "capacity": 29778
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 130000000,
+      "sponsorship_value_annual": 12000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Coupe de France three times",
+        "Known for strong youth academy"
+      ],
+      "legendary_player_names": [
+        "Petr Čech",
+        "Sylvain Wiltord",
+        "Yann M'Vila"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Habib Beye",
+      "nationality_code": "SEN",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_beye_habib",
+      "manager_name": "Habib Beye"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 13,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 77,
+      "ambition_level": "Qualify for Europe",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 74,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_nantes"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Develop Youth and Sell Stars"
+    }
+  },
+  {
+    "id": "01_118",
+    "name": "AS Saint-Étienne",
+    "nickname": "Les Verts",
+    "established_year": 1919,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade Geoffroy-Guichard",
+      "city": "Saint-Étienne",
+      "country": "France",
+      "capacity": 41965
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 10,
+      "domestic_cup_wins": 6,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Most Ligue 1 titles",
+        "Reached European Cup Final in 1976"
+      ],
+      "legendary_player_names": [
+        "Michel Platini",
+        "Dominique Rocheteau",
+        "Jean-Michel Larqué"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Olivier Dall'Oglio",
+      "nationality_code": "FRA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_dall'oglio_olivier",
+      "manager_name": "Olivier Dall'Oglio"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Establish in Mid-table",
+      "fanbase_size": "National",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#006633",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_lyon"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_119",
+    "name": "RC Strasbourg Alsace",
+    "nickname": "Racing",
+    "established_year": 1906,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stade de la Meinau",
+      "city": "Strasbourg",
+      "country": "France",
+      "capacity": 26109
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 3,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won Ligue 1 in 1979",
+        "Won the Coupe de France three times"
+      ],
+      "legendary_player_names": [
+        "Jacky Duguépéroux",
+        "Frank Leboeuf"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Liam Rosenior",
+      "nationality_code": "ENG",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_rosenior_liam",
+      "manager_name": "Liam Rosenior"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 71,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#C0C0C0"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_120",
+    "name": "Toulouse FC",
+    "nickname": "Les Violets",
+    "established_year": 1937,
+    "country_code": "FRA",
+    "league_id": "00_5",
+    "stadium": {
+      "name": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "country": "France",
+      "capacity": 33150
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 80000000,
+      "annual_expenses_approx": 75000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Won the Coupe de France twice"
+      ],
+      "legendary_player_names": [
+        "André-Pierre Gignac",
+        "Wissam Ben Yedder"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Carles Martínez Novell",
+      "nationality_code": "ESP",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_novell_carles",
+      "manager_name": "Carles Martínez Novell"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#4B0082",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [
+      "club_bordeaux"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Mix",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  }
+]

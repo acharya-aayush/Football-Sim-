@@ -1,0 +1,834 @@
+[
+  {
+    "id": "club_zenit",
+    "name": "Zenit St. Petersburg",
+    "nickname": "Zenitchiki",
+    "established_year": 1925,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Gazprom Arena",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "capacity": 68000
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 2000000,
+      "annual_revenue_approx": 180000000,
+      "annual_expenses_approx": 150000000,
+      "sponsorship_value_annual": 65000000
+    },
+    "history": {
+      "league_titles_domestic": 10,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "UEFA Cup Winners (2007-2008)",
+        "Russian Premier League Champions (recent dominance)"
+      ],
+      "legendary_player_names": [
+        "Andrey Arshavin",
+        "Aleksandr Anyukov",
+        "Nicolas Lombaerts"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 85,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 17
+    }
+  },
+  {
+    "id": "club_spartak_moscow",
+    "name": "Spartak Moscow",
+    "nickname": "Narodnaya komanda",
+    "established_year": 1922,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Otkritie Arena",
+      "city": "Moscow",
+      "country": "Russia",
+      "capacity": 45000
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 35000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 100000000,
+      "sponsorship_value_annual": 40000000
+    },
+    "history": {
+      "league_titles_domestic": 22,
+      "domestic_cup_wins": 14,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Most Russian championship titles",
+        "10 consecutive Soviet Top League titles (1936-1939, 1952-1953, 1956-1958, 1962)"
+      ],
+      "legendary_player_names": [
+        "Nikita Simonyan",
+        "Fyodor Cherenkov",
+        "Igor Netto"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 80,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "club_cska_moscow",
+    "name": "CSKA Moscow",
+    "nickname": "Armeitsy",
+    "established_year": 1911,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "VEB Arena",
+      "city": "Moscow",
+      "country": "Russia",
+      "capacity": 30000
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 30000000,
+      "wage_budget_weekly_total": 1400000,
+      "annual_revenue_approx": 110000000,
+      "annual_expenses_approx": 95000000,
+      "sponsorship_value_annual": 35000000
+    },
+    "history": {
+      "league_titles_domestic": 13,
+      "domestic_cup_wins": 12,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "UEFA Cup Winners (2004-2005)",
+        "Multiple Russian Premier League titles"
+      ],
+      "legendary_player_names": [
+        "Igor Akinfeev",
+        "Sergei Ignashevich",
+        "Alan Dzagoev"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 16,
+      "training_facilities_rating": 15
+    }
+  },
+  {
+    "id": "club_lokomotiv_moscow",
+    "name": "Lokomotiv Moscow",
+    "nickname": "Railwaymen",
+    "established_year": 1922,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "RZD Arena",
+      "city": "Moscow",
+      "country": "Russia",
+      "capacity": 27000
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 85000000,
+      "annual_expenses_approx": 70000000,
+      "sponsorship_value_annual": 30000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 10,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Premier League Champions (2017-2018, 2004, 2002)"
+      ],
+      "legendary_player_names": [
+        "Dmitri Loskov",
+        "Yuri Semin",
+        "Vedran Corluka"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    }
+  },
+  {
+    "id": "club_dynamo_moscow",
+    "name": "Dynamo Moscow",
+    "nickname": "The White-Blues",
+    "established_year": 1923,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "VTB Arena",
+      "city": "Moscow",
+      "country": "Russia",
+      "capacity": 25700
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 1000000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 60000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 11,
+      "domestic_cup_wins": 7,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "11 Soviet Top League titles",
+        "Never relegated from the top division until 2016"
+      ],
+      "legendary_player_names": [
+        "Lev Yashin",
+        "Konstantin Beskov",
+        "Alexander Kerzhakov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    }
+  },
+  {
+    "id": "club_krasnodar",
+    "name": "FC Krasnodar",
+    "nickname": "The Bulls",
+    "established_year": 2008,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Krasnodar Stadium",
+      "city": "Krasnodar",
+      "country": "Russia",
+      "capacity": 35000
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 28000000,
+      "wage_budget_weekly_total": 1300000,
+      "annual_revenue_approx": 75000000,
+      "annual_expenses_approx": 65000000,
+      "sponsorship_value_annual": 28000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "UEFA Champions League group stage qualification",
+        "Europa League knockout stage appearances"
+      ],
+      "legendary_player_names": [
+        "Joaozinho",
+        "Pavel Mamaev",
+        "Viktor Claesson"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Very High"
+    },
+    "attributes": {
+      "reputation": 74,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Growing",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 16
+    }
+  },
+  {
+    "id": "club_rubin_kazan",
+    "name": "Rubin Kazan",
+    "nickname": "The Rubins",
+    "established_year": 1958,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Kazan Arena",
+      "city": "Kazan",
+      "country": "Russia",
+      "capacity": 45000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 50000000,
+      "annual_expenses_approx": 45000000,
+      "sponsorship_value_annual": 18000000
+    },
+    "history": {
+      "league_titles_domestic": 2,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Premier League Champions (2008, 2009)",
+        "Champions League group stage appearances"
+      ],
+      "legendary_player_names": [
+        "Kurban Berdyev",
+        "Sergei Ryzhikov",
+        "César Navas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "club_rostov",
+    "name": "FC Rostov",
+    "nickname": "The Yellow-Blues",
+    "established_year": 1930,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Rostov Arena",
+      "city": "Rostov-on-Don",
+      "country": "Russia",
+      "capacity": 45000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 12000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 40000000,
+      "annual_expenses_approx": 35000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Cup Winners (2014)",
+        "Europa League Round of 16 (2016-17)"
+      ],
+      "legendary_player_names": [
+        "Timofei Kalachev",
+        "Aleksandr Gatskan",
+        "Dmitri Kirichenko"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "club_sochi",
+    "name": "PFC Sochi",
+    "nickname": "The Leopards",
+    "established_year": 2018,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Fisht Olympic Stadium",
+      "city": "Sochi",
+      "country": "Russia",
+      "capacity": 47000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 30000000,
+      "annual_expenses_approx": 28000000,
+      "sponsorship_value_annual": 12000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Rapid rise to Russian Premier League",
+        "UEFA Conference League qualification"
+      ],
+      "legendary_player_names": [
+        "Aleksandr Kokorin",
+        "Adil Rami",
+        "Anton Zabolotny"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "club_khimki",
+    "name": "FC Khimki",
+    "nickname": "The Red-Blacks",
+    "established_year": 1997,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Arena Khimki",
+      "city": "Khimki",
+      "country": "Russia",
+      "capacity": 18000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 5000000,
+      "wage_budget_weekly_total": 400000,
+      "annual_revenue_approx": 20000000,
+      "annual_expenses_approx": 19000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Cup Final (2005)",
+        "Multiple Premier League promotions"
+      ],
+      "legendary_player_names": [
+        "Andrey Tikhonov",
+        "Dmitri Khokhlov",
+        "Denis Boyarintsev"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "club_ural",
+    "name": "FC Ural",
+    "nickname": "The Bumblebees",
+    "established_year": 1930,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Central Stadium",
+      "city": "Yekaterinburg",
+      "country": "Russia",
+      "capacity": 35000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 350000,
+      "annual_revenue_approx": 18000000,
+      "annual_expenses_approx": 17000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Cup Final (2017, 2019)",
+        "Stable Premier League club"
+      ],
+      "legendary_player_names": [
+        "Pavel Pogrebnyak",
+        "Eric Bicfalvi",
+        "Oleg Shatov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "club_orenburg",
+    "name": "FC Orenburg",
+    "nickname": "The Gas Workers",
+    "established_year": 1976,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Gazovik Stadium",
+      "city": "Orenburg",
+      "country": "Russia",
+      "capacity": 7500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 300000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 14000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Premier League promotion (2016)",
+        "Previously known as Gazovik Orenburg"
+      ],
+      "legendary_player_names": [
+        "Vladimir Poluyakhtov",
+        "Aleksei Sutormin",
+        "Andrei Malykh"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 8,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "club_krylya_sovetov",
+    "name": "Krylya Sovetov",
+    "nickname": "The Wings",
+    "established_year": 1942,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Solidarnost Arena",
+      "city": "Samara",
+      "country": "Russia",
+      "capacity": 45000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 5000000,
+      "wage_budget_weekly_total": 400000,
+      "annual_revenue_approx": 20000000,
+      "annual_expenses_approx": 19000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Russian Cup Semi-finals",
+        "Bronze medals in Soviet Top League (1951)"
+      ],
+      "legendary_player_names": [
+        "Andrei Karyaka",
+        "Boris Ignatiev",
+        "Jan Koller"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 62,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "club_fakel_voronezh",
+    "name": "FC Fakel Voronezh",
+    "nickname": "The Torch",
+    "established_year": 1947,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Central Stadium",
+      "city": "Voronezh",
+      "country": "Russia",
+      "capacity": 20000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 250000,
+      "annual_revenue_approx": 12000000,
+      "annual_expenses_approx": 11000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent promotion to Russian Premier League",
+        "Multiple seasons in Russian top flight"
+      ],
+      "legendary_player_names": [
+        "Valery Shmarov",
+        "Anton Shunin",
+        "Ruslan Nigmatullin"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 8,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "club_pari_nn",
+    "name": "Pari NN",
+    "nickname": "The Nizhny Novgorod",
+    "established_year": 2015,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Nizhny Novgorod Stadium",
+      "city": "Nizhny Novgorod",
+      "country": "Russia",
+      "capacity": 45000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 300000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 14000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Premier League promotion in 2021",
+        "Previously known as FC Nizhny Novgorod"
+      ],
+      "legendary_player_names": [
+        "Kirill Gots",
+        "Albert Sharipov",
+        "Ivan Temnikov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Growing",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "club_akron_tolyatti",
+    "name": "FC Akron Tolyatti",
+    "nickname": "The Chemical Workers",
+    "established_year": 2018,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Tolyatti Stadium",
+      "city": "Tolyatti",
+      "country": "Russia",
+      "capacity": 14000
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent promotion to the top flight",
+        "Rapid rise through Russian football pyramid"
+      ],
+      "legendary_player_names": [
+        "Pavel Mogilevets",
+        "Artem Timofeev",
+        "Dmitri Vorobyov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 7,
+      "training_facilities_rating": 8
+    }
+  },
+  {
+    "id": "club_dynamo_makhachkala",
+    "name": "Dynamo Makhachkala",
+    "nickname": "The Dagestan Eagles",
+    "established_year": 1927,
+    "country_code": "RUS",
+    "league_id": "league_russian",
+    "stadium": {
+      "name": "Dynamo Stadium",
+      "city": "Makhachkala",
+      "country": "Russia",
+      "capacity": 15200
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recently promoted to Russian Premier League",
+        "Return to top flight after long absence"
+      ],
+      "legendary_player_names": [
+        "Magomed Omarov",
+        "Shamil Lakhiyalov",
+        "Murad Kurbanov"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 7,
+      "training_facilities_rating": 8
+    }
+  }
+]

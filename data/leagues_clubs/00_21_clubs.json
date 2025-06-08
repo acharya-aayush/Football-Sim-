@@ -1,0 +1,2065 @@
+[
+  {
+    "id": "01_270",
+    "name": "Inter Miami CF",
+    "nickname": "The Herons",
+    "established_year": 2018,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "DRV PNK Stadium",
+      "city": "Fort Lauderdale",
+      "country": "United States",
+      "capacity": 18000
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 50000000,
+      "wage_budget_weekly_total": 1500000,
+      "annual_revenue_approx": 150000000,
+      "annual_expenses_approx": 120000000,
+      "sponsorship_value_annual": 25000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Lionel Messi signing",
+        "MLS Playoffs debut"
+      ],
+      "legendary_player_names": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Sergio Busquets"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Javier Mascherano",
+      "nationality_code": "ARG",
+      "preferred_formation": "4-3-3",
+      "manager_id": "10_421",
+      "manager_name": "Javier Mascherano"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 85,
+      "ambition_level": "Win Trophies Regularly",
+      "fanbase_size": "Global",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#F7B5CD",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
+    },
+    "rival_club_ids": [
+      "club_orlando_city",
+      "club_atlanta_united"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Buy Proven Stars"
+    }
+  },
+  {
+    "id": "01_271",
+    "name": "LA Galaxy",
+    "nickname": "Los Galácticos",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Dignity Health Sports Park",
+      "city": "Carson",
+      "country": "United States",
+      "capacity": 27000
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 45000000,
+      "wage_budget_weekly_total": 1400000,
+      "annual_revenue_approx": 140000000,
+      "annual_expenses_approx": 110000000,
+      "sponsorship_value_annual": 22000000
+    },
+    "history": {
+      "league_titles_domestic": 5,
+      "domestic_cup_wins": 2,
+      "continental_cup_wins": 1,
+      "notable_achievements": [
+        "Most successful MLS club historically",
+        "David Beckham era"
+      ],
+      "legendary_player_names": [
+        "David Beckham",
+        "Landon Donovan",
+        "Carlos Vela"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Greg Vanney",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "10_422",
+      "manager_name": "Greg Vanney"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 82,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#00245D",
+      "secondary": "#FFFFFF",
+      "accent": "#FFD100"
+    },
+    "rival_club_ids": [
+      "club_lafc",
+      "club_san_jose"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Attacking Football",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_272",
+    "name": "Atlanta United FC",
+    "nickname": "The Five Stripes",
+    "established_year": 2014,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "capacity": 42500
+    },
+    "financials": {
+      "status": "Rich",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 1200000,
+      "annual_revenue_approx": 120000000,
+      "annual_expenses_approx": 95000000,
+      "sponsorship_value_annual": 18000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS Cup 2018",
+        "Record MLS attendance"
+      ],
+      "legendary_player_names": [
+        "Josef Martínez",
+        "Miguel Almirón"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Ronny Deila",
+      "nationality_code": "NOR",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "10_423",
+      "manager_name": "Ronny Deila"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Continental"
+    },
+    "attributes": {
+      "reputation": 78,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#80000A",
+      "secondary": "#000000",
+      "accent": "#FFD100"
+    },
+    "rival_club_ids": [
+      "club_orlando_city",
+      "club_charlotte_fc"
+    ],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "High Press",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_273",
+    "name": "FC Cincinnati",
+    "nickname": "The Orange and Blue",
+    "established_year": 2015,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "TQL Stadium",
+      "city": "Cincinnati",
+      "country": "United States",
+      "capacity": 26000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 22145954,
+      "wage_budget_weekly_total": 738198,
+      "annual_revenue_approx": 44291908,
+      "annual_expenses_approx": 35433526,
+      "sponsorship_value_annual": 7381984
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager FC Cincinnati",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_fc_cincinnati_temp",
+      "manager_name": "Manager FC Cincinnati"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 67,
+      "ambition_level": "Mid-table Stability",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 61,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_274",
+    "name": "Seattle Sounders FC",
+    "nickname": "The Sounders",
+    "established_year": 2007,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "country": "United States",
+      "capacity": 37722
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 36565069,
+      "wage_budget_weekly_total": 1218835,
+      "annual_revenue_approx": 73130138,
+      "annual_expenses_approx": 58504110,
+      "sponsorship_value_annual": 12188356
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Seattle Sounders FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_seattle_sounders_temp",
+      "manager_name": "Manager Seattle Sounders FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 79,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FFFF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_275",
+    "name": "Los Angeles FC",
+    "nickname": "LAFC",
+    "established_year": 2014,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "BMO Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "capacity": 22000
+    },
+    "financials": {
+      "status": "Secure",
+      "transfer_budget_initial": 35984811,
+      "wage_budget_weekly_total": 1199493,
+      "annual_revenue_approx": 71969622,
+      "annual_expenses_approx": 57575697,
+      "sponsorship_value_annual": 11994937
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Los Angeles FC",
+      "nationality_code": "USA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_club_lafc_temp",
+      "manager_name": "Manager Los Angeles FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 15,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "National"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "National",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FFFF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_276",
+    "name": "Portland Timbers",
+    "nickname": "The Timbers",
+    "established_year": 2009,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Providence Park",
+      "city": "Portland",
+      "country": "United States",
+      "capacity": 25218
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 30877327,
+      "wage_budget_weekly_total": 1029244,
+      "annual_revenue_approx": 61754654,
+      "annual_expenses_approx": 49403723,
+      "sponsorship_value_annual": 10292442
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Portland Timbers",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_portland_timbers_temp",
+      "manager_name": "Manager Portland Timbers"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Mid-table Stability",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 73,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_277",
+    "name": "Austin FC",
+    "nickname": "Verde",
+    "established_year": 2019,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Q2 Stadium",
+      "city": "Austin",
+      "country": "United States",
+      "capacity": 20738
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 34924824,
+      "wage_budget_weekly_total": 1164160,
+      "annual_revenue_approx": 69849648,
+      "annual_expenses_approx": 55879718,
+      "sponsorship_value_annual": 11641608
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager Austin FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_austin_fc_temp",
+      "manager_name": "Manager Austin FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 12,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Mid-table Stability",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 69,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_278",
+    "name": "Columbus Crew",
+    "nickname": "The Crew",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Field",
+      "city": "Columbus",
+      "country": "United States",
+      "capacity": 20371
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 30010831,
+      "wage_budget_weekly_total": 1000361,
+      "annual_revenue_approx": 60021662,
+      "annual_expenses_approx": 48017329,
+      "sponsorship_value_annual": 10003610
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Columbus Crew",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_columbus_crew_temp",
+      "manager_name": "Manager Columbus Crew"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 16,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 69,
+      "ambition_level": "Mid-table Stability",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 64,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_279",
+    "name": "Charlotte FC",
+    "nickname": "The Crown",
+    "established_year": 2019,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Bank of America Stadium",
+      "city": "Charlotte",
+      "country": "United States",
+      "capacity": 38000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 34161311,
+      "wage_budget_weekly_total": 1138710,
+      "annual_revenue_approx": 68322622,
+      "annual_expenses_approx": 54658097,
+      "sponsorship_value_annual": 11387103
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager Charlotte FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_charlotte_fc_temp",
+      "manager_name": "Manager Charlotte FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 13,
+      "coaching_fitness": 10,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Mid-table Stability",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 67,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_280",
+    "name": "Vancouver Whitecaps FC",
+    "nickname": "The Caps",
+    "established_year": 2009,
+    "country_code": "CAN",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "BC Place",
+      "city": "Vancouver",
+      "country": "Canada",
+      "capacity": 22120
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 11316972,
+      "wage_budget_weekly_total": 377232,
+      "annual_revenue_approx": 22633944,
+      "annual_expenses_approx": 18107155,
+      "sponsorship_value_annual": 3772324
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Vancouver Whitecaps FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_vancouver_whitecaps_temp",
+      "manager_name": "Manager Vancouver Whitecaps FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 13,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 64,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_281",
+    "name": "San Diego FC",
+    "nickname": "SDFC",
+    "established_year": 2022,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Snapdragon Stadium",
+      "city": "San Diego",
+      "country": "United States",
+      "capacity": 35000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 18759857,
+      "wage_budget_weekly_total": 625328,
+      "annual_revenue_approx": 37519714,
+      "annual_expenses_approx": 30015771,
+      "sponsorship_value_annual": 6253285
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager San Diego FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_san_diego_fc_temp",
+      "manager_name": "Manager San Diego FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 11,
+      "coaching_fitness": 10,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 67,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 68,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_282",
+    "name": "Minnesota United FC",
+    "nickname": "The Loons",
+    "established_year": 2010,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Allianz Field",
+      "city": "Saint Paul",
+      "country": "United States",
+      "capacity": 19400
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 22887898,
+      "wage_budget_weekly_total": 762929,
+      "annual_revenue_approx": 45775796,
+      "annual_expenses_approx": 36620636,
+      "sponsorship_value_annual": 7629299
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager Minnesota United FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_minnesota_united_temp",
+      "manager_name": "Manager Minnesota United FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 11,
+      "coaching_fitness": 13,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 59,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FFFF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_283",
+    "name": "Orlando City SC",
+    "nickname": "The Lions",
+    "established_year": 2013,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Exploria Stadium",
+      "city": "Orlando",
+      "country": "United States",
+      "capacity": 25500
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15865847,
+      "wage_budget_weekly_total": 528861,
+      "annual_revenue_approx": 31731694,
+      "annual_expenses_approx": 25385355,
+      "sponsorship_value_annual": 5288615
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager Orlando City SC",
+      "nationality_code": "USA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_club_orlando_city_temp",
+      "manager_name": "Manager Orlando City SC"
+    },
+    "staff_quality": {
+      "coaching_attack": 13,
+      "coaching_defense": 15,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 64,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_284",
+    "name": "St. Louis CITY SC",
+    "nickname": "CITY",
+    "established_year": 2019,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "CITYPARK",
+      "city": "St. Louis",
+      "country": "United States",
+      "capacity": 22500
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15043183,
+      "wage_budget_weekly_total": 501439,
+      "annual_revenue_approx": 30086366,
+      "annual_expenses_approx": 24069092,
+      "sponsorship_value_annual": 5014394
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager St. Louis CITY SC",
+      "nationality_code": "USA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_club_st_louis_city_temp",
+      "manager_name": "Manager St. Louis CITY SC"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 14,
+      "coaching_fitness": 10,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_285",
+    "name": "FC Dallas",
+    "nickname": "FCD",
+    "established_year": 1995,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Toyota Stadium",
+      "city": "Frisco",
+      "country": "United States",
+      "capacity": 20500
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 11539566,
+      "wage_budget_weekly_total": 384652,
+      "annual_revenue_approx": 23079132,
+      "annual_expenses_approx": 18463305,
+      "sponsorship_value_annual": 3846522
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager FC Dallas",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_fc_dallas_temp",
+      "manager_name": "Manager FC Dallas"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 15,
+      "coaching_fitness": 10,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 61,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 66,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_286",
+    "name": "New York City FC",
+    "nickname": "NYCFC",
+    "established_year": 2013,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Yankee Stadium",
+      "city": "New York",
+      "country": "United States",
+      "capacity": 28743
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15528712,
+      "wage_budget_weekly_total": 517623,
+      "annual_revenue_approx": 31057424,
+      "annual_expenses_approx": 24845939,
+      "sponsorship_value_annual": 5176237
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager New York City FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_nycfc_temp",
+      "manager_name": "Manager New York City FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 10,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_287",
+    "name": "New York Red Bulls",
+    "nickname": "RBNY",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Red Bull Arena",
+      "city": "Harrison",
+      "country": "United States",
+      "capacity": 25000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 14834965,
+      "wage_budget_weekly_total": 494498,
+      "annual_revenue_approx": 29669930,
+      "annual_expenses_approx": 23735944,
+      "sponsorship_value_annual": 4944988
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager New York Red Bulls",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_new_york_red_bulls_temp",
+      "manager_name": "Manager New York Red Bulls"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 11,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_288",
+    "name": "San Jose Earthquakes",
+    "nickname": "The Quakes",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "PayPal Park",
+      "city": "San Jose",
+      "country": "United States",
+      "capacity": 18000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20190815,
+      "wage_budget_weekly_total": 673027,
+      "annual_revenue_approx": 40381630,
+      "annual_expenses_approx": 32305304,
+      "sponsorship_value_annual": 6730271
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager San Jose Earthquakes",
+      "nationality_code": "USA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_club_san_jose_temp",
+      "manager_name": "Manager San Jose Earthquakes"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 12,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 57,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_289",
+    "name": "Chicago Fire FC",
+    "nickname": "The Fire",
+    "established_year": 1997,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "SeatGeek Stadium",
+      "city": "Chicago",
+      "country": "United States",
+      "capacity": 20000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 19099682,
+      "wage_budget_weekly_total": 636656,
+      "annual_revenue_approx": 38199364,
+      "annual_expenses_approx": 30559491,
+      "sponsorship_value_annual": 6366560
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Chicago Fire FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_chicago_fire_temp",
+      "manager_name": "Manager Chicago Fire FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 14,
+      "coaching_defense": 11,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 64,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 74,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_290",
+    "name": "Nashville SC",
+    "nickname": "NSC",
+    "established_year": 2016,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Geodis Park",
+      "city": "Nashville",
+      "country": "United States",
+      "capacity": 30000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 22452032,
+      "wage_budget_weekly_total": 748401,
+      "annual_revenue_approx": 44904064,
+      "annual_expenses_approx": 35923251,
+      "sponsorship_value_annual": 7484010
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager Nashville SC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_nashville_sc_temp",
+      "manager_name": "Manager Nashville SC"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 16,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 59,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 73,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_291",
+    "name": "Real Salt Lake",
+    "nickname": "RSL",
+    "established_year": 2004,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "America First Field",
+      "city": "Sandy",
+      "country": "United States",
+      "capacity": 20213
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10197849,
+      "wage_budget_weekly_total": 339928,
+      "annual_revenue_approx": 20395698,
+      "annual_expenses_approx": 16316558,
+      "sponsorship_value_annual": 3399283
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager Real Salt Lake",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_real_salt_lake_temp",
+      "manager_name": "Manager Real Salt Lake"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 76,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#0000FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_292",
+    "name": "Houston Dynamo FC",
+    "nickname": "The Dynamo",
+    "established_year": 2005,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Shell Energy Stadium",
+      "city": "Houston",
+      "country": "United States",
+      "capacity": 22039
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 17754540,
+      "wage_budget_weekly_total": 591818,
+      "annual_revenue_approx": 35509080,
+      "annual_expenses_approx": 28407264,
+      "sponsorship_value_annual": 5918180
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager Houston Dynamo FC",
+      "nationality_code": "USA",
+      "preferred_formation": "3-5-2",
+      "manager_id": "mgr_club_houston_dynamo_temp",
+      "manager_name": "Manager Houston Dynamo FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 12,
+      "coaching_defense": 15,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 78,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_293",
+    "name": "Colorado Rapids",
+    "nickname": "The Rapids",
+    "established_year": 1995,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Dick's Sporting Goods Park",
+      "city": "Commerce City",
+      "country": "United States",
+      "capacity": 18061
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 23823075,
+      "wage_budget_weekly_total": 794102,
+      "annual_revenue_approx": 47646150,
+      "annual_expenses_approx": 38116920,
+      "sponsorship_value_annual": 7941025
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager Colorado Rapids",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_colorado_rapids_temp",
+      "manager_name": "Manager Colorado Rapids"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 15,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 64,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_294",
+    "name": "Philadelphia Union",
+    "nickname": "The U",
+    "established_year": 2008,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Subaru Park",
+      "city": "Chester",
+      "country": "United States",
+      "capacity": 18500
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 24284946,
+      "wage_budget_weekly_total": 809498,
+      "annual_revenue_approx": 48569892,
+      "annual_expenses_approx": 38855913,
+      "sponsorship_value_annual": 8094982
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager Philadelphia Union",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_philadelphia_union_temp",
+      "manager_name": "Manager Philadelphia Union"
+    },
+    "staff_quality": {
+      "coaching_attack": 10,
+      "coaching_defense": 13,
+      "coaching_fitness": 16,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 62,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 79,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_295",
+    "name": "New England Revolution",
+    "nickname": "The Revs",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Gillette Stadium",
+      "city": "Foxborough",
+      "country": "United States",
+      "capacity": 20000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 19903467,
+      "wage_budget_weekly_total": 663448,
+      "annual_revenue_approx": 39806934,
+      "annual_expenses_approx": 31845547,
+      "sponsorship_value_annual": 6634489
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager New England Revolution",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_new_england_revolution_temp",
+      "manager_name": "Manager New England Revolution"
+    },
+    "staff_quality": {
+      "coaching_attack": 15,
+      "coaching_defense": 14,
+      "coaching_fitness": 12,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 59,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 71,
+      "youth_academy_rating": 15,
+      "training_facilities_rating": 14
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_296",
+    "name": "Sporting Kansas City",
+    "nickname": "Sporting",
+    "established_year": 1995,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Children's Mercy Park",
+      "city": "Kansas City",
+      "country": "United States",
+      "capacity": 18467
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 24740778,
+      "wage_budget_weekly_total": 824692,
+      "annual_revenue_approx": 49481556,
+      "annual_expenses_approx": 39585244,
+      "sponsorship_value_annual": 8246926
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager Sporting Kansas City",
+      "nationality_code": "USA",
+      "preferred_formation": "4-2-3-1",
+      "manager_id": "mgr_club_sporting_kc_temp",
+      "manager_name": "Manager Sporting Kansas City"
+    },
+    "staff_quality": {
+      "coaching_attack": 11,
+      "coaching_defense": 14,
+      "coaching_fitness": 15,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 16
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "3-5-2",
+      "playing_style_primary": "Direct Play",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_297",
+    "name": "CF Montréal",
+    "nickname": "CFMTL",
+    "established_year": 2010,
+    "country_code": "CAN",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Stade Saputo",
+      "city": "Montreal",
+      "country": "Canada",
+      "capacity": 19619
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 21011981,
+      "wage_budget_weekly_total": 700399,
+      "annual_revenue_approx": 42023962,
+      "annual_expenses_approx": 33619169,
+      "sponsorship_value_annual": 7003993
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "manager_details": {
+      "name": "Manager CF Montréal",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_cf_montreal_temp",
+      "manager_name": "Manager CF Montréal"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 12,
+      "coaching_fitness": 11,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 64,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 66,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    },
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_298",
+    "name": "D.C. United",
+    "nickname": "United",
+    "established_year": 1994,
+    "country_code": "USA",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "Audi Field",
+      "city": "Washington",
+      "country": "United States",
+      "capacity": 20000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 20972355,
+      "wage_budget_weekly_total": 699078,
+      "annual_revenue_approx": 41944710,
+      "annual_expenses_approx": 33555768,
+      "sponsorship_value_annual": 6990785
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "manager_details": {
+      "name": "Manager D.C. United",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_dc_united_temp",
+      "manager_name": "Manager D.C. United"
+    },
+    "staff_quality": {
+      "coaching_attack": 16,
+      "coaching_defense": 10,
+      "coaching_fitness": 14,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 56,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 72,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 12
+    },
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-3-3",
+      "playing_style_primary": "Counter Attack",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  },
+  {
+    "id": "01_299",
+    "name": "Toronto FC",
+    "nickname": "TFC",
+    "established_year": 2005,
+    "country_code": "CAN",
+    "league_id": "00_21",
+    "stadium": {
+      "name": "BMO Field",
+      "city": "Toronto",
+      "country": "Canada",
+      "capacity": 28026
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 23440921,
+      "wage_budget_weekly_total": 781364,
+      "annual_revenue_approx": 46881842,
+      "annual_expenses_approx": 37505473,
+      "sponsorship_value_annual": 7813640
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "MLS participation"
+      ],
+      "legendary_player_names": []
+    },
+    "squad_meta": {
+      "target_squad_size": 28,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "manager_details": {
+      "name": "Manager Toronto FC",
+      "nationality_code": "USA",
+      "preferred_formation": "4-3-3",
+      "manager_id": "mgr_club_toronto_fc_temp",
+      "manager_name": "Manager Toronto FC"
+    },
+    "staff_quality": {
+      "coaching_attack": 10,
+      "coaching_defense": 15,
+      "coaching_fitness": 11,
+      "scouting_network_reach": "Regional"
+    },
+    "attributes": {
+      "reputation": 66,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Regional",
+      "fan_morale_default": 80,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    },
+    "colors": {
+      "primary": "#00FF00",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "rival_club_ids": [],
+    "ai_behavior": {
+      "preferred_formation_default": "4-2-3-1",
+      "playing_style_primary": "Possession Control",
+      "transfer_policy": "Mix Youth and Stars"
+    }
+  }
+]

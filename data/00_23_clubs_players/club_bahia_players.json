@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Gustavo Ferreira",
+    "age": 25,
+    "position": "GK",
+    "nationality": "Brazil",
+    "current_ability": 65,
+    "potential_ability": 78,
+    "market_value": 6874999,
+    "attributes": {
+      "pace": 50,
+      "shooting": 53,
+      "passing": 59,
+      "defending": 58,
+      "dribbling": 56,
+      "physical": 56
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 85674,
+      "release_clause": 69331553
+    },
+    "traits": [
+      "Clinical Finisher"
+    ],
+    "player_id": "11_1372"
+  },
+  {
+    "name": "João Teixeira",
+    "age": 21,
+    "position": "GK",
+    "nationality": "Brazil",
+    "current_ability": 86,
+    "potential_ability": 99,
+    "market_value": 13570000,
+    "attributes": {
+      "pace": 80,
+      "shooting": 72,
+      "passing": 89,
+      "defending": 72,
+      "dribbling": 91,
+      "physical": 72
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 110620,
+      "release_clause": 48717229
+    },
+    "traits": [
+      "Consistent Performer"
+    ],
+    "player_id": "11_1373"
+  },
+  {
+    "name": "Lucas Moura",
+    "age": 24,
+    "position": "CB",
+    "nationality": "Brazil",
+    "current_ability": 78,
+    "potential_ability": 87,
+    "market_value": 10639999,
+    "attributes": {
+      "pace": 75,
+      "shooting": 70,
+      "passing": 75,
+      "defending": 81,
+      "dribbling": 75,
+      "physical": 83
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 131535,
+      "release_clause": 9456499
+    },
+    "traits": [
+      "Leadership",
+      "Big Game Player",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1374"
+  },
+  {
+    "name": "Júnior Cunha",
+    "age": 18,
+    "position": "CB",
+    "nationality": "Brazil",
+    "current_ability": 71,
+    "potential_ability": 75,
+    "market_value": 9610000,
+    "attributes": {
+      "pace": 60,
+      "shooting": 75,
+      "passing": 64,
+      "defending": 72,
+      "dribbling": 66,
+      "physical": 72
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2024-06-30",
+      "weekly_wage": 142752,
+      "release_clause": 14328790
+    },
+    "traits": [
+      "Flair",
+      "Playmaker",
+      "Speed Demon"
+    ],
+    "player_id": "11_1375"
+  },
+  {
+    "name": "Alex Cardoso",
+    "age": 35,
+    "position": "CB",
+    "nationality": "Brazil",
+    "current_ability": 88,
+    "potential_ability": 86,
+    "market_value": 10799999,
+    "attributes": {
+      "pace": 91,
+      "shooting": 73,
+      "passing": 78,
+      "defending": 88,
+      "dribbling": 90,
+      "physical": 77
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 109373,
+      "release_clause": 41248641
+    },
+    "traits": [
+      "Defensive Wall"
+    ],
+    "player_id": "11_1376"
+  },
+  {
+    "name": "Leandro Nunes",
+    "age": 33,
+    "position": "CB",
+    "nationality": "Brazil",
+    "current_ability": 77,
+    "potential_ability": 76,
+    "market_value": 8695000,
+    "attributes": {
+      "pace": 79,
+      "shooting": 81,
+      "passing": 67,
+      "defending": 86,
+      "dribbling": 75,
+      "physical": 78
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 110060,
+      "release_clause": 85931733
+    },
+    "traits": [
+      "Injury Prone",
+      "Consistent Performer",
+      "Defensive Wall"
+    ],
+    "player_id": "11_1377"
+  },
+  {
+    "name": "Gabriel Monteiro",
+    "age": 33,
+    "position": "LB",
+    "nationality": "Brazil",
+    "current_ability": 68,
+    "potential_ability": 78,
+    "market_value": 6580000,
+    "attributes": {
+      "pace": 67,
+      "shooting": 63,
+      "passing": 53,
+      "defending": 63,
+      "dribbling": 63,
+      "physical": 53
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 64132,
+      "release_clause": 47874098
+    },
+    "traits": [
+      "Versatile",
+      "Flair",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1378"
+  },
+  {
+    "name": "Militão Jesus",
+    "age": 21,
+    "position": "LB",
+    "nationality": "Brazil",
+    "current_ability": 80,
+    "potential_ability": 83,
+    "market_value": 11800000,
+    "attributes": {
+      "pace": 87,
+      "shooting": 71,
+      "passing": 68,
+      "defending": 76,
+      "dribbling": 85,
+      "physical": 85
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 84370,
+      "release_clause": 89865350
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1379"
+  },
+  {
+    "name": "Casemiro Pinto",
+    "age": 33,
+    "position": "RB",
+    "nationality": "Brazil",
+    "current_ability": 82,
+    "potential_ability": 87,
+    "market_value": 9870000,
+    "attributes": {
+      "pace": 86,
+      "shooting": 82,
+      "passing": 73,
+      "defending": 90,
+      "dribbling": 69,
+      "physical": 79
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 89029,
+      "release_clause": 45530281
+    },
+    "traits": [
+      "Speed Demon",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_1380"
+  },
+  {
+    "name": "Juliano Lopes",
+    "age": 18,
+    "position": "RB",
+    "nationality": "Brazil",
+    "current_ability": 67,
+    "potential_ability": 80,
+    "market_value": 8370000,
+    "attributes": {
+      "pace": 67,
+      "shooting": 68,
+      "passing": 54,
+      "defending": 70,
+      "dribbling": 56,
+      "physical": 52
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 106324,
+      "release_clause": 52814981
+    },
+    "traits": [
+      "Playmaker",
+      "Leadership"
+    ],
+    "player_id": "11_1381"
+  },
+  {
+    "name": "Pedro Martins",
+    "age": 30,
+    "position": "DM",
+    "nationality": "Brazil",
+    "current_ability": 86,
+    "potential_ability": 99,
+    "market_value": 11500000,
+    "attributes": {
+      "pace": 88,
+      "shooting": 86,
+      "passing": 89,
+      "defending": 73,
+      "dribbling": 81,
+      "physical": 78
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 108441,
+      "release_clause": 98639546
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Versatile",
+      "Playmaker"
+    ],
+    "player_id": "11_1382"
+  },
+  {
+    "name": "Alex Pinto",
+    "age": 25,
+    "position": "DM",
+    "nationality": "Brazil",
+    "current_ability": 66,
+    "potential_ability": 74,
+    "market_value": 7149999,
+    "attributes": {
+      "pace": 66,
+      "shooting": 54,
+      "passing": 76,
+      "defending": 58,
+      "dribbling": 52,
+      "physical": 52
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 44062,
+      "release_clause": 48343665
+    },
+    "traits": [
+      "Playmaker",
+      "Speed Demon",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1383"
+  },
+  {
+    "name": "Roberto Silva",
+    "age": 28,
+    "position": "CM",
+    "nationality": "Brazil",
+    "current_ability": 68,
+    "potential_ability": 83,
+    "market_value": 7280000,
+    "attributes": {
+      "pace": 67,
+      "shooting": 56,
+      "passing": 65,
+      "defending": 69,
+      "dribbling": 56,
+      "physical": 67
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 104983,
+      "release_clause": 55232980
+    },
+    "traits": [
+      "Big Game Player",
+      "Versatile",
+      "Clinical Finisher"
+    ],
+    "player_id": "11_1384"
+  },
+  {
+    "name": "Ricardo Oliveira",
+    "age": 35,
+    "position": "CM",
+    "nationality": "Brazil",
+    "current_ability": 85,
+    "potential_ability": 95,
+    "market_value": 10124999,
+    "attributes": {
+      "pace": 77,
+      "shooting": 74,
+      "passing": 90,
+      "defending": 80,
+      "dribbling": 83,
+      "physical": 70
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 92326,
+      "release_clause": 99336360
+    },
+    "traits": [
+      "Injury Prone",
+      "Playmaker",
+      "Speed Demon"
+    ],
+    "player_id": "11_1385"
+  },
+  {
+    "name": "Guilherme Alves",
+    "age": 22,
+    "position": "CM",
+    "nationality": "Brazil",
+    "current_ability": 86,
+    "potential_ability": 99,
+    "market_value": 13340000,
+    "attributes": {
+      "pace": 72,
+      "shooting": 74,
+      "passing": 88,
+      "defending": 81,
+      "dribbling": 82,
+      "physical": 91
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 121993,
+      "release_clause": 10806232
+    },
+    "traits": [
+      "Flair",
+      "Big Game Player",
+      "Speed Demon"
+    ],
+    "player_id": "11_1386"
+  },
+  {
+    "name": "Júnior Coelho",
+    "age": 20,
+    "position": "CM",
+    "nationality": "Brazil",
+    "current_ability": 83,
+    "potential_ability": 90,
+    "market_value": 12900000,
+    "attributes": {
+      "pace": 84,
+      "shooting": 69,
+      "passing": 89,
+      "defending": 70,
+      "dribbling": 88,
+      "physical": 84
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 71186,
+      "release_clause": 27629998
+    },
+    "traits": [
+      "Leadership",
+      "Big Game Player"
+    ],
+    "player_id": "11_1387"
+  },
+  {
+    "name": "Alexandre Barbosa",
+    "age": 18,
+    "position": "LM",
+    "nationality": "Brazil",
+    "current_ability": 75,
+    "potential_ability": 80,
+    "market_value": 10850000,
+    "attributes": {
+      "pace": 77,
+      "shooting": 80,
+      "passing": 68,
+      "defending": 69,
+      "dribbling": 80,
+      "physical": 67
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 10766,
+      "release_clause": 8723314
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_1388"
+  },
+  {
+    "name": "Oscar Azevedo",
+    "age": 30,
+    "position": "LM",
+    "nationality": "Brazil",
+    "current_ability": 84,
+    "potential_ability": 91,
+    "market_value": 11000000,
+    "attributes": {
+      "pace": 84,
+      "shooting": 75,
+      "passing": 76,
+      "defending": 82,
+      "dribbling": 88,
+      "physical": 87
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "weekly_wage": 15677,
+      "release_clause": 19527546
+    },
+    "traits": [
+      "Versatile",
+      "Injury Prone"
+    ],
+    "player_id": "11_1389"
+  },
+  {
+    "name": "Bruno Cardoso",
+    "age": 25,
+    "position": "RM",
+    "nationality": "Brazil",
+    "current_ability": 60,
+    "potential_ability": 66,
+    "market_value": 5499999,
+    "attributes": {
+      "pace": 57,
+      "shooting": 54,
+      "passing": 50,
+      "defending": 48,
+      "dribbling": 63,
+      "physical": 50
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 65833,
+      "release_clause": 58024983
+    },
+    "traits": [
+      "Consistent Performer"
+    ],
+    "player_id": "11_1390"
+  },
+  {
+    "name": "Juliano Teixeira",
+    "age": 19,
+    "position": "RM",
+    "nationality": "Brazil",
+    "current_ability": 65,
+    "potential_ability": 65,
+    "market_value": 7625000,
+    "attributes": {
+      "pace": 67,
+      "shooting": 59,
+      "passing": 52,
+      "defending": 57,
+      "dribbling": 66,
+      "physical": 64
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 29021,
+      "release_clause": 53562300
+    },
+    "traits": [
+      "Defensive Wall",
+      "Flair",
+      "Injury Prone"
+    ],
+    "player_id": "11_1391"
+  },
+  {
+    "name": "Ederson Souza",
+    "age": 28,
+    "position": "AM",
+    "nationality": "Brazil",
+    "current_ability": 81,
+    "potential_ability": 88,
+    "market_value": 10660000,
+    "attributes": {
+      "pace": 86,
+      "shooting": 82,
+      "passing": 84,
+      "defending": 70,
+      "dribbling": 84,
+      "physical": 67
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 128263,
+      "release_clause": 57364835
+    },
+    "traits": [
+      "Defensive Wall"
+    ],
+    "player_id": "11_1392"
+  },
+  {
+    "name": "Diego Freitas",
+    "age": 29,
+    "position": "AM",
+    "nationality": "Brazil",
+    "current_ability": 83,
+    "potential_ability": 86,
+    "market_value": 10965000,
+    "attributes": {
+      "pace": 82,
+      "shooting": 77,
+      "passing": 78,
+      "defending": 76,
+      "dribbling": 88,
+      "physical": 74
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 15013,
+      "release_clause": 78958064
+    },
+    "traits": [
+      "Defensive Wall",
+      "Speed Demon"
+    ],
+    "player_id": "11_1393"
+  },
+  {
+    "name": "Gabriel Oliveira",
+    "age": 26,
+    "position": "LW",
+    "nationality": "Brazil",
+    "current_ability": 80,
+    "potential_ability": 78,
+    "market_value": 10800000,
+    "attributes": {
+      "pace": 77,
+      "shooting": 73,
+      "passing": 68,
+      "defending": 77,
+      "dribbling": 81,
+      "physical": 68
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 128712,
+      "release_clause": 21208464
+    },
+    "traits": [
+      "Clinical Finisher",
+      "Playmaker"
+    ],
+    "player_id": "11_1394"
+  },
+  {
+    "name": "Paulo Mendes",
+    "age": 27,
+    "position": "LW",
+    "nationality": "Brazil",
+    "current_ability": 85,
+    "potential_ability": 91,
+    "market_value": 11925000,
+    "attributes": {
+      "pace": 91,
+      "shooting": 77,
+      "passing": 73,
+      "defending": 74,
+      "dribbling": 85,
+      "physical": 87
+    },
+    "contract": {
+      "start_date": "2022-07-01",
+      "end_date": "2025-06-30",
+      "weekly_wage": 126562,
+      "release_clause": 51412754
+    },
+    "traits": [
+      "Leadership",
+      "Versatile",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1395"
+  },
+  {
+    "name": "Felipe Monteiro",
+    "age": 34,
+    "position": "RW",
+    "nationality": "Brazil",
+    "current_ability": 72,
+    "potential_ability": 85,
+    "market_value": 7359999,
+    "attributes": {
+      "pace": 73,
+      "shooting": 62,
+      "passing": 66,
+      "defending": 64,
+      "dribbling": 73,
+      "physical": 70
+    },
+    "contract": {
+      "start_date": "2024-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 106506,
+      "release_clause": 76824924
+    },
+    "traits": [
+      "Big Game Player"
+    ],
+    "player_id": "11_1396"
+  },
+  {
+    "name": "David Fonseca",
+    "age": 18,
+    "position": "RW",
+    "nationality": "Brazil",
+    "current_ability": 67,
+    "potential_ability": 66,
+    "market_value": 8370000,
+    "attributes": {
+      "pace": 76,
+      "shooting": 57,
+      "passing": 70,
+      "defending": 70,
+      "dribbling": 65,
+      "physical": 64
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2029-06-30",
+      "weekly_wage": 121238,
+      "release_clause": 71575596
+    },
+    "traits": [
+      "Injury Prone",
+      "Consistent Performer",
+      "Big Game Player"
+    ],
+    "player_id": "11_1397"
+  },
+  {
+    "name": "Danilo Ferreira",
+    "age": 27,
+    "position": "ST",
+    "nationality": "Brazil",
+    "current_ability": 76,
+    "potential_ability": 82,
+    "market_value": 9540000,
+    "attributes": {
+      "pace": 81,
+      "shooting": 63,
+      "passing": 73,
+      "defending": 76,
+      "dribbling": 69,
+      "physical": 64
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 130991,
+      "release_clause": 13716609
+    },
+    "traits": [
+      "Injury Prone",
+      "Leadership",
+      "Big Game Player"
+    ],
+    "player_id": "11_1398"
+  },
+  {
+    "name": "Everton Barbosa",
+    "age": 23,
+    "position": "ST",
+    "nationality": "Brazil",
+    "current_ability": 78,
+    "potential_ability": 79,
+    "market_value": 10830000,
+    "attributes": {
+      "pace": 76,
+      "shooting": 64,
+      "passing": 80,
+      "defending": 77,
+      "dribbling": 77,
+      "physical": 82
+    },
+    "contract": {
+      "start_date": "2023-07-01",
+      "end_date": "2026-06-30",
+      "weekly_wage": 15766,
+      "release_clause": 28694001
+    },
+    "traits": [
+      "Consistent Performer",
+      "Defensive Wall",
+      "Leadership"
+    ],
+    "player_id": "11_1399"
+  },
+  {
+    "name": "Lucas Azevedo",
+    "age": 28,
+    "position": "ST",
+    "nationality": "Brazil",
+    "current_ability": 68,
+    "potential_ability": 80,
+    "market_value": 7280000,
+    "attributes": {
+      "pace": 70,
+      "shooting": 53,
+      "passing": 62,
+      "defending": 69,
+      "dribbling": 70,
+      "physical": 57
+    },
+    "contract": {
+      "start_date": "2025-07-01",
+      "end_date": "2027-06-30",
+      "weekly_wage": 15981,
+      "release_clause": 15075398
+    },
+    "traits": [
+      "Leadership",
+      "Consistent Performer"
+    ],
+    "player_id": "11_1400"
+  }
+]

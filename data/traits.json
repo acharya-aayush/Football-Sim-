@@ -1,0 +1,231 @@
+[
+  {
+    "id": "trait_leader",
+    "name": "Leader",
+    "description": "Takes charge on the pitch, vocal, inspires teammates",
+    "associated_positions": ["CB", "CM", "DM", "GK"],
+    "key_attributes": ["Leadership", "Composure", "Communication", "Determination", "Teamwork"],
+    "bonus_effects": [
+      "Leadership_boost",
+      "Determination_boost",
+      "Teamwork_boost"
+    ]
+  },
+  {
+    "id": "trait_hard_tackler",
+    "name": "Hard Tackler",
+    "description": "Aggressive in duels, commits to strong challenges",
+    "associated_positions": ["CB", "DM", "FB", "CM"],
+    "key_attributes": ["Tackling", "Aggression", "Strength", "Bravery"],
+    "bonus_effects": [
+      "Tackling_boost",
+      "Aggression_boost",
+      "Strength_boost"
+    ]
+  },
+  {
+    "id": "trait_dribbler",
+    "name": "Dribbler",
+    "description": "Confident running with the ball, beats players",
+    "associated_positions": ["W", "AM", "ST", "CM"],
+    "key_attributes": ["Dribbling", "Agility", "Flair", "Acceleration", "Balance"],
+    "bonus_effects": [
+      "Dribbling_boost",
+      "Agility_boost",
+      "Flair_boost"
+    ]
+  },
+  {
+    "id": "trait_pass_master",
+    "name": "Pass Master",
+    "description": "Looks for creative passing options constantly",
+    "associated_positions": ["CM", "AM", "DM"],
+    "key_attributes": ["Passing", "Vision", "Composure", "Technique", "FirstTouch", "Decisions"],
+    "bonus_effects": [
+      "Passing_boost",
+      "Vision_boost",
+      "Technique_boost"
+    ]
+  },
+  {
+    "id": "trait_poacher",
+    "name": "Poacher",
+    "description": "Always lurking for tap-ins and rebounds",
+    "associated_positions": ["ST"],
+    "key_attributes": ["Finishing", "OffTheBall", "Anticipation", "Composure", "Reactions"],
+    "bonus_effects": [
+      "Finishing_boost",
+      "OffTheBall_boost",
+      "Anticipation_boost"
+    ]
+  },
+  {
+    "id": "trait_crosser",
+    "name": "Crosser",
+    "description": "Loves to whip in early or dangerous crosses",
+    "associated_positions": ["W", "FB", "WB"],
+    "key_attributes": ["Crossing", "Technique", "Vision", "Passing"],
+    "bonus_effects": [
+      "Crossing_boost",
+      "Technique_boost"
+    ]
+  },
+  {
+    "id": "trait_set_piece_specialist",
+    "name": "Set-Piece Specialist",
+    "description": "Deadly with free kicks and corners",
+    "associated_positions": ["Any"],
+    "key_attributes": ["FreeKickTaking", "Corners", "Crossing", "Technique", "Composure", "LongShots"],
+    "bonus_effects": [
+      "FreeKickTaking_boost",
+      "Corners_boost",
+      "Technique_boost"
+    ]
+  },
+  {
+    "id": "trait_playmaker",
+    "name": "Playmaker",
+    "description": "Drops deep to dictate tempo and create from midfield",
+    "associated_positions": ["CM", "DM", "AM"],
+    "key_attributes": ["Passing", "Vision", "Composure", "Decisions", "FirstTouch", "Teamwork", "Technique"],
+    "bonus_effects": [
+      "Passing_boost",
+      "Vision_boost",
+      "Decisions_boost"
+    ]
+  },
+  {
+    "id": "trait_speedster",
+    "name": "Speedster",
+    "description": "Relies heavily on pace to get past opponents",
+    "associated_positions": ["W", "ST", "FB", "WB"],
+    "key_attributes": ["Pace", "Acceleration", "Agility"],
+    "bonus_effects": [
+      "Pace_boost",
+      "Acceleration_boost"
+    ]
+  },
+  {
+    "id": "trait_target_man",
+    "name": "Target Man",
+    "description": "Uses physicality to hold up the ball and link play",
+    "associated_positions": ["ST"],
+    "key_attributes": ["Strength", "Heading", "JumpingReach", "FirstTouch", "Teamwork", "Balance"],
+    "bonus_effects": [
+      "Strength_boost",
+      "Heading_boost",
+      "JumpingReach_boost"
+    ]
+  },
+  {
+    "id": "trait_ball_winner",
+    "name": "Ball-Winner",
+    "description": "Obsessed with recovering possession",
+    "associated_positions": ["DM", "CM", "CB", "FB"],
+    "key_attributes": ["Tackling", "WorkRate", "Stamina", "Aggression", "Anticipation", "Positioning", "Strength"],
+    "bonus_effects": [
+      "Tackling_boost",
+      "WorkRate_boost",
+      "Anticipation_boost"
+    ]
+  },
+  {
+    "id": "trait_inverted_winger",
+    "name": "Inverted Winger",
+    "description": "Cuts inside rather than going wide",
+    "associated_positions": ["W", "AM"],
+    "key_attributes": ["Dribbling", "Finishing", "LongShots", "Passing", "Agility", "Flair", "Technique"],
+    "bonus_effects": [
+      "Dribbling_boost",
+      "Finishing_boost",
+      "LongShots_boost"
+    ]
+  },
+  {
+    "id": "trait_overlapping_fullback",
+    "name": "Overlapping Fullback",
+    "description": "Pushes up aggressively to support attack",
+    "associated_positions": ["FB", "WB"],
+    "key_attributes": ["WorkRate", "Stamina", "Crossing", "Pace", "Dribbling", "OffTheBall"],
+    "bonus_effects": [
+      "WorkRate_boost",
+      "Crossing_boost",
+      "Pace_boost"
+    ]
+  },
+  {
+    "id": "trait_late_runner",
+    "name": "Late Runner",
+    "description": "Times runs into the box from deep positions",
+    "associated_positions": ["CM", "AM", "DM"],
+    "key_attributes": ["OffTheBall", "Finishing", "Anticipation", "WorkRate", "Composure", "Stamina"],
+    "bonus_effects": [
+      "OffTheBall_boost",
+      "Finishing_boost",
+      "Anticipation_boost"
+    ]
+  },
+  {
+    "id": "trait_clutch_finisher",
+    "name": "Clutch Finisher",
+    "description": "Calm under pressure, scores important goals",
+    "associated_positions": ["ST", "AM", "W"],
+    "key_attributes": ["Finishing", "Composure", "Decisions", "Anticipation", "MentalStrength"],
+    "bonus_effects": [
+      "Finishing_boost",
+      "Composure_boost",
+      "MentalStrength_boost"
+    ]
+  },
+  {
+    "id": "trait_long_throw",
+    "name": "Long Throw",
+    "description": "Can hurl the ball a great distance from throw-ins, creating attacking opportunities.",
+    "associated_positions": ["FB", "WB"],
+    "key_attributes": ["long_throws", "strength"],
+    "bonus_effects": [
+      "long_throws_boost",
+      "strength_boost"
+    ]
+  },
+  {
+    "id": "trait_star_player_1",
+    "name": "Star Player (1-Star)",
+    "description": "Shows flashes of star potential, can occasionally produce a special moment.",
+    "associated_positions": ["All"],
+    "key_attributes": ["determination", "important_matches", "flair", "current_ability"],
+    "bonus_effects": ["minor_determination_boost", "minor_important_matches_boost", "minor_flair_boost", "occasional_impact_effect"]
+  },
+  {
+    "id": "trait_star_player_2",
+    "name": "Star Player (2-Star)",
+    "description": "A talented player who can influence games more regularly with key contributions.",
+    "associated_positions": ["All"],
+    "key_attributes": ["determination", "important_matches", "flair", "current_ability", "composure"],
+    "bonus_effects": ["moderate_determination_boost", "moderate_important_matches_boost", "moderate_flair_boost", "moderate_composure_boost", "regular_impact_effect"]
+  },
+  {
+    "id": "trait_star_player_3",
+    "name": "Star Player (3-Star)",
+    "description": "A consistent high-performer, capable of turning matches and often a key player.",
+    "associated_positions": ["All"],
+    "key_attributes": ["determination", "important_matches", "flair", "current_ability", "composure", "decisions"],
+    "bonus_effects": ["significant_determination_boost", "significant_important_matches_boost", "significant_flair_boost", "significant_composure_boost", "key_player_impact_effect"]
+  },
+  {
+    "id": "trait_star_player_4",
+    "name": "Star Player (4-Star)",
+    "description": "An outstanding player, frequently decisive and capable of extraordinary moments. Verging on world-class.",
+    "associated_positions": ["All"],
+    "key_attributes": ["determination", "important_matches", "flair", "current_ability", "composure", "decisions", "leadership"],
+    "bonus_effects": ["major_determination_boost", "major_important_matches_boost", "major_flair_boost", "major_composure_boost", "decisive_player_impact_effect"]
+  },
+  {
+    "id": "trait_star_player_5",
+    "name": "Star Player (5-Star Elite)",
+    "description": "A generational talent, a true game-changer who consistently delivers world-class performances and defines matches.",
+    "associated_positions": ["All"],
+    "key_attributes": ["determination", "important_matches", "flair", "current_ability", "composure", "decisions", "leadership", "mental_strength"],
+    "bonus_effects": ["elite_determination_boost", "elite_important_matches_boost", "elite_flair_boost", "elite_composure_boost", "game_defining_impact_effect"]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "01_175",
+    "name": "Olympiacos FC",
+    "nickname": "Thrylos (Legend)",
+    "established_year": 1925,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Karaiskakis Stadium",
+      "city": "Piraeus",
+      "country": "Greece",
+      "capacity": 32115
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 25000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 70000000,
+      "annual_expenses_approx": 60000000,
+      "sponsorship_value_annual": 20000000
+    },
+    "history": {
+      "league_titles_domestic": 47,
+      "domestic_cup_wins": 28,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Champions League quarter-finals",
+        "Europa League quarter-finals",
+        "Most successful Greek club"
+      ],
+      "legendary_player_names": [
+        "Predrag Djordjevic",
+        "Giovanni Silva de Oliveira",
+        "Vasilis Hatzipanagis"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 73,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 15
+    }
+  },
+  {
+    "id": "01_176",
+    "name": "Panathinaikos FC",
+    "nickname": "The Greens",
+    "established_year": 1908,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Apostolos Nikolaidis Stadium",
+      "city": "Athens",
+      "country": "Greece",
+      "capacity": 16620
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 20000000,
+      "wage_budget_weekly_total": 700000,
+      "annual_revenue_approx": 65000000,
+      "annual_expenses_approx": 55000000,
+      "sponsorship_value_annual": 18000000
+    },
+    "history": {
+      "league_titles_domestic": 20,
+      "domestic_cup_wins": 19,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "European Cup finalists (1971)",
+        "Champions League semi-finals (1996)",
+        "Only Greek club to reach European Cup final"
+      ],
+      "legendary_player_names": [
+        "Mimis Domazos",
+        "Krzysztof Warzycha",
+        "Djibril Cisse"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    }
+  },
+  {
+    "id": "01_177",
+    "name": "AEK Athens FC",
+    "nickname": "Enosis (Union)",
+    "established_year": 1924,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "OPAP Arena",
+      "city": "Athens",
+      "country": "Greece",
+      "capacity": 32500
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 600000,
+      "annual_revenue_approx": 55000000,
+      "annual_expenses_approx": 45000000,
+      "sponsorship_value_annual": 15000000
+    },
+    "history": {
+      "league_titles_domestic": 13,
+      "domestic_cup_wins": 15,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "UEFA Europa League semi-finalists (1977)",
+        "Recent league title after 24-year wait (2018)",
+        "Founded by refugees from Constantinople"
+      ],
+      "legendary_player_names": [
+        "Mimis Papaioannou",
+        "Demis Nikolaidis",
+        "Stelios Manolas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 14
+    }
+  },
+  {
+    "id": "01_178",
+    "name": "PAOK FC",
+    "nickname": "The Double-Headed Eagle",
+    "established_year": 1926,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Toumba Stadium",
+      "city": "Thessaloniki",
+      "country": "Greece",
+      "capacity": 28703
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 550000,
+      "annual_revenue_approx": 50000000,
+      "annual_expenses_approx": 43000000,
+      "sponsorship_value_annual": 14000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 8,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "European Cup quarter-finals (1974)",
+        "Undefeated league champions (2018-19)",
+        "Strong regional identity and loyal fanbase"
+      ],
+      "legendary_player_names": [
+        "Giorgos Koudas",
+        "Theo Zagorakis",
+        "Dimitris Salpingidis"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_179",
+    "name": "Aris Thessaloniki FC",
+    "nickname": "God of War",
+    "established_year": 1914,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Kleanthis Vikelidis Stadium",
+      "city": "Thessaloniki",
+      "country": "Greece",
+      "capacity": 22800
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 8000000,
+      "wage_budget_weekly_total": 300000,
+      "annual_revenue_approx": 25000000,
+      "annual_expenses_approx": 20000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Legendary unbeaten home run (1964-1969)",
+        "24 consecutive seasons in European competitions",
+        "Return to prominence after financial difficulties"
+      ],
+      "legendary_player_names": [
+        "Kostas Hatzidoukas",
+        "Ioannis Damanakis",
+        "Alketas Panagoulias"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_180",
+    "name": "OFI Crete FC",
+    "nickname": "Omilος Filάthlon Iraklείou",
+    "established_year": 1925,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Theodoros Vardinogiannis Stadium",
+      "city": "Heraklion",
+      "country": "Greece",
+      "capacity": 8500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 13000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Greek Cup winners (1987)",
+        "UEFA Cup appearances",
+        "Representing Crete in Greek football"
+      ],
+      "legendary_player_names": [
+        "Eugène Gerards",
+        "Nikos Machlas",
+        "Kostas Kiassos"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_181",
+    "name": "Asteras Tripolis FC",
+    "nickname": "The Star",
+    "established_year": 1931,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Theodoros Kolokotronis Stadium",
+      "city": "Tripoli",
+      "country": "Greece",
+      "capacity": 7442
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 4000000,
+      "wage_budget_weekly_total": 200000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 13000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Europa League group stage appearances",
+        "Rapid rise from lower divisions to Super League",
+        "Greek Cup finalists"
+      ],
+      "legendary_player_names": [
+        "Fernando Usero",
+        "Dorin Goian",
+        "Pablo De Blasis"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 11,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_182",
+    "name": "Atromitos FC",
+    "nickname": "The Fearless",
+    "established_year": 1923,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Peristeri Stadium",
+      "city": "Athens",
+      "country": "Greece",
+      "capacity": 10200
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3500000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 13000000,
+      "annual_expenses_approx": 11000000,
+      "sponsorship_value_annual": 3500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Greek Cup finalists (multiple times)",
+        "Europa League qualifications",
+        "Consistent Super League performances"
+      ],
+      "legendary_player_names": [
+        "Vassilis Karapialis",
+        "Sokratis Fytanidis",
+        "Efstathios Tavlaridis"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 54,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 55,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 11
+    }
+  },
+  {
+    "id": "01_183",
+    "name": "Volos FC",
+    "nickname": "The Blue and White",
+    "established_year": 2017,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Panthessaliko Stadium",
+      "city": "Volos",
+      "country": "Greece",
+      "capacity": 22700
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 3000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Rapid rise through Greek football pyramid",
+        "Super League promotion (2019)",
+        "Establishment following merger"
+      ],
+      "legendary_player_names": [
+        "Juan Munafo",
+        "Nikola Ninković",
+        "Tasos Douvikas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_184",
+    "name": "Panetolikos FC",
+    "nickname": "The Canaries",
+    "established_year": 1926,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Panetolikos Stadium",
+      "city": "Agrinio",
+      "country": "Greece",
+      "capacity": 7500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 10000000,
+      "annual_expenses_approx": 9000000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Super League promotion and stability",
+        "Regional powerhouse from Western Greece",
+        "Youth development focus"
+      ],
+      "legendary_player_names": [
+        "Epaminondas Pantelakis",
+        "Markos Vellidis",
+        "Stratos Svarnas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_185",
+    "name": "PAS Lamia 1964",
+    "nickname": "The Blue and White",
+    "established_year": 1964,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Lamia Municipal Stadium",
+      "city": "Lamia",
+      "country": "Greece",
+      "capacity": 5500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Super League promotion (2017)",
+        "Greek Cup semi-finals",
+        "Established position in Greek top flight"
+      ],
+      "legendary_player_names": [
+        "Panagiotis Linardos",
+        "Noé Acosta",
+        "Tasos Karamanos"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 48,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_186",
+    "name": "Levadiakos FC",
+    "nickname": "The Green and Blues",
+    "established_year": 1961,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Livadeia Municipal Stadium",
+      "city": "Livadeia",
+      "country": "Greece",
+      "capacity": 5915
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 120000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Multiple Super League promotions",
+        "Yo-yo club between top tiers",
+        "Regional representation in top flight"
+      ],
+      "legendary_player_names": [
+        "Dimitris Platanias",
+        "Ibrahima Bakayoko",
+        "Dimitrios Tsatsos"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 48,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_187",
+    "name": "Panserraikos FC",
+    "nickname": "The Lions of Serres",
+    "established_year": 1946,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Serres Municipal Stadium",
+      "city": "Serres",
+      "country": "Greece",
+      "capacity": 9500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 100000,
+      "annual_revenue_approx": 7000000,
+      "annual_expenses_approx": 6500000,
+      "sponsorship_value_annual": 1500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Return to Super League",
+        "Super League 2 champions",
+        "Regional pride of Macedonia"
+      ],
+      "legendary_player_names": [
+        "Kostas Vasilakakis",
+        "Roberto Punčec",
+        "Dimitris Pinakas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 45,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 8,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_188",
+    "name": "Athens Kallithea FC",
+    "nickname": "The Light Blues",
+    "established_year": 1966,
+    "country_code": "GRE",
+    "league_id": "00_20",
+    "stadium": {
+      "name": "Grigoris Lambrakis Stadium",
+      "city": "Athens",
+      "country": "Greece",
+      "capacity": 4250
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 1500000,
+      "wage_budget_weekly_total": 100000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 1500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Promotion to Super League",
+        "Super League 2 strong performances",
+        "Return after financial difficulties"
+      ],
+      "legendary_player_names": [
+        "Stelios Malezas",
+        "Nikos Machlas",
+        "Thanasis Dinas"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 22,
+      "key_player_ids": [],
+      "youth_development_focus": "Low"
+    },
+    "attributes": {
+      "reputation": 45,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 8,
+      "training_facilities_rating": 8
+    }
+  }
+]

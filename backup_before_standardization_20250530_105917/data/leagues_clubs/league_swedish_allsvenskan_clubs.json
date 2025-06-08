@@ -1,0 +1,18 @@
+[
+  { "id": "club_malmo_ff", "name": "Malmö FF", "stadium": {"name":"Eleda Stadion","city":"Malmö","country":"Sweden","capacity":24000}, "financials": {}, "history": {} },
+  { "id": "club_aik", "name": "AIK", "stadium": {"name":"Friends Arena","city":"Stockholm","country":"Sweden","capacity":50000}, "financials": {}, "history": {} },
+  { "id": "club_djurgardens_if", "name": "Djurgårdens IF", "stadium": {"name":"Tele2 Arena","city":"Stockholm","country":"Sweden","capacity":30000}, "financials": {}, "history": {} },
+  { "id": "club_iff_goteborg", "name": "IFK Göteborg", "stadium": {"name":"Ullevi","city":"Göteborg","country":"Sweden","capacity":43000}, "financials": {}, "history": {} },
+  { "id": "club_hammarby_if", "name": "Hammarby IF", "stadium": {"name":"Tele2 Arena","city":"Stockholm","country":"Sweden","capacity":30000}, "financials": {}, "history": {} },
+  { "id": "club_if_elfsborg", "name": "IF Elfsborg", "stadium": {"name":"Borås Arena","city":"Borås","country":"Sweden","capacity":17800}, "financials": {}, "history": {} },
+  { "id": "club_bk_hacken", "name": "BK Häcken", "stadium": {"name":"Bravida Arena","city":"Göteborg","country":"Sweden","capacity":6500}, "financials": {}, "history": {} },
+  { "id": "club_ifk_norrkoping", "name": "IFK Norrköping", "stadium": {"name":"Östgötaporten","city":"Norrköping","country":"Sweden","capacity":17234}, "financials": {}, "history": {} },
+  { "id": "club_halmstads_bk", "name": "Halmstads BK", "stadium": {"name":"Örjans Vall","city":"Halmstad","country":"Sweden","capacity":15500}, "financials": {}, "history": {} },
+  { "id": "club_mjallby_aif", "name": "Mjällby AIF", "stadium": {"name":"Strandvallen","city":"Hällevik","country":"Sweden","capacity":7500}, "financials": {}, "history": {} },
+  { "id": "club_gais", "name": "GAIS", "stadium": {"name":"Gamla Ullevi","city":"Göteborg","country":"Sweden","capacity":18416}, "financials": {}, "history": {} },
+  { "id": "club_if_brommapojkarna", "name": "IF Brommapojkarna", "stadium": {"name":"Grimsta IP","city":"Bromma","country":"Sweden","capacity":5000}, "financials": {}, "history": {} },
+  { "id": "club_ik_sirius", "name": "IK Sirius", "stadium": {"name":"Studenternas IP","city":"Uppsala","country":"Sweden","capacity":6000}, "financials": {}, "history": {} },
+  { "id": "club_ifk_varnamo", "name": "IFK Värnamo", "stadium": {"name":"Finnvedsvallen","city":"Värnamo","country":"Sweden","capacity":5000}, "financials": {}, "history": {} },
+  { "id": "club_degerfors_if", "name": "Degerfors IF", "stadium": {"name":"Stora Valla","city":"Degerfors","country":"Sweden","capacity":12500}, "financials": {}, "history": {} },
+  { "id": "club_osters_if", "name": "Östers IF", "stadium": {"name":"Myresjöhus Arena","city":"Växjö","country":"Sweden","capacity":12000}, "financials": {}, "history": {} }
+]

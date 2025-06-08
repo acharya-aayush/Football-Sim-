@@ -1,0 +1,14 @@
+[
+  { "id": "club_fc_copenhagen", "name": "FC Copenhagen", "stadium": {"name":"Parken Stadium","city":"Copenhagen","country":"Denmark","capacity":38065}, "financials": {}, "history": {} },
+  { "id": "club_fc_midtjylland", "name": "FC Midtjylland", "stadium": {"name":"MCH Arena","city":"Herning","country":"Denmark","capacity":11800}, "financials": {}, "history": {} },
+  { "id": "club_brondby", "name": "Brøndby IF", "stadium": {"name":"Brøndby Stadium","city":"Brøndby","country":"Denmark","capacity":29000}, "financials": {}, "history": {} },
+  { "id": "club_fc_nordsjaelland", "name": "FC Nordsjælland", "stadium": {"name":"Right to Dream Park","city":"Farum","country":"Denmark","capacity":10300}, "financials": {}, "history": {} },
+  { "id": "club_randers_fc", "name": "Randers FC", "stadium": {"name":"Cepheus Park","city":"Randers","country":"Denmark","capacity":10300}, "financials": {}, "history": {} },
+  { "id": "club_aab", "name": "AaB", "stadium": {"name":"Aalborg Portland Park","city":"Aalborg","country":"Denmark","capacity":13797}, "financials": {}, "history": {} },
+  { "id": "club_agf", "name": "AGF", "stadium": {"name":"Ceres Park","city":"Aarhus","country":"Denmark","capacity":19433}, "financials": {}, "history": {} },
+  { "id": "club_silkeborg_if", "name": "Silkeborg IF", "stadium": {"name":"JYSK Park","city":"Silkeborg","country":"Denmark","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_vejle_bk", "name": "Vejle BK", "stadium": {"name":"Vejle Stadium","city":"Vejle","country":"Denmark","capacity":10418}, "financials": {}, "history": {} },
+  { "id": "club_lyngby_bk", "name": "Lyngby BK", "stadium": {"name":"Lyngby Stadium","city":"Lyngby","country":"Denmark","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_sonderjyske", "name": "SønderjyskE", "stadium": {"name":"Sydbank Park","city":"Haderslev","country":"Denmark","capacity":10000}, "financials": {}, "history": {} },
+  { "id": "club_viborg_ff", "name": "Viborg FF", "stadium": {"name":"Energi Viborg Arena","city":"Viborg","country":"Denmark","capacity":9566}, "financials": {}, "history": {} }
+]

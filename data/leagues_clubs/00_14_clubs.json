@@ -1,0 +1,210 @@
+[
+  {
+    "id": "01_13",
+    "name": "RSC Anderlecht",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Constant Vanden Stock Stadium",
+      "city": "Anderlecht",
+      "country": "Belgium",
+      "capacity": 21500
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_14",
+    "name": "Royal Antwerp FC",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Bosuilstadion",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "capacity": 16144
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_15",
+    "name": "Beerschot VA",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Olympisch Stadion",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "capacity": 12771
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_16",
+    "name": "Cercle Brugge",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Jan Breydel Stadium",
+      "city": "Bruges",
+      "country": "Belgium",
+      "capacity": 29042
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_17",
+    "name": "Sporting Charleroi",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Stade du Pays de Charleroi",
+      "city": "Charleroi",
+      "country": "Belgium",
+      "capacity": 14000
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_18",
+    "name": "Club Brugge KV",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Jan Breydel Stadium",
+      "city": "Bruges",
+      "country": "Belgium",
+      "capacity": 29042
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_19",
+    "name": "FCV Dender EH",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Van Roystadion",
+      "city": "Denderleeuw",
+      "country": "Belgium",
+      "capacity": 6429
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_20",
+    "name": "KRC Genk",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Cegeka Arena",
+      "city": "Genk",
+      "country": "Belgium",
+      "capacity": 24956
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_21",
+    "name": "KAA Gent",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Planet Group Arena",
+      "city": "Ghent",
+      "country": "Belgium",
+      "capacity": 20000
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_22",
+    "name": "KV Kortrijk",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Guldensporen Stadion",
+      "city": "Kortrijk",
+      "country": "Belgium",
+      "capacity": 9399
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_23",
+    "name": "KV Mechelen",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "AFAS-stadion Achter de Kazerne",
+      "city": "Mechelen",
+      "country": "Belgium",
+      "capacity": 16700
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_24",
+    "name": "Oud-Heverlee Leuven",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Den Dreef",
+      "city": "Leuven",
+      "country": "Belgium",
+      "capacity": 10000
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_25",
+    "name": "Sint-Truidense VV",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Stayen",
+      "city": "Sint-Truiden",
+      "country": "Belgium",
+      "capacity": 14600
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_26",
+    "name": "Standard Liège",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Stade Maurice Dufrasne",
+      "city": "Liège",
+      "country": "Belgium",
+      "capacity": 30023
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_27",
+    "name": "Union Saint-Gilloise",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Stade Joseph Marien",
+      "city": "Brussels",
+      "country": "Belgium",
+      "capacity": 9400
+    },
+    "financials": {},
+    "history": {}
+  },
+  {
+    "id": "01_28",
+    "name": "KVC Westerlo",
+    "league_id": "00_14",
+    "stadium": {
+      "name": "Het Kuipje",
+      "city": "Westerlo",
+      "country": "Belgium",
+      "capacity": 8035
+    },
+    "financials": {},
+    "history": {}
+  }
+]

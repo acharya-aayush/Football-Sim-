@@ -1,0 +1,128 @@
+[
+  {
+    "id": "01_229",
+    "name": "Albacete BP",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_230",
+    "name": "Burgos CF",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_231",
+    "name": "CD Castellón",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_232",
+    "name": "CD Eldense",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_233",
+    "name": "CD Mirandés",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_234",
+    "name": "CD Tenerife",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_235",
+    "name": "Córdoba CF",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_236",
+    "name": "Elche CF",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_237",
+    "name": "FC Cartagena",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_238",
+    "name": "Granada CF",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_239",
+    "name": "Levante UD",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_240",
+    "name": "Málaga CF",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_241",
+    "name": "R. Racing Club",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_242",
+    "name": "Racing Club Ferrol",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_243",
+    "name": "RC Deportivo",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_244",
+    "name": "Real Oviedo",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_429",
+    "name": "Real Sporting",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_246",
+    "name": "Real Zaragoza",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_247",
+    "name": "SD Eibar",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_248",
+    "name": "SD Huesca",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  },
+  {
+    "id": "01_249",
+    "name": "UD Almería",
+    "country_code": "ESP",
+    "league_id": "00_6"
+  }
+]

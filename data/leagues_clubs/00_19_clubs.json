@@ -1,0 +1,602 @@
+[
+  {
+    "id": "01_1",
+    "name": "Red Bull Salzburg",
+    "nickname": "Die Roten Bullen",
+    "established_year": 1933,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Red Bull Arena",
+      "city": "Salzburg",
+      "country": "Austria",
+      "capacity": 30188
+    },
+    "financials": {
+      "status": "Wealthy",
+      "transfer_budget_initial": 40000000,
+      "wage_budget_weekly_total": 800000,
+      "annual_revenue_approx": 100000000,
+      "annual_expenses_approx": 85000000,
+      "sponsorship_value_annual": 40000000
+    },
+    "history": {
+      "league_titles_domestic": 17,
+      "domestic_cup_wins": 10,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Champions League group stage appearances",
+        "Europa League semi-finalists (2017-18)",
+        "Consecutive Austrian Bundesliga titles (2013-2023)"
+      ],
+      "legendary_player_names": [
+        "Marc Janko",
+        "Andreas Ulmer",
+        "Erling Haaland"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Very High"
+    },
+    "attributes": {
+      "reputation": 75,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Large",
+      "fan_morale_default": 75,
+      "youth_academy_rating": 17,
+      "training_facilities_rating": 17
+    }
+  },
+  {
+    "id": "01_2",
+    "name": "SK Sturm Graz",
+    "nickname": "Die Schwoazn",
+    "established_year": 1909,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Merkur Arena",
+      "city": "Graz",
+      "country": "Austria",
+      "capacity": 16364
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 15000000,
+      "wage_budget_weekly_total": 300000,
+      "annual_revenue_approx": 30000000,
+      "annual_expenses_approx": 25000000,
+      "sponsorship_value_annual": 8000000
+    },
+    "history": {
+      "league_titles_domestic": 3,
+      "domestic_cup_wins": 5,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Champions League group stage (2000-01, 2023-24)",
+        "Ivica Osim's legendary managerial era",
+        "Recent Austrian Bundesliga triumph (2023-24)"
+      ],
+      "legendary_player_names": [
+        "Ivica Vastic",
+        "Mario Haas",
+        "Hannes Reinmayr"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 70,
+      "ambition_level": "Challenge for Title",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 70,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 14
+    }
+  },
+  {
+    "id": "01_3",
+    "name": "SK Rapid Wien",
+    "nickname": "Die Grün-Weißen",
+    "established_year": 1899,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Allianz Stadion",
+      "city": "Vienna",
+      "country": "Austria",
+      "capacity": 28000
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 12000000,
+      "wage_budget_weekly_total": 250000,
+      "annual_revenue_approx": 25000000,
+      "annual_expenses_approx": 22000000,
+      "sponsorship_value_annual": 7000000
+    },
+    "history": {
+      "league_titles_domestic": 32,
+      "domestic_cup_wins": 14,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "European Cup finalists (1961)",
+        "UEFA Cup Winners' Cup finalists (1985, 1996)",
+        "Most titles in Austrian football"
+      ],
+      "legendary_player_names": [
+        "Hans Krankl",
+        "Steffen Hofmann",
+        "Peter Schöttel"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 68,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Large",
+      "fan_morale_default": 65,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_4",
+    "name": "FK Austria Wien",
+    "nickname": "Die Veilchen",
+    "established_year": 1911,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Generali Arena",
+      "city": "Vienna",
+      "country": "Austria",
+      "capacity": 17600
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 10000000,
+      "wage_budget_weekly_total": 220000,
+      "annual_revenue_approx": 20000000,
+      "annual_expenses_approx": 18000000,
+      "sponsorship_value_annual": 6000000
+    },
+    "history": {
+      "league_titles_domestic": 24,
+      "domestic_cup_wins": 27,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "European Cup Winners' Cup finalists (1978)",
+        "UEFA Cup semi-finalists (1983)",
+        "Multiple European group stage appearances"
+      ],
+      "legendary_player_names": [
+        "Herbert Prohaska",
+        "Toni Polster",
+        "David Alaba"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "High"
+    },
+    "attributes": {
+      "reputation": 65,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 14,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_5",
+    "name": "LASK",
+    "nickname": "Die Athletiker",
+    "established_year": 1908,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Raiffeisen Arena",
+      "city": "Linz",
+      "country": "Austria",
+      "capacity": 19080
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 8000000,
+      "wage_budget_weekly_total": 180000,
+      "annual_revenue_approx": 18000000,
+      "annual_expenses_approx": 16000000,
+      "sponsorship_value_annual": 5000000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 1,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Austrian champions (1965)",
+        "Europa League Round of 16 (2019-20)",
+        "Return to European competition after long absence"
+      ],
+      "legendary_player_names": [
+        "Helmut Köglberger",
+        "Gernot Trauner",
+        "Alexander Schlager"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 25,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 62,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Medium",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 13,
+      "training_facilities_rating": 13
+    }
+  },
+  {
+    "id": "01_6",
+    "name": "Wolfsberger AC",
+    "nickname": "Die Wölfe",
+    "established_year": 1931,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Lavanttal-Arena",
+      "city": "Wolfsberg",
+      "country": "Austria",
+      "capacity": 7300
+    },
+    "financials": {
+      "status": "Stable",
+      "transfer_budget_initial": 6000000,
+      "wage_budget_weekly_total": 150000,
+      "annual_revenue_approx": 15000000,
+      "annual_expenses_approx": 13000000,
+      "sponsorship_value_annual": 4000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Europa League group stage (2019-20)",
+        "Third place in Austrian Bundesliga (2018-19)",
+        "Victories against top European clubs"
+      ],
+      "legendary_player_names": [
+        "Michael Liendl",
+        "Shon Weissman",
+        "Christopher Wernitznig"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 24,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 60,
+      "ambition_level": "European Qualification",
+      "fanbase_size": "Small",
+      "fan_morale_default": 60,
+      "youth_academy_rating": 12,
+      "training_facilities_rating": 12
+    }
+  },
+  {
+    "id": "01_7",
+    "name": "WSG Tirol",
+    "nickname": "Die Wattener",
+    "established_year": 1930,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Tivoli Stadion",
+      "city": "Innsbruck",
+      "country": "Austria",
+      "capacity": 16008
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 3000000,
+      "wage_budget_weekly_total": 100000,
+      "annual_revenue_approx": 8000000,
+      "annual_expenses_approx": 7500000,
+      "sponsorship_value_annual": 2500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Austrian Bundesliga promotion (2019)",
+        "Previously known as WSG Wattens",
+        "Survival in Austrian Bundesliga"
+      ],
+      "legendary_player_names": [
+        "Ferdinand Oswald",
+        "Lukas Hinterseer",
+        "Zlatko Dedič"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 55,
+      "ambition_level": "Mid-table Safety",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_8",
+    "name": "TSV Hartberg",
+    "nickname": "Die Blau-Weißen",
+    "established_year": 1946,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Profertil Arena Hartberg",
+      "city": "Hartberg",
+      "country": "Austria",
+      "capacity": 4500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 90000,
+      "annual_revenue_approx": 7000000,
+      "annual_expenses_approx": 6500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Austrian Bundesliga promotion (2018)",
+        "European qualification playoff appearance",
+        "Survival in Austrian top flight despite small budget"
+      ],
+      "legendary_player_names": [
+        "Dario Tadić",
+        "Rene Swete",
+        "Jürgen Heil"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 53,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_9",
+    "name": "SC Rheindorf Altach",
+    "nickname": "Die Altacher",
+    "established_year": 1929,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Cashpoint Arena",
+      "city": "Altach",
+      "country": "Austria",
+      "capacity": 8500
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2500000,
+      "wage_budget_weekly_total": 90000,
+      "annual_revenue_approx": 7000000,
+      "annual_expenses_approx": 6500000,
+      "sponsorship_value_annual": 2000000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "First Austrian Bundesliga promotion (2014)",
+        "Europa League qualification playoffs (2015)",
+        "Established position in Austrian top flight"
+      ],
+      "legendary_player_names": [
+        "Martin Kobras",
+        "Emanuel Schreiner",
+        "Hannes Aigner"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 53,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 10
+    }
+  },
+  {
+    "id": "01_10",
+    "name": "FC Blau-Weiß Linz",
+    "nickname": "Die Blau-Weißen",
+    "established_year": 1997,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Hofmann Personal Stadion",
+      "city": "Linz",
+      "country": "Austria",
+      "capacity": 5595
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 80000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 1500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Recent Austrian Bundesliga promotion",
+        "Second team in Linz after LASK",
+        "Steady rise through Austrian league system"
+      ],
+      "legendary_player_names": [
+        "Fabio Strauss",
+        "Bernhard Janeczek",
+        "Florian Templ"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_11",
+    "name": "SK Austria Klagenfurt",
+    "nickname": "Die Violetten",
+    "established_year": 2007,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Wörthersee Stadion",
+      "city": "Klagenfurt",
+      "country": "Austria",
+      "capacity": 29900
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 80000,
+      "annual_revenue_approx": 6000000,
+      "annual_expenses_approx": 5500000,
+      "sponsorship_value_annual": 1500000
+    },
+    "history": {
+      "league_titles_domestic": 0,
+      "domestic_cup_wins": 0,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Austrian Bundesliga promotion (2021)",
+        "Successor of former FC Kärnten",
+        "Establishing presence in top flight"
+      ],
+      "legendary_player_names": [
+        "Thorsten Mahrer",
+        "Kosmas Gkezos",
+        "Patrick Greil"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium-Low"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 9,
+      "training_facilities_rating": 9
+    }
+  },
+  {
+    "id": "01_12",
+    "name": "Grazer AK",
+    "nickname": "Die Rotjacken",
+    "established_year": 1902,
+    "country_code": "AUT",
+    "league_id": "00_19",
+    "stadium": {
+      "name": "Merkur Arena",
+      "city": "Graz",
+      "country": "Austria",
+      "capacity": 16364
+    },
+    "financials": {
+      "status": "Modest",
+      "transfer_budget_initial": 2000000,
+      "wage_budget_weekly_total": 70000,
+      "annual_revenue_approx": 5000000,
+      "annual_expenses_approx": 4500000,
+      "sponsorship_value_annual": 1500000
+    },
+    "history": {
+      "league_titles_domestic": 1,
+      "domestic_cup_wins": 4,
+      "continental_cup_wins": 0,
+      "notable_achievements": [
+        "Austrian champions (2004)",
+        "Return to top flight after bankruptcy",
+        "Long tradition in Austrian football"
+      ],
+      "legendary_player_names": [
+        "Mario Haas",
+        "Stephan Kölly",
+        "René Aufhauser"
+      ]
+    },
+    "squad_meta": {
+      "target_squad_size": 23,
+      "key_player_ids": [],
+      "youth_development_focus": "Medium"
+    },
+    "attributes": {
+      "reputation": 50,
+      "ambition_level": "Avoid Relegation",
+      "fanbase_size": "Small",
+      "fan_morale_default": 50,
+      "youth_academy_rating": 10,
+      "training_facilities_rating": 9
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "11_2718",
+    "full_name": "Anders Nielsen",
+    "nationality": "Denmark",
+    "age": 28,
+    "position": "GK",
+    "overall_rating": 82,
+    "potential_rating": 85,
+    "form": 8,
+    "morale": 7,
+    "energy": 10,
+    "traits": [],
+    "playing_style": "",
+    "injury_proneness": 2,
+    "leadership": 7,
+    "status": "Available"
+  },
+  {
+    "id": "11_2719",
+    "full_name": "Christian Andersen",
+    "nationality": "Denmark",
+    "age": 24,
+    "position": "GK",
+    "overall_rating": 75,
+    "potential_rating": 83,
+    "form": 7,
+    "morale": 8,
+    "energy": 10,
+    "traits": [],
+    "playing_style": "",
+    "injury_proneness": 1,
+    "leadership": 4,
+    "status": "Available"
+  },
+  {
+    "id": "11_2720",
+    "full_name": "Mikkel Larsen",
+    "nationality": "Denmark",
+    "age": 20,
+    "position": "GK",
+    "overall_rating": 68,
+    "potential_rating": 81,
+    "form": 6,
+    "morale": 9,
+    "energy": 10,
+    "traits": [],
+    "playing_style": "",
+    "injury_proneness": 1,
+    "leadership": 2,
+    "status": "Available"
+  }
+]
